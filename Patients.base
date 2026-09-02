@@ -1,0 +1,72 @@
+filters:
+  and:
+    - file.ext == "md"
+    - species != null
+
+properties:
+  note.species:
+    displayName: Species
+  note.intake_date:
+    displayName: Intake
+  note.release_date:
+    displayName: Released
+  note.intake_age:
+    displayName: Age at intake
+  note.disposition:
+    displayName: Disposition
+
+views:
+  - type: table
+    name: In care
+    filters:
+      and:
+        - disposition == "in care"
+    order:
+      - file.name
+      - note.species
+      - note.sex
+      - note.intake_date
+      - note.intake_age
+    sort:
+      - property: note.intake_date
+        direction: DESC
+
+  - type: table
+    name: Released
+    filters:
+      and:
+        - disposition == "released"
+    order:
+      - file.name
+      - note.species
+      - note.intake_date
+      - note.release_date
+    sort:
+      - property: note.release_date
+        direction: DESC
+
+  - type: table
+    name: Did not survive
+    filters:
+      and:
+        - 'disposition == "died" || disposition == "euthanized" || disposition == "DOA"'
+    order:
+      - file.name
+      - note.species
+      - note.intake_date
+      - note.departure_date
+      - note.disposition
+    sort:
+      - property: note.departure_date
+        direction: DESC
+
+  - type: table
+    name: All patients
+    order:
+      - file.name
+      - note.species
+      - note.disposition
+      - note.intake_date
+    sort:
+      - property: note.intake_date
+        direction: DESC
