@@ -1,20 +1,31 @@
 ---
-Species: fox squirrel
+name: Rain
+species: Fox Squirrel
 sex: female
-rescue date: 2024.03.02
-arrival date: 2024.03.02
-departure date: 
-release date: 
-arrival age: 6 months
-departure age: 
-ID:
+disposition: in care
+intake_date: 2024-03-02
+rescue_date: 2024-03-02
+departure_date:
+release_date:
+intake_age: 6 months
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
 
----
-
-
----
-## Log
+## Notes
 
 Diagnosis:  [[Head Injury]]
 
@@ -64,7 +75,6 @@ Rain continues to improve in her activity and eating on her own.  Although her f
 
 I was a bit dismayed in that she's lost weight since the last time I weighed her two days ago, so I tried to up her yogurt to 40cc, but she only really wanted 20cc.  She had just eaten two slices of apple though.  I am optimistic that she'll continue to get better and hopeful to see her weight turn around over the next couple of weigh-ins.  
 
-
 2024.03.13
 
 Well, Rain seems to love Avocado now. She still ate some apple and yogurt, and even a little bit of strawberry, but avocado- yum.  
@@ -74,7 +84,6 @@ The thing I was most pleased about is that she gained 34 grams over the last two
 She seemed to be pretty active today, even crawling out on to me a couple of times. Still no signs of aggression towards me.  Tonight, as I've been doing nightly, I was able to easily pick her up and place her in the nesting box. She even let be pet her head a bit.  Even while weighing her, she didn't put up any resistance. It's hard to know if that's a good sign. I want her to trust me, but I also don't want this to be a sign of a healing regression. 
 
 I pray she recovers fully. 
-
 
 2025.03.14
 
@@ -116,7 +125,6 @@ Rain has been doing well.  She is quite active and likes coming out of her cage 
 
 The one thing I've not seen her do is sit up and eat.  It just occurred to me because I was watching Pepper sit up and eat in Rain's cage and I thought it was her at first.  
 
-
 2024.08.02
 
 Earlier this week we moved Rain out to Pippi's cage to see how she would do.  At first she seemed okay, but hesitant.  I needed to tuck her into the hammock each night as she didn't seem to know to do it herself like in the squirrel room.  I didn't see her eat or drink while out there (but I wasn't watching her much).
@@ -141,19 +149,24 @@ She seems to almost be back to normal.  For the last 3-4 days she's been eating 
 
 She's not clucking and stuff like she was before, so she's either not quite there or she's lost some confidence.  
 
-
 2025.02.01 - Rain's eyelid is irritated and red. She's had missing fur around her eyes for as long as I remember. But today it is red.  Linda suggested some antibiotic eyedrops, which I will start tomorrow.  
 
 ![[IMG_2088.jpeg]]
 
 2025.02.02 - this morning I checked on her eye and noticed it no longer appears red or irritated.  So I decided to postpone the eye drops. 
 
-
 2025.12.15 - Rain has become buddies with [[Buckeye]].  They are routinely next to each other shoulder to shoulder.  Yesterday Debbie mentioned that she saw Rain with a nut down on the cage.  Moments later Buckeye had the nut up on the squirrel tree.  He was in the same spot as before, it's like Rain brought the nut up to him.  
 
 She's been doing really well as of late.  Seemingly become more a more like her pre-injury self.  We think having bonded with Buckeye has contributed to her continued improvement.  Time has also been helpful.  This is an example of how long a brain injury may take to heal.  
 
-We're not sure that she's releasable in her current state, but it's clear that her and Buckeye will need to stay together.  
+We're not sure that she's releasable in her current state, but it's clear that her and Buckeye will need to stay together.
 
----
-Siblings:
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

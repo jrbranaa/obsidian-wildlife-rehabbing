@@ -1,23 +1,35 @@
 ---
-Species: Chipmunk
+name: Mulder
+species: Chipmunk
 sex: male
-rescue date: 
-arrival date: 2024.07.18
-departure date: 2024.08.27
-release date: 2024.08.27
-arrival age: 
-departure age: 
-ID:
+disposition: released
+intake_date: 2024-07-18
+rescue_date:
+departure_date: 2024-08-27
+release_date: 2024-08-27
+intake_age:
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings: "[[Scully]]"
+cagemates:
+other:
 ---
 
-
----
-## Log
+## Notes
 
 ## 2024.08.27
 
 Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and released them by trout creek next to Pioneer Trail.  Unfortunately they only do hard releases so we figured it might as well be us releasing them.  
-
 
 ### 2024.07.22
 
@@ -39,8 +51,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 - 27g
 - 2cc
 
-
-
 ### 2024.07.21
 
 2:1 32/40
@@ -60,7 +70,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 2320
 - 28g
 - 2cc
-
 
 ### 2024.07.20
 
@@ -94,8 +103,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 - 27g
 - 1.5cc
 
-
-
 ### 2024.07.19
 
 3:1 32/40
@@ -116,7 +123,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 - 27g
 - 1.5cc
 
-
 2230
 
 ### 2024.07.18
@@ -134,8 +140,14 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 
 2130
 - 1.5cc
----
 ![[IMG_1545 1.jpeg]]
 
----
-Siblings: [[Scully]]
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

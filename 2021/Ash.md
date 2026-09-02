@@ -1,41 +1,40 @@
 ---
-Species: Western gray squirrel
+name: Ash
+species: Western Gray Squirrel
 sex: male
-rescue date:
-arrival date:
-departure date:
-release date:
-arrival age:
-departure age:
-ID:
+disposition: in care
+intake_date:
+rescue_date:
+departure_date:
+release_date:
+intake_age:
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
+## Notes
 
----
-
-
----
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
 
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-|      |           |             |         |          |       |
+## Medications
 
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
 
-
----
-Siblings:
-#squirrelchronicles/volume1 
+#squirrelchronicles/volume1

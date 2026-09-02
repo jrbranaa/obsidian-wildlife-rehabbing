@@ -1,40 +1,39 @@
 ---
-Species: 
-sex: 
-rescue date: 
-arrival date: 
-departure date: 
-release date: 
-arrival age: 4 weeks
-departure age: 
-ID:
+name: Lucette
+species:
+sex: unknown
+disposition: in care
+intake_date:
+rescue_date:
+departure_date:
+release_date:
+intake_age: 4 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
+## Notes
 
----
-
-
----
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-08-11 | 84 |  |  |  |  |
 
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-| 8/11 | 84        |             |         |          |       |
+## Medications
 
-
-
----
-Siblings:
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

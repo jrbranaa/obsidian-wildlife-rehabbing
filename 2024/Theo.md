@@ -1,41 +1,35 @@
 ---
-Species: Chipmunk
+name: Theo
+species: Chipmunk
 sex: female
-rescue date: 2024.07.08
-arrival date: 2024.07.09
-departure date: 2024.08.27
-release date: 2024.08.27
-arrival age: 5 weeks
-departure age: 
-ID:
+disposition: released
+intake_date: 2024-07-09
+rescue_date: 2024-07-08
+departure_date: 2024-08-27
+release_date: 2024-08-27
+intake_age: 5 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
 
----
-## Rescue Info
-
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
-
-![[image 3.jpg]]
----
+## Notes
 
 Linda dropped Theo off 2024.07.09 late afternoon. She seems healthy, active, and curious.
 
 Keep her on 3:1 for another day and move her to 2:1 4x day. 
-
-
-
----
-## Log
-
 
 ## 2024.08.27
 
@@ -49,15 +43,9 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 1500
 - 6cc
 
-
 2200
 - 103g
 - 6.0
-
-
-
-
-
 
 ### 2024.07.21
 
@@ -67,14 +55,9 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 1500
 - 6cc
 
-
 2200
 - 98g
 - 6.0
-
-
-
-
 
 ### 2024.07.20
 
@@ -84,7 +67,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 1530
 - 5.5cc
 
-
 2300
 - 92g
 - 5.5cc
@@ -92,7 +74,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 ### 2024.07.19
 
 2:1 20/50
-
 
 0730
 - 3cc
@@ -106,7 +87,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 - 88g
 - 5cc
 
-
 ### 2024.07.18
 
 2:1 20/50
@@ -117,7 +97,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 
 1330
 - 4cc
-
 
 2130
 - 84g
@@ -142,7 +121,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 
 ### 2024.07.16
 
-
 0730
 - 4cc
 
@@ -155,7 +133,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 2150
 - 71g
 - 5cc
-
 
 ### 2024.07.15
 
@@ -235,7 +212,6 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 - 41g
 - 2.5cc 3:1 20/50
 
-
 ### 2024.07.09
 
 Every 4 hours (5x day)
@@ -247,13 +223,12 @@ Every 4 hours (5x day)
 23:00
 - 2.5cc 3:1 20/50
 
+## Log
 
----
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
 
+## Medications
 
----
-
-
-
-
-
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

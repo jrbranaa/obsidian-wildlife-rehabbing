@@ -1,47 +1,35 @@
 ---
-Species: California Ground Squirrel
+name: Jade
+species: California Ground Squirrel
 sex: female
-rescue date: 2025.06.18
-arrival date: 2025.06.18
-departure date: 
-release date: 
-arrival age: 7 weeks
-departure age: 
-ID:
+disposition: in care
+intake_date: 2025-06-18
+rescue_date: 2025-06-18
+departure_date:
+release_date:
+intake_age: 7 weeks
+departure_age:
+id:
+release_cage:
+address_found: 629 Tanbark Oak Ct, EDH
+circumstances: found on ground
+treatment_provided:
+food_water_provided: Water and ssed
+updates_desired:
+contact_name: Vidy Tisdar
+contact_phone: 916.539.9131
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other: actually found late in the day on the 17th
 ---
----
-## Rescue Info
 
-Contact Name: Vidy Tisdar
-Contact Phone: 916.539.9131
-- Text Ok: 
-Contact Email:
-Address Found: 629 Tanbark Oak Ct, EDH
-Circumstances:  found on ground
-Did they provide any treatment?:
-Did the give food or water?: Water and ssed
-Updates Desired: 
-Other: actually found late in the day on the 17th
-
----
+## Notes
 
 She was very subdued when we picked her up.  She was moderately dehydrated.  Finder reported that she seemed to be paralyzed in her legs. 
 
 Upon further evaluation, she did seem to have diminished motor control in her legs, but not limp.  Tail was moving.  
-
----
-## Log
-
-
-| Date       | Weight(g) | Formula Qty | Formula      | Feedings  | Notes                                   |
-| ---------- | --------- | ----------- | ------------ | --------- | --------------------------------------- |
-| 6/18       | 141       | 8cc         | Electrolytes | 2 x       |                                         |
-| 6/19       | -         | 8cc         | 4:1 20/50    | 4 x daily | slow eater, but did finish all feedings |
-| 6/20       |           | 8cc         | 3:1 20/50    | 4 x daily | Did not eat last feeding                |
-| 6/21       |           | 8cc         | 2:1 20/50    | 4 x daily | Ate about 4cc first feeding             |
-| 2025.06.24 | 187       |             |              |           |                                         |
-
-
 
 2025.06.20: Showing signs of improved motor response in legs.  She's not dragging at all.  
 
@@ -51,6 +39,17 @@ Upon further evaluation, she did seem to have diminished motor control in her le
 
 22:45 Started her on .12cc of [[Dexamethasone|Dex]] in left leg
 
+## Log
 
----
-Siblings:
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-06-18 | 141 | 8cc | Electrolytes | 2 x |  |
+| 2025-06-19 | - | 8cc | 4:1 20/50 | 4 x daily | slow eater, but did finish all feedings |
+| 2025-06-20 |  | 8cc | 3:1 20/50 | 4 x daily | Did not eat last feeding |
+| 2025-06-21 |  | 8cc | 2:1 20/50 | 4 x daily | Ate about 4cc first feeding |
+| 2025-06-24 | 187 |  |  |  |  |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

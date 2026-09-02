@@ -1,43 +1,43 @@
 ---
-Species: fox squirrel
+name: Giselle
+species: Fox Squirrel
 sex: female
-rescue date: 2025.08.11
-arrival date: 2025.08.11
-departure date: 
-release date: 
-arrival age: 6 weeks
-departure age: 
-ID:
+disposition: in care
+intake_date: 2025-08-11
+rescue_date: 2025-08-11
+departure_date:
+release_date:
+intake_age: 6 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
-
----
-
-
----
-## Log
-
-
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-| 8/11 | 91        |             |         |          |       |
+## Notes
 
 2025.08.11: apparently fell out of drey and hurt his snout.  Had bloody nose.
 
-
 ![[image 58.jpg]]
 
----
-Siblings:
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-08-11 | 91 |  |  |  |  |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

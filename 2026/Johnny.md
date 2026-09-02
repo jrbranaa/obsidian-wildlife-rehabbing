@@ -1,30 +1,31 @@
 ---
-Species: California Ground Squirrel
+name: Johnny
+species: California Ground Squirrel
 sex: male
-rescue date: 2026.07.04
-arrival date: 2026.07.05
-departure date: 2026.07.05
-release date:
-arrival age: 7 weeks
-departure age:
-ID:
-Address Found:
-Circumstances:
-Treatment Provided:
-Food/Water Provided:
-Updates Desired:
-Other:
+disposition: died
+intake_date: 2026-07-05
+rescue_date: 2026-07-04
+departure_date: 2026-07-05
+release_date:
+intake_age: 7 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
+
 ## Notes
-
----
-## Log
-
-
-| Date | Weight(g) | Formula Qty | Formula     | Feedings | Notes                |
-| ---- | --------- | ----------- | ----------- | -------- | -------------------- |
-| 7/5  | 75        | 6cc         | Electrostat | 2        | Gasping when feeding |
 
 2026.07.05:
 
@@ -36,10 +37,15 @@ Minor visible wound on abdomen.  Hind quarter paralysis.
 
 21:00- .066cc baytril due to cat as source of injury and lethargy
 
-23:39- electrostat.  Shorty after drinking a bit and gasping he passed in my hand.  RIP Johnny. 
+23:39- electrostat.  Shorty after drinking a bit and gasping he passed in my hand.  RIP Johnny.
 
+## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2026-07-05 | 75 | 6cc | Electrostat | 2 | Gasping when feeding |
 
+## Medications
 
----
-Siblings:
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

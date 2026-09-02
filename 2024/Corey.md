@@ -1,33 +1,47 @@
 ---
-Species: fox squirrel
+name: Corey
+species: Fox Squirrel
 sex: female
-rescue date: 
-arrival date: 2024.08.28
-departure date: 2025.06.19
-release date: 
-arrival age: 6 weeks
-departure age: 
-ID:
+disposition: released
+intake_date: 2024-08-28
+rescue_date:
+departure_date: 2025-06-19
+release_date:
+intake_age: 6 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings: "[[Madison]]"
+cagemates:
+other:
 ---
 
+## Notes
 
----
 ## Log
-
 
 | Date       | Weight | Food             | Notes                                |
 | ---------- | ------ | ---------------- | ------------------------------------ |
-| 2024.08.29 | 116g   | 6cc 20/50 x 5    |                                      |
-| 2024.08.30 | 120g   | 6cc 20/50 x 5    |                                      |
-| 2024.09.01 | 131g   | 8cc 20/50 x 4    |                                      |
-| 2024.09.07 | 176g   | 8cc 20/50 x 4    |                                      |
-| 2024.09.08 |        | 10.5cc 20/50 x 4 |                                      |
-| 2024.09.11 | 202    |                  |                                      |
-| 2024.09.13 | 215    |                  |                                      |
-| 2024.09.16 | 238*   |                  | Wasn't standing still while weighing |
-| 2024.09.19 | 251    | 15cc x 3         |                                      |
+| 2024-08-29 | 116g | 6cc 20/50 x 5 |  |
+| 2024-08-30 | 120g | 6cc 20/50 x 5 |  |
+| 2024-09-01 | 131g | 8cc 20/50 x 4 |  |
+| 2024-09-07 | 176g | 8cc 20/50 x 4 |  |
+| 2024-09-08 |  | 10.5cc 20/50 x 4 |  |
+| 2024-09-11 | 202 |  |  |
+| 2024-09-13 | 215 |  |  |
+| 2024-09-16 | 238* |  | Wasn't standing still while weighing |
+| 2024-09-19 | 251 | 15cc x 3 |  |
 
+## Medications
 
-
----
-Siblings: [[Madison]]
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

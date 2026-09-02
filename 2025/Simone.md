@@ -1,46 +1,46 @@
 ---
-Species: fox squirrel
+name: Simone
+species: Fox Squirrel
 sex: female
-rescue date:
-arrival date: 2025.07.27
-departure date: 2026.04.29
-release date:
-arrival age: 3 weeks
-departure age:
-ID:
+disposition: released
+intake_date: 2025-07-27
+rescue_date:
+departure_date: 2026-04-29
+release_date:
+intake_age: 3 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings: "[[Pierre]], [[Sophie]]"
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
+## Notes
 
----
+It would appear that she has the genetic mutation making her black.
 
-It would appear that she has the genetic mutation making her black. 
-
----
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-07-31 | 54 |  |  |  |  |
+| 2025-08-01 | 56 |  |  |  |  |
+| 2025-08-03 | 64 |  |  |  |  |
+| 2025-08-04 | 67 |  |  |  |  |
+| 2025-08-07 | 86 |  |  |  |  |
+| 2025-08-11 | 94 |  |  |  |  |
 
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-| 7/31 | 54        |             |         |          |       |
-| 8/1  | 56        |             |         |          |       |
-| 8/3  | 64        |             |         |          |       |
-| 8/4  | 67        |             |         |          |       |
-| 8/7  | 86        |             |         |          |       |
-| 8/11 | 94        |             |         |          |       |
+## Medications
 
-
-
----
-Siblings: [[Pierre]], [[Sophie]]
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

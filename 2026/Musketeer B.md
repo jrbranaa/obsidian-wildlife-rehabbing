@@ -1,32 +1,38 @@
 ---
-Species: Douglas
+name: Musketeer B
+species: Douglas Squirrel
 sex: male
-rescue date:
-arrival date:
-departure date:
-release date:
-arrival age:
-departure age:
-ID:
-Address Found:
-Circumstances:
-Treatment Provided:
-Food/Water Provided:
-Updates Desired:
-Other:
+disposition: in care
+intake_date:
+rescue_date:
+departure_date:
+release_date:
+intake_age:
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings: "[[Musketeer A]] [[Musketeer B]]"
+cagemates:
+other:
 ---
----
+
 ## Notes
 
----
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
 
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-|      |           |             |         |          |       |
+## Medications
 
-
-
----
-Siblings: [[Musketeer A]] [[Musketeer B]]
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

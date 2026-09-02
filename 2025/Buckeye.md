@@ -1,58 +1,34 @@
 ---
-Species: fox squirrel
+name: Buckeye
+species: Fox Squirrel
 sex: male
-rescue date: 2025.04.16
-arrival date: 2025.04.16
-departure date: 2026.06.22
-release date:
-arrival age: 6 weeks
-departure age: 1.5 years
-ID:
+disposition: died
+intake_date: 2025-04-16
+rescue_date: 2025-04-16
+departure_date: 2026-06-22
+release_date:
+intake_age: 6 weeks
+departure_age: 1.5 years
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name: 
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
+## Notes
 
----
 Diagnosis/Protocols: 
 
----
-## Log
-
-
-| Date       | Weight(g) | Formula Qty | Formula                | Feedings    | Notes                                     |
-| ---------- | --------- | ----------- | ---------------------- | ----------- | ----------------------------------------- |
-| 2025.04.16 | 134       | 6cc         | Electastat, 4:1 20/50  |             | All feedings he ate well<br>.25mL metacam |
-| 2025.04.17 | 150       | 6cc         | 4:1 20/50              | 7:45, 12:00 | .25mL metacam                             |
-| 2025.04.18 | 159       | 7.5cc       | 3:1 20/50              |             | .3mL metacam                              |
-| 1025.04.19 |           |             | 2:1 20/50              |             | .3mL metacam                              |
-| 2025.04.20 | 164       | 7.5cc       |                        |             | .3mL metacam                              |
-| 2025.04.21 |           | 8cc         |                        |             | .1mL metacam                              |
-|            |           |             |                        |             |                                           |
-| 2025.04.22 | 158       |             |                        |             |                                           |
-| 2025.04.24 | 143       | 8cc         | 2:1 20/50, electrastat | X3, x1.5    | .06mL Baytril                             |
-| 2025.04.25 | 148       |             |                        |             | .03mL Baytril twice daily (11)            |
-| 2025.04.26 | 158       |             |                        |             |                                           |
-| 2025.04.27 | 163       |             |                        |             |                                           |
-| 2025.04.28 | 170       |             |                        |             |                                           |
-| 2025.04.29 | 180       |             |                        |             |                                           |
-| 2025.04.30 | 186       |             |                        |             |                                           |
-| 2025.05.01 | 197       |             |                        |             |                                           |
-| 2025.05.02 | 209       |             |                        |             |                                           |
-| 2025.05.03 |           |             |                        |             |                                           |
-| 2025.05.04 | 223       |             |                        |             |                                           |
-| 2025.05.05 | 228       |             |                        |             |                                           |
-| 2025.05.06 | 234       |             |                        |             |                                           |
 2026.06.22: RIP Buckey
 
 This afternoon I found him on the floor partially under the chair.  I thought he had passed, but he hadn't. He didn't resist getting picked up and placed in his cage. He pulled himself in his box once I placed him in the cage.  
@@ -74,7 +50,6 @@ Shortly after the above, he had what I can only describe as a seizure.   He was 
 Debbie and I spoke about and are wondering if it's MBD my chance.  I don't think he get's a complete diet being free in the room and seems like Rain may be eating much of the food. I think it would be good to get him isolated in his cage for a couple of weeks to see if the quiet and diet availability would help.  
 
 I've prepped the cage and am hoping that he goes in on his own to eat or drink like usual. I will just then close him in.  After his seizure I am trying to minimize stress by not catching him. We'll see. 
-
 
 2026.04.10:  over the course of the last couple months he's had a wound show up on the left side of his abdomen/chest.  The source isn't clear.  I thought it was perhaps related to him dragging himself over splintered platforms so I replaced them and covered them with fleece. 
 
@@ -98,7 +73,6 @@ All the wounds seem pretty clean and scabbing over.
 
 ![[IMG_8506.jpeg]]
 
-
 2025.12.15:  Buck is pretty much fully mobile.  I believe that his lingering hand paralysis is not impactful enough to make him non-releasable.  Over the course of the last several months, he's become quite close with [[Rain]].  They are the great squirrel love affair.  They will need to be kept together hopefully through release.  
 
 2025.05.09: Bucky has been pretty mobile for a week or so. He seems to have regained usage of all but his right arm, which although better, he doesn't really use. Especially his hand.
@@ -106,8 +80,6 @@ All the wounds seem pretty clean and scabbing over.
 2025.04.25
 
 He seemed like he was feeling better this morning.  Ate well, although slow.  He was quite active afterwards, grooming himself.  I also noticed that he was able to scratch himself with his left leg (typical rapid scratching) which I have not seen him do thus far.  His right eye seemed more open and his right arm, although still bent at the elbow, wasn't clinched so tightly to his body.   
-
-
 
 2025.04.24
 
@@ -118,7 +90,6 @@ He ate a whole pecan half at 1 in addition to his formula.  When  i weighed him 
 2025.04.22:
 
 This morning he curled hid tail up around his head, so he seems to have regained control of it. 
-
 
 2025.04.21:
 
@@ -142,9 +113,7 @@ Also fed him some water melon and avocado which he seemed to light.
 
 2025.04.19: 
 
-
 Eating pretty well this morning so far, it did seem like his bloating had gone down a little bit first thing in the morning however, it continues to be slightly bloated and feeling a bit tight to the touch. It's in kind of the right lower abdominal area. all evidences is that he is Peeing and pooping just fine so I'm not quite sure what the source of the bloating is I may be just over sensitive?
-
 
 He is also started to show some slight mobility moving around in his cage, a little bit from where I left him although his right side still seems to be weaker than his left, but it's still a good sign.
 
@@ -172,8 +141,34 @@ I suspect he got some kind of head injury.  I don't believe he has any broken li
 
 ![[IMG_2340.jpeg]]
 
-
 ![[image 48.jpg]]
----
-Siblings:
 
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-04-16 | 134 | 6cc | Electastat, 4:1 20/50 |  | All feedings he ate well<br>.25mL metacam |
+| 2025-04-17 | 150 | 6cc | 4:1 20/50 | 7:45, 12:00 | .25mL metacam |
+| 2025-04-18 | 159 | 7.5cc | 3:1 20/50 |  | .3mL metacam |
+| 1025-04-19 |  |  | 2:1 20/50 |  | .3mL metacam |
+| 2025-04-20 | 164 | 7.5cc |  |  | .3mL metacam |
+| 2025-04-21 |  | 8cc |  |  | .1mL metacam |
+| 2025-04-22 | 158 |  |  |  |  |
+| 2025-04-24 | 143 | 8cc | 2:1 20/50, electrastat | X3, x1.5 | .06mL Baytril |
+| 2025-04-25 | 148 |  |  |  | .03mL Baytril twice daily (11) |
+| 2025-04-26 | 158 |  |  |  |  |
+| 2025-04-27 | 163 |  |  |  |  |
+| 2025-04-28 | 170 |  |  |  |  |
+| 2025-04-29 | 180 |  |  |  |  |
+| 2025-04-30 | 186 |  |  |  |  |
+| 2025-05-01 | 197 |  |  |  |  |
+| 2025-05-02 | 209 |  |  |  |  |
+| 2025-05-03 |  |  |  |  |  |
+| 2025-05-04 | 223 |  |  |  |  |
+| 2025-05-05 | 228 |  |  |  |  |
+| 2025-05-06 | 234 |  |  |  |  |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

@@ -1,52 +1,33 @@
 ---
-Species: Western gray squirrel
+name: Tootsie Pop
+species: Western Gray Squirrel
 sex: female
-rescue date:
-arrival date:
-departure date:
-release date:
-arrival age: days
-departure age:
-ID:
+disposition: died
+intake_date:
+rescue_date:
+departure_date:
+release_date:
+intake_age: days
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates: "[[Lollie Pop]]"
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
-
----
-
-
----
-## Log
-
-
-| Date       | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---------- | --------- | ----------- | ------- | -------- | ----- |
-| 2026.02.25 | 141       |             |         |          |       |
-| 2026.02.26 |           |             |         |          |       |
-| 2026.03.05 | 197       |             |         |          |       |
-| 2026.03.06 | 200       |             |         |          |       |
-| 2026.03.18 | 282       |             |         |          |       |
-| 2026.03.23 | 313       |             |         |          |       |
-| 2026.03.30 | 385       |             |         |          |       |
-| 2026.04.04 | 374       |             |         |          |       |
-
-## Log
+## Notes
 
 ### 2026.04.05 RIP Tootsie
-
-
-### notes
 
 **08:30:** 
 
@@ -55,7 +36,6 @@ Hot Compress on her two abscesses
 Cleaned them both and was able express puss from both. 
 
 After eating she seemed tired so I placed her in her box. 
-
 
 **10:00:** 
 
@@ -69,14 +49,7 @@ By the time I gathered electrolytes and karo syrup she had passed.
 
 Another thing worth noting is she was very active in the middle of the night, which I thought was good sign.  
 
-
-
-
-
-
 ### 2026.04.04
-
-### notes
 
 **08:30:** abscess seems the same, hand seems about same, wrist is less swollen and less red, but it seems there is a wound now. Probably from chewing. Cleaned it off a bit and added [[Silvadene]].
 
@@ -86,7 +59,6 @@ Hot compress for 6-7 min
 Not interested in formula
 
 ![[IMG_4438.jpeg]]
-
 
 **11:00:** her swollen wrist area oozed puss since my last check on her.  I cleaned up the wound, added silvadene and loosely bandaged her. 
 
@@ -117,10 +89,7 @@ went in to check on her because she was sleeping outside her box.  She snuggled 
 
 ![[IMG_4447.jpeg]]
 
-
 ### 2026.04.03
-
-#### notes
 
 **08:30:** .14cc baytril, .20cc metacam
 
@@ -135,7 +104,6 @@ Pee'd a lot, groomed herself, and crawled back into her box.
 
 ![[IMG_4432.jpeg]]
 
-
 **15:30:** Fed her 12cc Formula.  She waddled around her cage for a few minutes and went back in her box.  
 
 Her hand seemed about the same, but her wrist was seemingly more swollen and a bit red/pink.  It didn't seem warm to the touch, but it was sensitive.  No evidence of scratch/bite/wound.  
@@ -144,12 +112,9 @@ Her hand seemed about the same, but her wrist was seemingly more swollen and a b
 
 **20:30:** 17cc formula. Rubbed her hand. Swelling of hand and wrist the same.   She was sweet and I spoke kind and loving words to her.  It was after that point that she showed interest in eating. 
 
-
 **23:45**: offered her electrostat. She wasn't interested.  Rubbed her hand some more and put her back in her cage.  She pee'd and went to bed. 
 
 ### 2026.04.02
-
-#### Notes
 
 **08:30:** 8cc formula, 3cc electorstat, 
 
@@ -180,8 +145,6 @@ last night I was exploring the possibility that she has something stuck in her m
 
 It wasn't clear how I would be able to examine due to difficulties in looking in her mouth.  However, this morning as I was awakening I had a thought - use Parker's earwax cleaner camera.  I'll need to make sure that is sterilized, but it might make it easier to see what's going on.   
 
-#### Notes
-
 **8:30:** 10cc formula (cold), 10cc electrostat (cold), 2cc apple sauce
 
 6.5 min hot compress.  She didn't fight it at all.  Closed her eyes and was really calm.  
@@ -204,12 +167,7 @@ After the scoping, I let her hang out on the floor.  She immediately squatted fo
 
 No new course of action.  Continued doing what I'm doing.  
 
-
-
 ### 2026.03.31
-
-
-#### Notes
 
 **08:30:** 10cc formula (cold), 10cc electrostat, 3cc formula (warm) 
 
@@ -246,10 +204,7 @@ I did a warm compress for 6 min.  she seems to enjoy it.
 
 When I came to get her she was sitting up.  After her feeding a compress, she was doing a bruxing-like thing but it sounds different,  almost like there was something like a nut shell in her mouth.  
 
-
 ### 2026.03.30 
-
-#### Notes
 
 **9:45:** [[Baytril]] (single high dose) [[Metacam]] (high dose) weight was 385g.
 
@@ -276,16 +231,26 @@ Moved her to a basket in the bathroom for quarantine reasons.
 
 ### 2026.02.26 
 
-#### Notes
-
 both eyes open
 
 ### 2026.02.25
 
-#### Notes
+one eye open
 
-one eye open 
+## Log
 
----
-Siblings:
-Cage Mates: [[Lollie Pop]]
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2026-02-25 | 141 |  |  |  |  |
+| 2026-02-26 |  |  |  |  |  |
+| 2026-03-05 | 197 |  |  |  |  |
+| 2026-03-06 | 200 |  |  |  |  |
+| 2026-03-18 | 282 |  |  |  |  |
+| 2026-03-23 | 313 |  |  |  |  |
+| 2026-03-30 | 385 |  |  |  |  |
+| 2026-04-04 | 374 |  |  |  |  |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

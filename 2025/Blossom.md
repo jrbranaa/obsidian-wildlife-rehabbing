@@ -1,43 +1,33 @@
 ---
-Species: Western gray squirrel
+name: Blossom
+species: Western Gray Squirrel
 sex: female
-rescue date: 2025.06.11
-arrival date: 2025.06.11
-departure date: 
-release date: 
-arrival age: Adult
-departure age: 
-ID:
+disposition: died
+intake_date: 2025-06-11
+rescue_date: 2025-06-11
+departure_date:
+release_date:
+intake_age: Adult
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
-
----
-
-
----
-## Log
-
-
-| Date       | Weight(g) | Formula Qty | Formula                                                                                  | Feedings | Notes                                                                                                                                            |
-| ---------- | --------- | ----------- | ---------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.06.11 | 802       |             | 20cc yogurt and/or apple sauce and/or Smoothie<br><br>10cc water<br><br>Plus solid foods | x 2      |                                                                                                                                                  |
-| 2025.06.23 |           |             |                                                                                          | x 3      |                                                                                                                                                  |
-| 2025.06.26 |           |             | 30cc yogurt and/or apple sauce and/or Smoothie<br><br>10cc water<br><br>Plus solid foods | x 3      | Due to her setback she's not eating solids.  Increased amount of supplemental that I am feeding her<br><br>RIP:  Passed away at roughly 22:00.   |
+## Notes
 
 2025.06.27:  Yesterday Blossom passed away in my arms after eating her food.  She took a couple of gasps an was gone.  I wish I could have done more to help her, but I am happy that I was able to make her remaining life comfortable and safe.  RIP Blossom.  
-
 
 2025.06.26: She's doing a little better seemingly as she was a little more animated while eating and she bit me pretty good while trying (unsuccessfully) to weigh her.  She was doing a strange deep beath/gasping/hiccup thing towards the end of her feeding.    
 
@@ -48,7 +38,6 @@ Other:
 After thinking about it some, I decided to start her on Baytril.  I just felt like she was showing symptoms that didn't align with just a spinal injury.  I then thought about her shivers from the other day.  I'm just hopeful that this will help her.  
 
 11:30- .7cc Dex
-
 
 16:15- .31 Baytrill full strength
 
@@ -88,7 +77,6 @@ I'm pretty sure I saw a twitch in her leg and noticed more resistance in her oth
 
 22:00- .8cc dex right lex
 
-
 2025.06.15: Fed her twice today 20cc @ 15:30 and then at 21:30.  Also gave her 10cc water x 2.
 
 22:00- .8cc dex left leg
@@ -96,7 +84,6 @@ I'm pretty sure I saw a twitch in her leg and noticed more resistance in her oth
 2025.06.14: Fed her 20cc yogurt and 10cc water.  Ate pretty willingly.  Gave her a bath as she was pretty stinky
 
 23:00- .8cc dex right leg
-
 
 2025.06.13: Fed her 20cc yogurt.  Was a bit resistant, but ate it. 
 
@@ -116,12 +103,21 @@ I suspect that she's pregnant. Her nipples are showing and she seems to have a l
 
 Decided to start her on [[Dexamethasone]]
 
-
 Gave her some electrostat ~ 20cc
 
 21:00- administered .8cc of Dex left hind leg
 
 ![[image 54.jpg]]
 
----
-Siblings:
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-06-11 | 802 |  | 20cc yogurt and/or apple sauce and/or Smoothie<br><br>10cc water<br><br>Plus solid foods | x 2 |  |
+| 2025-06-23 |  |  |  | x 3 |  |
+| 2025-06-26 |  |  | 30cc yogurt and/or apple sauce and/or Smoothie<br><br>10cc water<br><br>Plus solid foods | x 3 | Due to her setback she's not eating solids.  Increased amount of supplemental that I am feeding her<br><br>RIP:  Passed away at roughly 22:00. |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

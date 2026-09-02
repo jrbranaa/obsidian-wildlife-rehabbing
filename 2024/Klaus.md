@@ -1,15 +1,31 @@
 ---
-Species: Western gray squirrel
+name: Klaus
+species: Western Gray Squirrel
 sex: male
-rescue date: 2023.12.29
-arrival date: 2023.12.29
-departure date: 2024.01.01
-release date: 
-arrival age: 2 years
-departure age:
+disposition: died
+intake_date: 2023-12-29
+rescue_date: 2023-12-29
+departure_date: 2024-01-01
+release_date:
+intake_age: 2 years
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
 
----
+## Notes
 
 Received call from resident of diamond springs who saw a squirrel who appeared to be paralyzed.  He capturd him with a bucket by coming up from underneath him as heas trying to climb a tree. 
 
@@ -23,10 +39,6 @@ Linda came down to help assess him.
 - We attempted to give him about 20cc of electrostat at about 3:45. Most of which he dribbled out. 
 - We administered .8 cc of ... (steriod)
 
----
-## Log
-
-
 - 20231229:1900: attempted to feed 20cc of electrostat.  Most dribbled out. Tried to stimulate, but no urin (poop in basket though). Applied more neosporin to wound.  Massaged feet and pet back and tail.  Minor twitching in his back area while petting and touching him. 
 - 20231229:2230: 20cc electrostat (dribble), 20cc yogurt, .8ml DEX.  Wound looks good.  Thigh twitching when touching tail. 
 - 20231230:1030: 20cc electrostat (dribble), .8ml DEX, 20cc yogurt.  Wound looks good.  No response to touching tail. Ate nuts.
@@ -36,8 +48,6 @@ Linda came down to help assess him.
 - 20231231:2300:7cc ensure (drink), 7cc apple sauce (dribble), 20cc apple juice (drink).  .8 ml DEX (right). He was quite wet with urin. Cleaned with water and wet wipes.  No visible blood in wiping.  A little poop in basket, very little on his butt.  Treated wounds.  He was upright in the carrier, seemed to have taken bites out of sweet potato.  Seemed quite awake. He resisted more tonight.  During feeding there was some clicking when he was breathing (pneumonia?), need to monitor.  His hind leg twitched a bit on a couple of occasions. 
 - 2024.01.01:1030: Klaus died this morning.  
 
-
----
 Pictures
 
 20231231: morning before his treatment. 
@@ -46,5 +56,12 @@ Pictures
 
 _Heavenly Father, please help us in our time of need, You have made us stewards of Klaus. If it is Your will, please restore him to health and strength. I pray too for other animals in need. May they be treated with the care and respect deserving of all Your creation. Blessed are You Lord God, and holy is Your name forever and ever. Amen_
 
----
-Siblings:
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

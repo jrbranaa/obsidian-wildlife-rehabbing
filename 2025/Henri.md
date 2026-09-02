@@ -1,38 +1,31 @@
 ---
-Species: fox squirrel
+name: Henri
+species: Fox Squirrel
 sex: male
-rescue date: 2025.08.11
-arrival date: 2025.08.11
-departure date: 2025.08.20
-release date: 
-arrival age: days
-departure age: 
-ID:
+disposition: died
+intake_date: 2025-08-11
+rescue_date: 2025-08-11
+departure_date: 2025-08-20
+release_date:
+intake_age: days
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
-
----
-
-
----
-## Log
-
-
-| Date | Weight(g) | Formula Qty | Formula   | Feedings    | Notes |
-| ---- | --------- | ----------- | --------- | ----------- | ----- |
-| 8/11 | 19        | 1cc         | 4:1 32/40 | Every 2 hrs |       |
+## Notes
 
 2025.08.20: Out precious little Henri succumbed to his failing health last night.  RIP
 
@@ -42,8 +35,17 @@ One thing worth noting was that when he was brought to Linda's, he was in a ligh
 
 2025.08.19: about three days ago we noticed him starting to peel. We tried keeping him moist, but since then he's had other issues crop up and had dropped from 25g to 22g. He seems to be struggling. He's not thriving. 
 
-#wildlife/squirrel/symptoms/molting
-
 ![[image 53.jpg]]
----
-Siblings:
+
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-08-11 | 19 | 1cc | 4:1 32/40 | Every 2 hrs |  |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+
+#wildlife/squirrel/symptoms/molting

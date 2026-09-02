@@ -1,33 +1,40 @@
 ---
-Species: Western gray squirrel
+name: Rip
+species: Western Gray Squirrel
 sex: male
-rescue date:
-arrival date:
-departure date:
-release date:
-arrival age:
-departure age:
-ID:
-Address Found:
-Circumstances:
-Treatment Provided:
-Food/Water Provided:
-Updates Desired:
-Other:
+disposition: in care
+intake_date:
+rescue_date:
+departure_date:
+release_date:
+intake_age:
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings: "[[Beth]]"
+cagemates:
+other:
 ---
----
+
 ## Notes
 
----
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2026-07-06 | 144 |  |  |  |  |
+| 2026-07-16 | 219 |  |  |  |  |
 
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-| 7/6  | 144       |             |         |          |       |
-| 7/16 | 219       |             |         |          |       |
+## Medications
 
-
-
----
-Siblings:[[Beth]]
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

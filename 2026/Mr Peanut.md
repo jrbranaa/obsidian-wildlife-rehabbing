@@ -1,41 +1,31 @@
 ---
-Species: Humbolt's Flying Squirrel
+name: Mr Peanut
+species: Humboldt's Flying Squirrel
 sex: male
-rescue date: 2026.05.29
-arrival date: 2026.05.29
-departure date:
-release date:
-arrival age: 3 weeks
-departure age:
-ID:
-Address Found:
-Circumstances:
-Treatment Provided:
-Food/Water Provided:
-Updates Desired:
-Other:
+disposition: in care
+intake_date: 2026-05-29
+rescue_date: 2026-05-29
+departure_date:
+release_date:
+intake_age: 3 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
+
 ## Notes
-
----
-## Log
-
-
-| Date | Weight(g) | Formula Qty | Formula   | Feedings | Notes |
-| ---- | --------- | ----------- | --------- | -------- | ----- |
-| 5/29 | 26        | 1.3         | 32/40 4:1 | 4        |       |
-| 5/31 |           | 1.5         | 32/40 3:1 | 5        |       |
-| 6/2  | 25        |             |           |          |       |
-| 6/3  | 25        | 1.5-2.0     | 32/40 2:1 |          |       |
-| 6/5  | 27        |             |           |          |       |
-| 6/6  | 29        |             |           |          |       |
-| 6/7  | 30        |             |           |          |       |
-| 6/9  | 33        |             |           |          |       |
-| 6/10 | 35        |             |           |          |       |
-| 6/14 | 38        |             |           |          |       |
-| 6/16 | 40        |             |           |          |       |
-| 7/06 | 76        |             |           |          |       |
 
 2026.06.03: eyes open
 
@@ -43,10 +33,26 @@ Eating well all 5 feedings. Pretty active during evening feedings. Nibbling on f
 
 Introduced piece of apple. 
 
----
-Siblings:
-
-
-
-
 ![[image.jpg]]
+
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2026-05-29 | 26 | 1.3 | 32/40 4:1 | 4 |  |
+| 2026-05-31 |  | 1.5 | 32/40 3:1 | 5 |  |
+| 2026-06-02 | 25 |  |  |  |  |
+| 2026-06-03 | 25 | 1.5-2.0 | 32/40 2:1 |  |  |
+| 2026-06-05 | 27 |  |  |  |  |
+| 2026-06-06 | 29 |  |  |  |  |
+| 2026-06-07 | 30 |  |  |  |  |
+| 2026-06-09 | 33 |  |  |  |  |
+| 2026-06-10 | 35 |  |  |  |  |
+| 2026-06-14 | 38 |  |  |  |  |
+| 2026-06-16 | 40 |  |  |  |  |
+| 2026-07-06 | 76 |  |  |  |  |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

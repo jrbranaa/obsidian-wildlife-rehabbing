@@ -1,33 +1,40 @@
 ---
-Species: fox squirrel
+name: Sheldon
+species: Fox Squirrel
 sex: male
-rescue date: 2024.07.03
-arrival date: 2024.07.03
-departure date: 
-release date: 
-arrival age: 4 months
-departure age: 
-ID:
+disposition: died
+intake_date: 2024-07-03
+rescue_date: 2024-07-03
+departure_date:
+release_date:
+intake_age: 4 months
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
-Diagnosis:   [[Head Injury]]
 
+## Notes
+
+Diagnosis:   [[Head Injury]]
 
 Got a call from Silvia from across the court about a squirrel that wasn't moving in her backyard.  Upon arrival, found him sitting on the river rocks with his face/eyes covered.  He did not resist being picked up at all.  Breathing seemed normal with now apparent struggle.  No apparent injury or trauma visible.  His feet and tail were pretty limp while manipulating them.  
 
 It's highly likely that this little fella's been in our yard playing on our tree.  We do wonder if he's one of Petunia's offspring.  
 
----
-
 Resources:
 - https://www.reddit.com/r/squirrels/comments/7p9ujv/disoriented_squirrel_advice_requested/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
-
-
----
-
-
-
-## Log
-
 
 ### 2025.09.23
 
@@ -60,8 +67,6 @@ Sheldon is definitely in one of his down cycles. He has little body control and 
 
 I'm not as worried as last time, but I still don't know why these episodes start.  Last time it took him close to two weeks to return to high mobility and coordination.  
 
-
-
 ### 2024.09.18
 
 Today sheldon seems to have lost some coordination and mobility. Not a drastic drop, but noticeable.  
@@ -93,7 +98,6 @@ Today he's become almost manic in his activity like he was leading up to his set
 
 He has also been more oral today and was actually chewing on his nesting box. Tonight he's also been vocal more than ever.  
 
-
 ### 2024.09.04
 
 This morning Sheldon was already out of his nesting box when I came into the room.  He seemed to be quite active and even climbed to the top of his cage.  His eyes seemed more alert and open then last night.  
@@ -105,8 +109,6 @@ This morning Sheldon was already out of his nesting box when I came into the roo
 He ate pretty well.
 
 ### 2024.09.03
-
-
 
 09:00
 - 5cc yogurt w/~100mg cal-carb
@@ -138,7 +140,6 @@ He ate pretty well.
 21:00
 - 20cc yogurt
 
-
 Summary:
 
 He seemed pretty much like yesterday. He seemed pretty active on and off.  Climbed up to his shelf and stayed there for quite a while. 
@@ -148,7 +149,6 @@ He still seems to lack muscle control and twirls himself around, often ending on
 Looks like he may be getting too much calcium as his poop seemed pretty light this afternoon.  So I reduced his calcium dosage by half (two feedings) and only gave him yogurt during his final feeding. 
 
 I was wondering if some cbt would help him.  Just a random thought.  
-
 
 ### 2024.09.01
 
@@ -198,7 +198,6 @@ This morning he was noticeably more active, especially during feeding. He was ba
 21:00
 - 5cc yogurt w/~100mg cal-carb
 
-
 Summary:
 
 Overall I think Sheldon showed continued improvement today.  Although he's not where he was in terms of mobility, he was much more active today than the last two days.  No sign of pain either.  He climbed up to the shelf 3-4 times today. Tonight, after falling off the shelf, he paused a couple minutes and then climbed into his nest box with relative ease. 
@@ -210,7 +209,6 @@ He only got 1 dose of dex today as we left for Dick and Marie's before he was du
 This afternoon I took him out by the pond to get some natural light. I think he enjoyed the warmth of the sun and fresh air :-)
 
 ![[IMG_1601.jpeg]]
-
 
 ### 2024.08.30
 
@@ -246,8 +244,6 @@ Yesterday I felt like he took a turn for the worse and I was questioning whether
 00:00 - 
 - 10cc apple juice
 
-
-
 Day's summary:  Overall I feel like he's doing a bit better.  He's nowhere near normal, but he seems to be in less pain, has a bit more energy, and seems calmer and having less spasmodic movements.  I was feeling optimistic about his improvements earlier in the day.  We spoke to Linda and she was surprised that he would have MBD due to all the Yogurt he's been eating and suggested that we start him on Dex to help with any potential brain inflammation.  So, I lost a bit of confidence in my diagnosis.   Overall I felt like he ate well and had a good appetite.  He's also been pooping and peeing.  
 
 ### 2024.08.29
@@ -259,7 +255,6 @@ I found him sleeping in his nest box this morning, which is unusual.  I did feed
 ### 2024.08.28
 
 Not sure what happened to my Sheldon, but it seems like he may have hurt himself in the middle of the night by falling from his ceiling and hitting the shelf.  It didn't seem like much of a fall, but he's not been the same all day.  In my most recent feeding he didn't eat much and one I put him back in his cage it's like he lost the ability to control his limbs fully.  Earlier today we asked Linda about it and she suggested some metacam so I game him a low dose.  
-
 
 ### 2024.08.08
 
@@ -277,21 +272,15 @@ Sheldon's been doing pretty well.  His weight has stabilized around 430g and he'
 
 ### 2024.07.28
 
-
 ### 2024.07.27
-
 
 ### 2024.07.26
 
-
 ### 2024.07.25
-
 
 ### 2024.07.24
 
-
 ### 2024.07.23
-
 
 ### 2024.07.22
 
@@ -309,7 +298,6 @@ Sheldon's been doing pretty well.  His weight has stabilized around 430g and he'
 - 10cc yogurt
 - 20cc apple sauce
 - Hand fed him some blackberry 
-
 
 ### 2024.07.21
 
@@ -342,7 +330,6 @@ Sheldon's been doing pretty well.  His weight has stabilized around 430g and he'
 - 20cc apple sauce 
 - 2cc yogurt
 
-
 ### 2024.07.19
 
 0730
@@ -359,7 +346,6 @@ Sheldon's been doing pretty well.  His weight has stabilized around 430g and he'
 - Ate well. Even had a little without being held 
 - 
 
-
 ### 2024.07.18
 
 Switching to 3 x day 
@@ -374,13 +360,11 @@ Switching to 3 x day
 - 20cc apple sauce 
 - 10cc yogurt. 
 
-
 1930
 - 380g - minor weight loss, could be normal variance or because of 1 less feeding last night. 
 - 21cc apple sauce w/ vitamins and protein. 
 
 Found his way into the nesting box on his own and into his hammock. Seemed to rest more today than normal. 
-
 
 ### 2024.07.17
 
@@ -681,7 +665,6 @@ Found his way into the nesting box on his own and into his hammock. Seemed to re
 
 17:30 
 
-
 21:30
 
 ### 2024.07.03
@@ -699,7 +682,6 @@ Found his way into the nesting box on his own and into his hammock. Seemed to re
 - .85 cc Metacam
 - Noticed head seems puffy.  Noticed while I was petting him.  I also noticed that the area around his eyes had a very slight pink tint to them, almost like is might have been due to inflammation.  
 
-
 16:45
 - 10cc Electrostat
 - 10cc Apple sauce
@@ -712,15 +694,12 @@ Found his way into the nesting box on his own and into his hammock. Seemed to re
 - Noticed poop in basket
 - Didn't appear to eat any solid food.
 
+## Log
 
----
-Siblings:
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
 
+## Medications
 
-
-
-
-
-
-
-
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

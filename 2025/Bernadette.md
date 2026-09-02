@@ -1,40 +1,38 @@
 ---
-Species: Western gray squirrel
+name: Bernadette
+species: Western Gray Squirrel
 sex: female
-rescue date:
-arrival date:
-departure date: 2026.04.23
-release date:
-arrival age:
-departure age:
-ID:
+disposition: released
+intake_date:
+rescue_date:
+departure_date: 2026-04-23
+release_date:
+intake_age:
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
+## Notes
 
----
-
-
----
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
 
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-|      |           |             |         |          |       |
+## Medications
 
-
-
----
-Siblings:
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

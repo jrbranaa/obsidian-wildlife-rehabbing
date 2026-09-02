@@ -1,34 +1,35 @@
 ---
-Species: fox squirrel
+name: Bonsai
+species: Fox Squirrel
 sex: male
-rescue date: 2025.07.27
-arrival date: 2025.07.27
-departure date: 
-release date: 
-arrival age: 4 months
-departure age: 
-ID:
+disposition: died
+intake_date: 2025-07-27
+rescue_date: 2025-07-27
+departure_date:
+release_date:
+intake_age: 4 months
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances: caught by dog
+treatment_provided: no
+food_water_provided: provided water
+updates_desired: Yes
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:  caught by dog
-Did they provide any treatment?: no
-Did the give food or water?: provided water
-Updates Desired:  Yes
-Other: 
-
----
+## Notes
 
 2025.07.28:  
 
 Morning:  Started him on [[Metacam]] 1.0cc.  Double dose of [[Baytril]]
-
 
 Afternoon: Took Bonsai to Melissa for some assessment and treatment.  She cleaned his hand up and bit and determined that his wound on his neck would have to heal as an open wound.  Unfortunately, after a bit of struggling, Bonsai unexpectedly passed.  He was fairly calm for most of it, and then started to thrash.  He then went limp.  It was very similar to our experience with Daisy.  RIP Bonsai. 
 
@@ -40,17 +41,15 @@ After about an hour we weighed him (~510g), and administered .22ml of [[Baytril]
 
 We proceeded to clean out his wound and apply a generous amount of Neosporin. Due to the location of his wound, he's not likely to lick it.  
 
-We will let him rest the remainder of the night. 
+We will let him rest the remainder of the night.
 
----
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-07-27 | 509 |  |  |  |  |
 
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-| 7/27 | 509       |             |         |          |       |
+## Medications
 
-
-
----
-Siblings:
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

@@ -1,40 +1,31 @@
 ---
-Species: Wester gray squirrel
+name: Cherry
+species: Western Gray Squirrel
 sex: female
-rescue date: 2025.04.19
-arrival date: 2025.04.19
-departure date: 
-release date: 
-arrival age: 8 weeks
-departure age: 
-ID:
+disposition: died
+intake_date: 2025-04-19
+rescue_date: 2025-04-19
+departure_date:
+release_date:
+intake_age: 8 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings: "[[Juniper]]"
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
-
----
-
-
----
-## Log
-
-
-| Date       | Weight(g) | Formula Qty | Formula   | Feedings | Notes                                                   |
-| ---------- | --------- | ----------- | --------- | -------- | ------------------------------------------------------- |
-| 2025.04.20 |           |             |           |          | Tried electrostat twice.  She did end up having some.   |
-| 2025.04.19 |           | 9cc         | 4:1 20/50 | 3        | Metacam                                                 |
-| 2025.04.21 |           | 9cc         | 3:1 20/50 | 3        | RIP                                                     |
+## Notes
 
 2025.04.21: 
 
@@ -44,5 +35,15 @@ Her breathing seems less obstructed today.
 
 Went in to feed her at 15:30 and she had passed.   RIP Cherry.
 
----
-Siblings: [[Juniper]]
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-04-20 |  |  |  |  | Tried electrostat twice.  She did end up having some. |
+| 2025-04-19 |  | 9cc | 4:1 20/50 | 3 | Metacam |
+| 2025-04-21 |  | 9cc | 3:1 20/50 | 3 | RIP |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

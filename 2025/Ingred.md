@@ -1,38 +1,32 @@
 ---
-Species: California Ground Squirrel
+name: Ingred
+species: California Ground Squirrel
 sex: female
-rescue date: 2025.11.19
-arrival date: 2025.11.19
-departure date:
-release date:
-arrival age: Adult
-departure age: 2025.11.20
-ID:
+disposition: died
+intake_date: 2025-11-19
+rescue_date: 2025-11-19
+departure_date:
+release_date:
+intake_age: Adult
+departure_age: 2025.11.20
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
+## Notes
 
----
-
-
----
-## Log
-
-
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-|      |           |             |         |          |       |
 2025.11.20- RIP Ingred.  Passed in the night.  
 
 I suspect poisoning as there didn't seem to be evidence of injury. She was of good weight.  
@@ -45,8 +39,12 @@ Was found out in the open after some heavy rains.
 
 1900 Provided more electrostat.  The bathroom smelled really bad.  Seems she urinated and had soft stools.  Cleaned basket.
 
+## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
 
+## Medications
 
----
-Siblings:
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

@@ -1,45 +1,44 @@
 ---
-Species: fox squirrel
+name: Sophie
+species: Fox Squirrel
 sex: female
-rescue date:
-arrival date: 2025.07.27
-departure date: 2026.04.24
-release date:
-arrival age: 3 weeks
-departure age:
-ID:
+disposition: released
+intake_date: 2025-07-27
+rescue_date:
+departure_date: 2026-04-24
+release_date:
+intake_age: 3 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings: "[[Pierre]], [[Simone]]"
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
+## Notes
 
----
-
-
----
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-07-31 | 53 |  |  |  |  |
+| 2025-08-01 | 53 |  |  |  |  |
+| 2025-08-03 | 56 |  |  |  |  |
+| 2025-06-04 | 57 |  |  |  |  |
+| 2025-06-07 | 73 |  |  |  |  |
+| 2025-08-11 | 77 |  |  |  |  |
 
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-| 7/31 | 53        |             |         |          |       |
-| 8/1  | 53        |             |         |          |       |
-| 8/3  | 56        |             |         |          |       |
-| 6/4  | 57        |             |         |          |       |
-| 6/7  | 73        |             |         |          |       |
-| 8/11 | 77        |             |         |          |       |
+## Medications
 
-
-
----
-Siblings: [[Pierre]], [[Simone]]
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

@@ -1,41 +1,32 @@
 ---
-Species: fox squirrel
+name: Popeye
+species: Fox Squirrel
 sex: male
-rescue date: 2025.12.09
-arrival date: 2025.12.09
-departure date:
-release date:
-arrival age: Adult
-departure age:
-ID:
+disposition: in care
+intake_date: 2025-12-09
+rescue_date: 2025-12-09
+departure_date:
+release_date:
+intake_age: Adult
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
+## Notes
 
----
-
-
----
-## Log
-
-
-| Date  | Weight(g) | Formula Qty | Formula            | Feedings            | Notes    |
-| ----- | --------- | ----------- | ------------------ | ------------------- | -------- |
-| 12/09 |           | 10-12cc     | Electrostat        |                     |          |
-| 12/10 | 562       | 35cc        | Yogurt             | 2, 23:45            | Ate well |
-| 12/11 | 588       | 60cc        | Yogurt/apple sauce | 11:45, 21:00, 11:45 |          |
-|       |           |             |                    |                     |          |
 ### 2026.06.02
 
 Moved him out to an outdoor cage to see how he functions. 
@@ -54,8 +45,6 @@ His right eye does seem to be damaged beyond healing.  His eyelid is closed.  Hi
 
 Came out if his nest box on his own around 8:30. Seems to be eating the solid foods that I've put in there.
 
-
-
 ### 2025.12.18
 
 10:30: fed smoothie, .25cc baytrill. Anti-biotic eye drops. Gel
@@ -66,9 +55,6 @@ It seemingly pretty clear that his right eye is not going to heal.  His eye lid 
 ### 2025.12.17
 
 Moved him back to his cage. Spent most of the time in his nest box.
-
-
-
 
 ### 2025.12.16
 
@@ -105,7 +91,6 @@ Noticed he ate walnut
 16:00 - 20cc yogurt, anti bacterial eye drops
 
 21:15 - 20cc apple sauce, anti-bacterial eye drops
-
 
 During his morning feeding I noticed puss coming from his right eye.  It's sensitive to the touch as well.  He felt warm and was shivering a bit.  I decided  to start him on baytril due to a possible infection.
 
@@ -178,7 +163,17 @@ No evidence of other injuries or paralysis.
 
 23:45: 8cc of electrostat and applied eye lubricant. 
 
-He seems to be displaying some new symptoms, such as paralysis in his right arm/hand and possibly right leg.  He clearly had less motor control.  
+He seems to be displaying some new symptoms, such as paralysis in his right arm/hand and possibly right leg.  He clearly had less motor control.
 
----
-Siblings:
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-12-09 |  | 10-12cc | Electrostat |  |  |
+| 2025-12-10 | 562 | 35cc | Yogurt | 2, 23:45 | Ate well |
+| 2025-12-11 | 588 | 60cc | Yogurt/apple sauce | 11:45, 21:00, 11:45 |  |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

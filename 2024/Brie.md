@@ -1,21 +1,38 @@
 ---
-Species: fox squirrel
+name: Brie
+species: Fox Squirrel
 sex: female
-rescue date: 2024.03.05
-arrival date: 2024.03.05
-departure date: 
-release date: 2024.08.25
-arrival age: 
-departure age:
+disposition: released
+intake_date: 2024-03-05
+rescue_date: 2024-03-05
+departure_date:
+release_date: 2024-08-25
+intake_age:
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings: "[[Chedder]]"
+cagemates:
+other:
 ---
 
----
+## Notes
 
-
----
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
 
+## Medications
 
----
-Siblings:[[Chedder]]
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

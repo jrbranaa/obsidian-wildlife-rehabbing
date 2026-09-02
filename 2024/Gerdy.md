@@ -1,23 +1,35 @@
 ---
-Species: California Ground Squirrel
+name: Gerdy
+species: California Ground Squirrel
 sex: female
-rescue date: 2024.07.11
-arrival date: 2024.07.11
-departure date: 2024.07.12
-release date: 
-arrival age: 5 weeks
-departure age: 
-ID:
+disposition: died
+intake_date: 2024-07-11
+rescue_date: 2024-07-11
+departure_date: 2024-07-12
+release_date:
+intake_age: 5 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
+
+## Notes
+
 Fairly dehydrated upon picking up. Brought some electrostat with us and fed her.  Dribbled most of it.  Cool to the touch.  Had several visible fleas (apparently more common for ground squirrels).
 
 She was found under bush with a sibling that had already passed. 
-
-
-
----
-## Log
-
 
 ### 2024.07.12
 
@@ -39,7 +51,14 @@ What would/could we have done differently:
 - sub-q saline injection (didn't have any on hand)
 - Got her warmer quicker.  Direct heat on heating pad.  Higher setting earlier (started on 1, may should have started with 3).
 
-In reality it was likely too late. Her systems were probably already shutting down. Her sibling had passed shortly before we picked her up.  
+In reality it was likely too late. Her systems were probably already shutting down. Her sibling had passed shortly before we picked her up.
 
----
-Siblings:
+## Log
+
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

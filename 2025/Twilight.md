@@ -1,45 +1,45 @@
 ---
-Species: Western gray squirrel
+name: Twilight
+species: Western Gray Squirrel
 sex: female
-rescue date: 2025.10.02
-arrival date: 2025.10.02
-departure date:
-release date:
-arrival age: Adult
-departure age:
-ID:
+disposition: died
+intake_date: 2025-10-02
+rescue_date: 2025-10-02
+departure_date:
+release_date:
+intake_age: Adult
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
-
----
-
-
----
-## Log
-
-
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-| 10/2 | 670       |             |         |          |       |
+## Notes
 
 2025.10.02:  Paralyzed hind legs and tail
 
 20:45- .7cc [[Dexamethasone]]
 
-23:30- RIP Twilight.  Apparently she had some other injuries that were not visible.  
+23:30- RIP Twilight.  Apparently she had some other injuries that were not visible.
 
+## Log
 
----
-Siblings:
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-10-02 | 670 |  |  |  |  |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

@@ -1,41 +1,32 @@
 ---
-Species: Western gray squirrel
+name: Lollie Pop
+species: Western Gray Squirrel
 sex: male
-rescue date: 2026.03.09
-arrival date: 2026.03.09
-departure date: 2026.03.20
-release date:
-arrival age: 5 weeks
-departure age:
-ID:
+disposition: died
+intake_date: 2026-03-09
+rescue_date: 2026-03-09
+departure_date: 2026-03-20
+release_date:
+intake_age: 5 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates: "[[Tootsie Pop]]"
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
+## Notes
 
----
-
-
----
-## Log
-
-
-| Date       | Weight(g) | Formula Qty | Formula     | Feedings | Notes |
-| ---------- | --------- | ----------- | ----------- | -------- | ----- |
-| 2026.03.09 | 150       | 7cc         | Electrostat | 3        |       |
-| 2026.03.15 | 160       |             |             | 4        |       |
-| 2026.03.18 | 171       |             |             | 4        |       |
-| 2026.03.19 | 154       |             |             | 3        |       |
 **2026.03.20:** RIP Lollie.  After returning from the vet, he was on me after an attempted feeding and gasped a couple of times and passed away.  
 
 Melissa noticed that what I though was his anus was actually a wound of sorts.  She checked to make sure that there was no tear between the abscess and the anal canal and there wasn't.  
@@ -52,11 +43,18 @@ Debbie noticed that his area around his anus was large and hard.  I pressed on i
 
 22:30 feeding added about 2.5cc apple sauce, seemed to like it
 
+**2026.03.09:** apparently fell from tree (~20ft).  No visible injuries.  No paralysis evident.  Seemed stunned.
 
-**2026.03.09:** apparently fell from tree (~20ft).  No visible injuries.  No paralysis evident.  Seemed stunned. 
+## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2026-03-09 | 150 | 7cc | Electrostat | 3 |  |
+| 2026-03-15 | 160 |  |  | 4 |  |
+| 2026-03-18 | 171 |  |  | 4 |  |
+| 2026-03-19 | 154 |  |  | 3 |  |
 
----
-Siblings:
-cage mates:  [[Tootsie Pop]]
+## Medications
 
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

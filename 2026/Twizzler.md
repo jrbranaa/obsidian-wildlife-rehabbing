@@ -1,30 +1,31 @@
 ---
-Species: fox squirrel
+name: Twizzler
+species: Fox Squirrel
 sex: female
-rescue date: 2026.06.05
-arrival date: 2026.06.05
-departure date:
-release date:
-arrival age: Adult
-departure age:
-ID:
-Address Found:
-Circumstances:
-Treatment Provided:
-Food/Water Provided:
-Updates Desired:
-Other:
+disposition: died
+intake_date: 2026-06-05
+rescue_date: 2026-06-05
+departure_date:
+release_date:
+intake_age: Adult
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
+
 ## Notes
-
----
-## Log
-
-
-| Date | Weight(g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | --------- | ----------- | ------- | -------- | ----- |
-| 6/5  | 702       |             |         |          |       |
 
 Log
 
@@ -34,10 +35,15 @@ I decided to bathe her at least and see if I could get her to eat or drink ( I f
 
 I am struggling a bit because I do not believe she has any chance of survival, but I also am hesitant to euthanize.  I don't think she's suffering.  I've been involved in several euthanasias over the course of my life, so it's not that I am not capable of doing so, but as of late I almost feel like it's robbing her from the experience of a natural passing.  That that's part of the souls lifecycle and that I am not one to choose that for them.   
 
-2026.06.08: moved her to a cage (no shelf, no hammock).  Seems to be fully paralyzed in her legs and tail.  Able to urinate and poop on ber own. 
+2026.06.08: moved her to a cage (no shelf, no hammock).  Seems to be fully paralyzed in her legs and tail.  Able to urinate and poop on ber own.
 
+## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2026-06-05 | 702 |  |  |  |  |
 
+## Medications
 
----
-Siblings:
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

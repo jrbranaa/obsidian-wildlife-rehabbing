@@ -1,25 +1,46 @@
 ---
-Species: Humbolt's Flying Squirrel
+name: Emma
+species: Humboldt's Flying Squirrel
 sex: female
-rescue date: 2023.10.16
-arrival date: 2023.10.16
-departure date: 
-release date: 2024.05.10
-arrival age: 5 weeks
-departure age:
+disposition: released
+intake_date: 2023-10-16
+rescue_date: 2023-10-16
+departure_date:
+release_date: 2024-05-10
+intake_age: 5 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
+
+## Notes
+
 ![[IMG_0087.jpeg]]
----
 ## Observations
 
 - her eyes don’t always bulge out as much. Wondering if it has to do with how dark it is. 
 
----
+2023.11.23: seems like her stools have improved. We have been cleaning her syringe more thoroughly.  
+2023.11.21: Emma seems to have a touch of loose stool. Not full on diarrhea, but light brown stinky poop. Think it might be related to dirty syringe.
+
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
 
-2023.11.23: seems like her stools have improved. We have been cleaning her syringe more thoroughly.  
-2023.11.21: Emma seems to have a touch of loose stool. Not full on diarrhea, but light brown stinky poop. Think it might be related to dirty syringe. 
+## Medications
 
----
-Siblings:
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

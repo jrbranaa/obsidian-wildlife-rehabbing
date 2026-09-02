@@ -1,41 +1,39 @@
 ---
-Species: California Ground Squirrel
+name: Dug
+species: California Ground Squirrel
 sex: female
-rescue date: 2025.08.10
-arrival date: 2025.08.11
-departure date: 
-release date: 
-arrival age: 5 weeks
-departure age: 
-ID:
+disposition: in care
+intake_date: 2025-08-11
+rescue_date: 2025-08-10
+departure_date:
+release_date:
+intake_age: 5 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings: "[[Dig]]"
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
+## Notes
 
----
-
-
----
 ## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-08-10 | 47 | 2.5cc | 4:1 32/40 |  |  |
 
-| Date | Weight(g) | Formula Qty | Formula   | Feedings | Notes |
-| ---- | --------- | ----------- | --------- | -------- | ----- |
-| 8/10 | 47        | 2.5cc       | 4:1 32/40 |          |       |
-|      |           |             |           |          |       |
+## Medications
 
-
-
----
-Siblings: [[Dig]]
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

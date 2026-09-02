@@ -1,58 +1,31 @@
 ---
-Species: Western gray squirrel
+name: Willow
+species: Western Gray Squirrel
 sex: female
-rescue date: 2025.04.09
-arrival date: 2025.04.09
-departure date: 2025.06.25
-release date: 
-arrival age: 6 weeks
-departure age: 
-ID:
+disposition: released
+intake_date: 2025-04-09
+rescue_date: 2025-04-09
+departure_date: 2025-06-25
+release_date:
+intake_age: 6 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
----
-## Rescue Info
 
-Contact Name:
-Contact Phone:
-- Text Ok: 
-Contact Email:
-Address Found:
-Circumstances:
-Did they provide any treatment?:
-Did the give food or water?:
-Updates Desired: 
-Other: 
-
----
-
-
----
-## Log
-
-
-| Date       | Weight(g) | Formula Qty | Formula            | Feedings | Notes                        |
-| ---------- | --------- | ----------- | ------------------ | -------- | ---------------------------- |
-|            |           |             |                    |          |                              |
-| 2025.04.09 | 88        | 4.5         | 4:1 32/40, 3:1     | 6        |                              |
-| 2025.04.10 |           |             |                    |          |                              |
-| 2025.04.11 | 112       |             |                    |          |                              |
-| 2025.04.12 | 114       |             | Formula transitiom | 5        |                              |
-| 2025.04.13 |           |             |                    |          | Eyes open                    |
-| 2025.04.14 | 128       |             | 20/50              |          |                              |
-|            |           |             |                    |          |                              |
-|            |           |             |                    |          |                              |
-| 2025.04.17 | 138       |             |                    |          |                              |
-| 2025.04.18 |           |             |                    |          |                              |
-|            |           |             |                    |          |                              |
-| 2025.04.20 | 147       |             |                    |          |                              |
-| 2025.04.21 |           |             |                    |          |                              |
-| 2025.04.21 |           | 9 cc        | 20/50 2:1          | 4        | Diarrhea for most of the day |
-| 2025.04.22 |           |             |                    |          | Electrolytes  @ 6:30pm       |
-| 2025.04.23 | 168       |             |                    |          |                              |
-| 2025.04.24 | 173       |             |                    |          |                              |
-| 2025.04.25 | 182       |             |                    |          |                              |
-| 2025.04.26 | 198       |             |                    |          |                              |
-| 2025.04.28 | 210       |             |                    |          |                              |
+## Notes
 
 2025.06.25:  Brought her to her release case at Laurie's. 
 
@@ -66,12 +39,31 @@ She's been cage mates with [[Juniper]] since yesterday.
 
 2025.04.15: growing and eating well.  Did notice what seems like a skeletal abnormality along her left rib cage towards the top, running lengthwise.  I hadn't noticed it before, but it could be an injury from before.  Doesn't seem to cause any issues/discomfort.  
 
-
 2025.04.12:  seems to eat better when covered with fleece
 
+## Log
 
+| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| 2025-04-09 | 88 | 4.5 | 4:1 32/40, 3:1 | 6 |  |
+| 2025-04-10 |  |  |  |  |  |
+| 2025-04-11 | 112 |  |  |  |  |
+| 2025-04-12 | 114 |  | Formula transitiom | 5 |  |
+| 2025-04-13 |  |  |  |  | Eyes open |
+| 2025-04-14 | 128 |  | 20/50 |  |  |
+| 2025-04-17 | 138 |  |  |  |  |
+| 2025-04-18 |  |  |  |  |  |
+| 2025-04-20 | 147 |  |  |  |  |
+| 2025-04-21 |  |  |  |  |  |
+| 2025-04-21 |  | 9 cc | 20/50 2:1 | 4 | Diarrhea for most of the day |
+| 2025-04-22 |  |  |  |  | Electrolytes  @ 6:30pm |
+| 2025-04-23 | 168 |  |  |  |  |
+| 2025-04-24 | 173 |  |  |  |  |
+| 2025-04-25 | 182 |  |  |  |  |
+| 2025-04-26 | 198 |  |  |  |  |
+| 2025-04-28 | 210 |  |  |  |  |
 
+## Medications
 
-
----
-Siblings:
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |

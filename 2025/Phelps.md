@@ -1,39 +1,31 @@
 ---
-Species: Wester gray squirrel
+name: Phelps
+species: Western Gray Squirrel
 sex: male
-rescue date: 2025.03.06
-arrival date: 2025.03.06
-departure date: 2025.06.25
-release date: 
-arrival age: 11 weeks
-departure age: 
-ID:
+disposition: released
+intake_date: 2025-03-06
+rescue_date: 2025-03-06
+departure_date: 2025-06-25
+release_date:
+intake_age: 11 weeks
+departure_age:
+id:
+release_cage:
+address_found:
+circumstances:
+treatment_provided:
+food_water_provided:
+updates_desired:
+contact_name:
+contact_phone:
+contact_text_ok:
+contact_email:
+siblings:
+cagemates:
+other:
 ---
 
-
----
-## Log
-
-
-| Date | Weight(g) | Qty  | Food                                 | Feedings | Notes                                                                                                          |     |
-| ---- | --------- | ---- | ------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------------- | --- |
-| 3/6  | 288       | 10cc | Electrostat, apple, avocado, nut     | 2        |                                                                                                                |     |
-| 3/7  |           | 8cc  | Apple Juice                          |          |                                                                                                                |     |
-|      |           | 10cc | Yogurt                               |          |                                                                                                                |     |
-| 3/8  |           | 10cc | Apple Juice + variety of solid foods | 2        | He does seem to like Apples and walnuts                                                                        |     |
-|      |           | 8cc  | Yogurt                               | 3        |                                                                                                                |     |
-| 3/9  |           | 10cc | Yogurt + apple, nuts, mixed veggie   | 2        |                                                                                                                |     |
-|      |           | 4cc  | Apple Sauce                          | 2        |                                                                                                                |     |
-| 3/10 |           | 10cc | Yogurt + apple, nuts, mixed veggie   | 2        |                                                                                                                |     |
-|      |           | 4cc  | Apple Sauce                          | 2        |                                                                                                                |     |
-| 3/11 |           | 10cc | Yogurt + apple, nuts, mixed veggie   | 2        |                                                                                                                |     |
-|      |           | 5cc  | Smoothie                             | 1        | Was clogging so I needed to go back to Yogurt.                                                                 |     |
-|      |           | 4cc  | Apple sauce                          | 2        |                                                                                                                |     |
-| 3/12 |           | 10cc | Yogurt + apple, nuts, mixed veggie   | 2        | Watched him eat nuts and apple.  He's really digging those.                                                    |     |
-|      |           | 4cc  | Apple sauce                          |          | I think we need to get him a water bottle.                                                                     |     |
-| 3/19 | 336       |      |                                      |          | gained weight, but likely some of it is the weight of his splint.  and I weighed him after eating some yogurt. |     |
-| 3/27 | 364       |      |                                      |          |                                                                                                                |     |
-|      |           |      |                                      |          |                                                                                                                |     |
+## Notes
 
 2025.06.25:  Brought him to his release case at Laurie's. 
 
@@ -57,7 +49,6 @@ He also seems to be bored with his food selection. Doesn't seem that interested 
 
 - 20:15 - .1ml baytril
 
-
 2025.03.12: Foot is still swollen. 
 - 20:00- .1ml baytril. Discontinued Metacam (7 say run)
 
@@ -72,7 +63,6 @@ He also seems to be bored with his food selection. Doesn't seem that interested 
 
 ![[IMG_3874.jpeg]]
 
-
 2025.03.07: Took him to see Melissa and she confirmed broken tibia in right hind leg.  She applied splint (with stirrups to minimize slippage).  
 
 - 16:00: .5ml metacam, .1ml baytril
@@ -80,5 +70,28 @@ He also seems to be bored with his food selection. Doesn't seem that interested 
 2025.03.06:  Came to us after having apparently been grabbed by a hawk and dropped in a pond.  His right hind leg is apparently broken.  Upon retrieving him, we examined him, placed him on heat and 30 min later gave him some electrostat.  Attempted a splint to stabilize his leg.  Started him on some meds:
 - 18:00 .5ml metacam, .1ml baytril (incase of aspiration when in pond)
 
----
-Siblings:
+## Log
+
+| Date | Weight(g) | Qty  | Food                                 | Feedings | Notes                                                                                                          |     |
+| ---- | --------- | ---- | ------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------------- | --- |
+| 2025-03-06 | 288 | 10cc | Electrostat, apple, avocado, nut | 2 |  |  |
+| 2025-03-07 |  | 8cc | Apple Juice |  |  |  |
+|  |  | 10cc | Yogurt |  |  |  |
+| 2025-03-08 |  | 10cc | Apple Juice + variety of solid foods | 2 | He does seem to like Apples and walnuts |  |
+|  |  | 8cc | Yogurt | 3 |  |  |
+| 2025-03-09 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |  |
+|  |  | 4cc | Apple Sauce | 2 |  |  |
+| 2025-03-10 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |  |
+|  |  | 4cc | Apple Sauce | 2 |  |  |
+| 2025-03-11 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |  |
+|  |  | 5cc | Smoothie | 1 | Was clogging so I needed to go back to Yogurt. |  |
+|  |  | 4cc | Apple sauce | 2 |  |  |
+| 2025-03-12 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 | Watched him eat nuts and apple.  He's really digging those. |  |
+|  |  | 4cc | Apple sauce |  | I think we need to get him a water bottle. |  |
+| 2025-03-19 | 336 |  |  |  | gained weight, but likely some of it is the weight of his splint.  and I weighed him after eating some yogurt. |  |
+| 2025-03-27 | 364 |  |  |  |  |  |
+
+## Medications
+
+| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
+| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
