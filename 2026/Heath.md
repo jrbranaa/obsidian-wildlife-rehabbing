@@ -25,6 +25,11 @@ cagemates: "[[Baby Ruth]]"
 other:
 ---
 
+> [!abstract]- Fields
+> **Species** `INPUT[inlineSelect(option("Fox Squirrel"), option("Western Gray Squirrel"), option("California Ground Squirrel"), option("Humboldt's Flying Squirrel"), option("Douglas Squirrel"), option("Chipmunk")):species]`
+> **Sex** `INPUT[inlineSelect(option("male"), option("female"), option("unknown")):sex]`
+> **Disposition** `INPUT[inlineSelect(option("in care"), option("released"), option("died"), option("euthanized"), option("transferred"), option("DOA")):disposition]`
+
 ## Notes
 
 2026.08.28 - Release Day!  He hopped out of his cage within about 5 minutes of opening it.  He was eager to climb the trees and jump around.  It was such a pleasure to watch.

@@ -25,6 +25,11 @@ cagemates:
 other:
 ---
 
+> [!abstract]- Fields
+> **Species** `INPUT[inlineSelect(option("Fox Squirrel"), option("Western Gray Squirrel"), option("California Ground Squirrel"), option("Humboldt's Flying Squirrel"), option("Douglas Squirrel"), option("Chipmunk")):species]`
+> **Sex** `INPUT[inlineSelect(option("male"), option("female"), option("unknown")):sex]`
+> **Disposition** `INPUT[inlineSelect(option("in care"), option("released"), option("died"), option("euthanized"), option("transferred"), option("DOA")):disposition]`
+
 ## Notes
 
 - She arrived to us looking pretty battered.  She was missing patches of fur, was very lethargic, and ematiated.  She appeared to have some kind of substance on her fur, especially her belly.  It's like something that was wet and then hardened.  One possibility was that she had been caught in a glue trap.  

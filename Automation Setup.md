@@ -5,12 +5,15 @@ Do this on desktop; everything works on mobile afterward.
 
 ---
 
-## 1. Install the two plugins
+## 1. Install the plugins
 
 Settings → **Community plugins** → turn on → **Browse**:
 
 1. **Templater** (SilentVoid13) — install, enable.
 2. **QuickAdd** (Christian B. B. Houmann) — install, enable.
+3. **Meta Bind** (mProjectsCode) — install, enable. Powers the frontmatter
+   dropdowns. Default settings are fine; make sure "Enable syntax highlighting"
+   and the inline-field rendering options are on.
 
 ### Templater settings
 
@@ -99,7 +102,21 @@ cleanly.)
 
 ---
 
-## 5. Dashboard
+## 5. Frontmatter dropdowns (Meta Bind)
+
+Each patient note has a collapsed **Fields** callout right under the properties
+with dropdowns for **Species**, **Sex**, and **Disposition**. Pick a value and
+the frontmatter property updates — these are the only allowed values.
+
+- The other option-based-but-freeform fields (`intake_age`, dates, contacts)
+  stay as plain text.
+- If the dropdowns render as literal `` `INPUT[...]` `` text: check Meta Bind is
+  enabled, and that quoting inside `option("...")` survived (some older Meta Bind
+  builds want single quotes).
+- To constrain a *new* option field later, add a line to the callout in
+  `Templates/New Patient.md` and re-run the bulk-insert.
+
+## 6. Dashboard
 
 `Patients.base` (root of the vault) opens with tabs: **In care**, **Released**,
 **Did not survive**, **All patients**. Requires Obsidian 1.9+ (Bases is core, no
@@ -107,7 +124,7 @@ plugin needed). Bookmark it (Bookmarks core plugin) for one-tap access.
 
 ---
 
-## 6. Housekeeping still to do
+## 7. Housekeeping still to do
 
 - Work through `Normalization Review.md` and delete it when done.
 - Verify the dosing numbers in `Protocols/Medications/*` against your vet.

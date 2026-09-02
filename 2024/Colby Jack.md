@@ -25,6 +25,11 @@ cagemates:
 other:
 ---
 
+> [!abstract]- Fields
+> **Species** `INPUT[inlineSelect(option("Fox Squirrel"), option("Western Gray Squirrel"), option("California Ground Squirrel"), option("Humboldt's Flying Squirrel"), option("Douglas Squirrel"), option("Chipmunk")):species]`
+> **Sex** `INPUT[inlineSelect(option("male"), option("female"), option("unknown")):sex]`
+> **Disposition** `INPUT[inlineSelect(option("in care"), option("released"), option("died"), option("euthanized"), option("transferred"), option("DOA")):disposition]`
+
 ## Notes
 
 2024.04.09 Colby's lost a little weight over the last day down from 113 to 108. Yesterday she was the same weight as the day before, which was a gain from the day the arrived.

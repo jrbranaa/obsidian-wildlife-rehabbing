@@ -25,6 +25,11 @@ cagemates:
 other:
 ---
 
+> [!abstract]- Fields
+> **Species** `INPUT[inlineSelect(option("Fox Squirrel"), option("Western Gray Squirrel"), option("California Ground Squirrel"), option("Humboldt's Flying Squirrel"), option("Douglas Squirrel"), option("Chipmunk")):species]`
+> **Sex** `INPUT[inlineSelect(option("male"), option("female"), option("unknown")):sex]`
+> **Disposition** `INPUT[inlineSelect(option("in care"), option("released"), option("died"), option("euthanized"), option("transferred"), option("DOA")):disposition]`
+
 ## Notes
 
 2026.06.30: Went to feed him his formula this morning and saw that he was eating apple, so I let him be, returning later to see if he wanted it.  Not really.  He seemed to be more alert this morning.  

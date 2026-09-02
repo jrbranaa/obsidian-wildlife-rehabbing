@@ -25,6 +25,11 @@ cagemates:
 other:
 ---
 
+> [!abstract]- Fields
+> **Species** `INPUT[inlineSelect(option("Fox Squirrel"), option("Western Gray Squirrel"), option("California Ground Squirrel"), option("Humboldt's Flying Squirrel"), option("Douglas Squirrel"), option("Chipmunk")):species]`
+> **Sex** `INPUT[inlineSelect(option("male"), option("female"), option("unknown")):sex]`
+> **Disposition** `INPUT[inlineSelect(option("in care"), option("released"), option("died"), option("euthanized"), option("transferred"), option("DOA")):disposition]`
+
 ## Notes
 
 2025.06.27:  Yesterday Blossom passed away in my arms after eating her food.  She took a couple of gasps an was gone.  I wish I could have done more to help her, but I am happy that I was able to make her remaining life comfortable and safe.  RIP Blossom.  

@@ -25,6 +25,11 @@ cagemates:
 other:
 ---
 
+> [!abstract]- Fields
+> **Species** `INPUT[inlineSelect(option("Fox Squirrel"), option("Western Gray Squirrel"), option("California Ground Squirrel"), option("Humboldt's Flying Squirrel"), option("Douglas Squirrel"), option("Chipmunk")):species]`
+> **Sex** `INPUT[inlineSelect(option("male"), option("female"), option("unknown")):sex]`
+> **Disposition** `INPUT[inlineSelect(option("in care"), option("released"), option("died"), option("euthanized"), option("transferred"), option("DOA")):disposition]`
+
 ## Notes
 
 2025.02.22:  In the middle of the night little Janet passed.  Although her brother passed hours earlier, it was a shock that she passed too.  She seemed to be thriving, eating well, peeing, pooping, gaining weight.  Clearly something happened to the two of them that we weren't aware of.  Our only speculation is that they were in the cold too long while we were trying to reunite them with mom.

@@ -25,6 +25,11 @@ cagemates: "[[Taffy]], [[Kat]], [[Dots]], [[Astro Pop]]"
 other:
 ---
 
+> [!abstract]- Fields
+> **Species** `INPUT[inlineSelect(option("Fox Squirrel"), option("Western Gray Squirrel"), option("California Ground Squirrel"), option("Humboldt's Flying Squirrel"), option("Douglas Squirrel"), option("Chipmunk")):species]`
+> **Sex** `INPUT[inlineSelect(option("male"), option("female"), option("unknown")):sex]`
+> **Disposition** `INPUT[inlineSelect(option("in care"), option("released"), option("died"), option("euthanized"), option("transferred"), option("DOA")):disposition]`
+
 ## Notes
 
 2026.03.23: kit seems to have turned the corner.  He's been eating well, active, and his penis seems to be normal.  I have decided to discontinue Clavomax. This is day 6, and he seems to be doing fine. I gave him his earlier dose, not his late dose.  

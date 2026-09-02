@@ -25,6 +25,11 @@ cagemates:
 other:
 ---
 
+> [!abstract]- Fields
+> **Species** `INPUT[inlineSelect(option("Fox Squirrel"), option("Western Gray Squirrel"), option("California Ground Squirrel"), option("Humboldt's Flying Squirrel"), option("Douglas Squirrel"), option("Chipmunk")):species]`
+> **Sex** `INPUT[inlineSelect(option("male"), option("female"), option("unknown")):sex]`
+> **Disposition** `INPUT[inlineSelect(option("in care"), option("released"), option("died"), option("euthanized"), option("transferred"), option("DOA")):disposition]`
+
 ## Notes
 
 2025.08.24:  this morning during feedings, we found chewy had passed away.  He was just laying on the ground of the cage.  It seems as it had happened hours ago as he was cool to the touch and still.  We had no signs that he was at risk.  He was smaller than the others, and didn't usually want to eat his formula, but was playful and ate the solid foods. 

@@ -25,6 +25,11 @@ cagemates:
 other: she is a SWR member and has called in for another injured squirrel.
 ---
 
+> [!abstract]- Fields
+> **Species** `INPUT[inlineSelect(option("Fox Squirrel"), option("Western Gray Squirrel"), option("California Ground Squirrel"), option("Humboldt's Flying Squirrel"), option("Douglas Squirrel"), option("Chipmunk")):species]`
+> **Sex** `INPUT[inlineSelect(option("male"), option("female"), option("unknown")):sex]`
+> **Disposition** `INPUT[inlineSelect(option("in care"), option("released"), option("died"), option("euthanized"), option("transferred"), option("DOA")):disposition]`
+
 ## Notes
 
 Person you found him said that she saw a cat playing with him and shoed it off.  Wasn't difficult to capture him.  She said his back and front left leg didn't look right. Thought maybe he had been hit by a car.  Another squirrel was in the tree around where he was found.  I'm thinking maybe he fell from great heights.  
