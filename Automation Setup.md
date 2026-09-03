@@ -5,44 +5,36 @@ Do this on desktop; everything works on mobile afterward.
 
 ---
 
-## 1. Install the plugins
+## 1. Activate the plugins
 
-Settings → **Community plugins** → turn on → **Browse**:
+The three plugins are already installed in `.obsidian/plugins/` with their
+config, and QuickAdd is pre-seeded with the five commands. You just need to
+let Obsidian load them:
 
-1. **Templater** (SilentVoid13) — install, enable.
-2. **QuickAdd** (Christian B. B. Houmann) — install, enable.
-3. **Meta Bind** (mProjectsCode) — install, enable. Powers the frontmatter
-   dropdowns. Default settings are fine; make sure "Enable syntax highlighting"
-   and the inline-field rendering options are on.
+1. **Fully quit and reopen Obsidian** (on mobile: swipe it closed and reopen).
+2. Settings → **Community plugins**. If it says Restricted Mode is on, click
+   **Turn on community plugins**.
+3. Confirm **Templater**, **QuickAdd**, and **Meta Bind** show as enabled.
+   Toggle them on if not.
 
-### Templater settings
+Versions installed: Templater 2.25.0, QuickAdd 2.24.2, Meta Bind 1.5.1. Update
+them anytime from Settings → Community plugins → Check for updates.
 
-- **Template folder location:** `Templates`
-- **Trigger Templater on new file creation:** ON
-- Under **Folder Templates** (optional): none needed.
+Already configured for you:
+- Templater + core Templates folder → `Templates/`
+- Templater "trigger on new file creation" → on
+- QuickAdd → the five commands in Section 2
 
-### Core "Templates" plugin
-
-Settings → Templates → **Template folder location:** `Templates` (so both engines agree).
-
----
-
-## 2. Load the QuickAdd configuration (fast path)
-
-1. Close Obsidian.
-2. Copy `Templates/quickadd-data.json` from this vault over
-   `.obsidian/plugins/quickadd/data.json` (overwrite).
-3. Reopen Obsidian. The five commands below appear in the command palette.
-
-If the fast path misbehaves, delete that `data.json`, restart, and build the
-choices by hand using **Section 3**.
+If QuickAdd's commands are missing or misbehave, delete
+`.obsidian/plugins/quickadd/data.json`, restart, and rebuild them by hand from
+Section 2.
 
 ---
 
-## 3. QuickAdd choices (manual build / reference)
+## 2. QuickAdd choices (reference — already configured)
 
-Settings → QuickAdd → add each choice, then click the ⚡ to register it as a
-command, then assign a hotkey or add it to the mobile toolbar.
+These are already built and registered as commands. This table is the spec to
+rebuild from if needed. Assign hotkeys or toolbar slots as you like.
 
 ### New Patient — type: Template
 
@@ -91,7 +83,7 @@ command, then assign a hotkey or add it to the mobile toolbar.
 
 ---
 
-## 4. Mobile toolbar
+## 3. Mobile toolbar
 
 On the phone: Settings → Toolbar → add the five QuickAdd commands. Now a patient
 visit is: open toolbar → *Log Weight* → type the number → done.
@@ -102,7 +94,7 @@ cleanly.)
 
 ---
 
-## 5. Frontmatter dropdowns (Meta Bind)
+## 4. Frontmatter dropdowns (Meta Bind)
 
 Each patient note has a collapsed **Fields** callout right under the properties
 with dropdowns for **Species**, **Sex**, and **Disposition**. Pick a value and
@@ -116,7 +108,7 @@ the frontmatter property updates — these are the only allowed values.
 - To constrain a *new* option field later, add a line to the callout in
   `Templates/New Patient.md` and re-run the bulk-insert.
 
-## 6. Dashboard
+## 5. Dashboard
 
 `Patients.base` (root of the vault) opens with tabs: **In care**, **Released**,
 **Did not survive**, **All patients**. Requires Obsidian 1.9+ (Bases is core, no
@@ -124,7 +116,7 @@ plugin needed). Bookmark it (Bookmarks core plugin) for one-tap access.
 
 ---
 
-## 7. Housekeeping still to do
+## 6. Housekeeping still to do
 
 - Work through `Normalization Review.md` and delete it when done.
 - Verify the dosing numbers in `Protocols/Medications/*` against your vet.
