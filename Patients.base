@@ -2,7 +2,6 @@ filters:
   and:
     - file.ext == "md"
     - species != null
-
 properties:
   note.species:
     displayName: Species
@@ -14,7 +13,6 @@ properties:
     displayName: Age at intake
   note.disposition:
     displayName: Disposition
-
 views:
   - type: table
     name: In care
@@ -23,14 +21,13 @@ views:
         - disposition == "in care"
     order:
       - file.name
-      - note.species
-      - note.sex
-      - note.intake_date
-      - note.intake_age
+      - species
+      - sex
+      - intake_date
+      - intake_age
     sort:
-      - property: note.intake_date
+      - property: intake_date
         direction: DESC
-
   - type: table
     name: Released
     filters:
@@ -38,35 +35,33 @@ views:
         - disposition == "released"
     order:
       - file.name
-      - note.species
-      - note.intake_date
-      - note.release_date
+      - species
+      - intake_date
+      - release_date
     sort:
-      - property: note.release_date
+      - property: release_date
         direction: DESC
-
   - type: table
     name: Did not survive
     filters:
       and:
-        - 'disposition == "died" || disposition == "euthanized" || disposition == "DOA"'
+        - disposition == "died" || disposition == "euthanized" || disposition == "DOA"
     order:
       - file.name
-      - note.species
-      - note.intake_date
-      - note.departure_date
-      - note.disposition
+      - species
+      - intake_date
+      - departure_date
+      - disposition
     sort:
-      - property: note.departure_date
+      - property: departure_date
         direction: DESC
-
   - type: table
     name: All patients
     order:
       - file.name
-      - note.species
-      - note.disposition
-      - note.intake_date
+      - species
+      - disposition
+      - intake_date
     sort:
-      - property: note.intake_date
+      - property: intake_date
         direction: DESC

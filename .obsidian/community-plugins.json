@@ -1,1 +1,5 @@
-["templater-obsidian","quickadd","obsidian-meta-bind-plugin"]
+[
+  "templater-obsidian",
+  "quickadd",
+  "obsidian-meta-bind-plugin"
+]
