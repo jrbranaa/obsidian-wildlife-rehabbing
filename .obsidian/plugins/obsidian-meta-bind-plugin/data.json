@@ -9,7 +9,93 @@
   "enableSyntaxHighlighting": true,
   "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [],
-  "buttonTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "Weight",
+      "icon": "",
+      "style": "default",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "Log a weight",
+      "id": "pt-weight",
+      "hidden": true,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:5017e52f-3330-4b48-9424-720b6ba08f4b"
+        }
+      ]
+    },
+    {
+      "label": "Feeding",
+      "icon": "",
+      "style": "default",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "Log a feeding",
+      "id": "pt-feeding",
+      "hidden": true,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:97b635f9-d024-4f41-82c9-d295a9d20abd"
+        }
+      ]
+    },
+    {
+      "label": "Med",
+      "icon": "",
+      "style": "default",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "Log a medication",
+      "id": "pt-med",
+      "hidden": true,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:560f1cc6-48c7-43cd-9254-f13bbe313c0a"
+        }
+      ]
+    },
+    {
+      "label": "Note",
+      "icon": "",
+      "style": "default",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "Add a dated note",
+      "id": "pt-note",
+      "hidden": true,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:8b1db963-14ca-4362-a3ac-c34c81d16953"
+        }
+      ]
+    },
+    {
+      "label": "\u22ef",
+      "icon": "",
+      "style": "default",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "All patient actions",
+      "id": "pt-menu",
+      "hidden": true,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:bc79fdd4-5455-4f71-bae6-3b5cabb36bb4"
+        }
+      ]
+    }
+  ],
   "excludedFolders": [
     "templates"
   ]

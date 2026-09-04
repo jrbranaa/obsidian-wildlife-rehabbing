@@ -41,7 +41,7 @@
       "type": "Capture",
       "command": true,
       "captureTo": "{{VALUE:patient}}",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "createFileIfItDoesntExist": {
         "enabled": false,
         "createWithTemplate": false,
@@ -82,7 +82,7 @@
       "type": "Capture",
       "command": true,
       "captureTo": "{{VALUE:patient}}",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "createFileIfItDoesntExist": {
         "enabled": false,
         "createWithTemplate": false,
@@ -123,7 +123,7 @@
       "type": "Capture",
       "command": true,
       "captureTo": "{{VALUE:patient}}",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "createFileIfItDoesntExist": {
         "enabled": false,
         "createWithTemplate": false,
@@ -164,7 +164,7 @@
       "type": "Capture",
       "command": true,
       "captureTo": "{{VALUE:patient}}",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "createFileIfItDoesntExist": {
         "enabled": false,
         "createWithTemplate": false,
@@ -198,6 +198,213 @@
         "focus": true,
         "mode": "default"
       }
+    },
+    {
+      "id": "bc79fdd4-5455-4f71-bae6-3b5cabb36bb4",
+      "name": "Patient Actions",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "5017e52f-3330-4b48-9424-720b6ba08f4b",
+          "name": "Log Weight",
+          "type": "Capture",
+          "command": false,
+          "captureTo": "{{VALUE:patient}}",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "| {{DATE:YYYY-MM-DD}} | {{VALUE:weight}} |  |  |  |  |"
+          },
+          "prepend": false,
+          "appendLink": false,
+          "task": false,
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Log",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "openFile": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFileInMode": "default",
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "focus": true,
+            "mode": "default"
+          }
+        },
+        {
+          "id": "97b635f9-d024-4f41-82c9-d295a9d20abd",
+          "name": "Log Feeding",
+          "type": "Capture",
+          "command": false,
+          "captureTo": "{{VALUE:patient}}",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "| {{DATE:YYYY-MM-DD}} |  | {{VALUE:qty}} | {{VALUE:formula}} | {{VALUE:feedings}} |  |"
+          },
+          "prepend": false,
+          "appendLink": false,
+          "task": false,
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Log",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "openFile": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFileInMode": "default",
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "focus": true,
+            "mode": "default"
+          }
+        },
+        {
+          "id": "560f1cc6-48c7-43cd-9254-f13bbe313c0a",
+          "name": "Log Medication",
+          "type": "Capture",
+          "command": false,
+          "captureTo": "{{VALUE:patient}}",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "| {{DATE:YYYY-MM-DD}} | {{VDATE:time,HH:mm}} | {{VALUE:drug}} | {{VALUE:dose}} | {{VALUE:route}} | {{VALUE:weight}} | {{VALUE:note}} |"
+          },
+          "prepend": false,
+          "appendLink": false,
+          "task": false,
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Medications",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "openFile": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFileInMode": "default",
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "focus": true,
+            "mode": "default"
+          }
+        },
+        {
+          "id": "8b1db963-14ca-4362-a3ac-c34c81d16953",
+          "name": "Add Note",
+          "type": "Capture",
+          "command": false,
+          "captureTo": "{{VALUE:patient}}",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{{DATE:YYYY-MM-DD}}: {{VALUE:note}}\n"
+          },
+          "prepend": false,
+          "appendLink": false,
+          "task": false,
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Notes",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "openFile": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFileInMode": "default",
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "focus": true,
+            "mode": "default"
+          }
+        },
+        {
+          "id": "5e7d5b6c-91b7-4e9e-9567-0eb383095ccf",
+          "name": "New Patient",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/New Patient.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsBehavior": {
+            "kind": "prompt"
+          },
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "focus": true,
+            "mode": "default"
+          }
+        }
+      ]
     }
   ],
   "inputPrompt": "single-line",

@@ -34,7 +34,14 @@ Section 2.
 ## 2. QuickAdd choices (reference — already configured)
 
 These are already built and registered as commands. This table is the spec to
-rebuild from if needed. Assign hotkeys or toolbar slots as you like.
+rebuild from if needed.
+
+The four capture choices are set to **Capture to active file** — run them while
+the patient's note is open (which is how the in-note buttons work, Section 3).
+`Capture To` / `{{VALUE:patient}}` is the fallback if no note is open.
+
+A sixth choice, **Patient Actions** (type: Multi), bundles all of them into one
+menu — give *that* a single hotkey instead of six.
 
 ### New Patient — type: Template
 
@@ -83,14 +90,32 @@ rebuild from if needed. Assign hotkeys or toolbar slots as you like.
 
 ---
 
-## 3. Mobile toolbar
+## 3. In-note action buttons (Meta Bind)
 
-On the phone: Settings → Toolbar → add the five QuickAdd commands. Now a patient
-visit is: open toolbar → *Log Weight* → type the number → done.
+Every patient note has a button row in the **Fields** callout:
 
-`Capture To: {{VALUE:patient}}` shows a fuzzy picker of every note — start typing
-the patient's name. (All patient names are unique across years, so this resolves
-cleanly.)
+> `Weight` `Feeding` `Med` `Note` `⋯`
+
+Each runs the matching QuickAdd command against the note you're in — so a patient
+visit is: open the note → tap **Weight** → type `142` → done. `⋯` opens the full
+**Patient Actions** menu (the place to add Release / Transfer / etc. later).
+
+How it's wired:
+- Meta Bind → Settings → **Button Templates** holds 5 templates (`pt-weight`,
+  `pt-feeding`, `pt-med`, `pt-note`, `pt-menu`), each a `command` action calling
+  a QuickAdd choice.
+- The note contains only `` `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]` ``
+  in the callout — edit the templates once, every note updates.
+- To add an action later: new QuickAdd choice → add it to the Patient Actions
+  Multi → (optionally) new button template + add its id to the `BUTTON[...]` line
+  in `Templates/New Patient.md`, then re-run the bulk insert.
+
+If the buttons show as literal `` `BUTTON[...]` `` text: confirm Meta Bind is
+enabled and "render inline fields in callouts" is on.
+
+### Optional: mobile toolbar
+
+Settings → Toolbar → add **Patient Actions** (one entry, fans out to all six).
 
 ---
 
