@@ -2,11 +2,11 @@
 name: Giselle
 species: Fox Squirrel
 sex: female
-disposition: in care
+disposition: released
 intake_date: 2025-08-11
 rescue_date: 2025-08-11
-departure_date:
-release_date:
+departure_date: 2026-09-04
+release_date: 2026-09-04
 intake_age: 6 weeks
 departure_age:
 id:

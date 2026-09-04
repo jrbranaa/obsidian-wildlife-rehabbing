@@ -2,11 +2,11 @@
 name: Gaylord
 species: California Ground Squirrel
 sex: male
-disposition: in care
+disposition: released
 intake_date:
 rescue_date:
-departure_date:
-release_date:
+departure_date: 2026-09-04
+release_date: 2026-09-04
 intake_age: Adult
 departure_age:
 id:

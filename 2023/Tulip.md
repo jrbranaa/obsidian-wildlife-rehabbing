@@ -2,16 +2,16 @@
 name: Tulip
 species: Western Gray Squirrel
 sex: female
-disposition: in care
+disposition: released
 intake_date:
 rescue_date:
-departure_date:
-release_date:
+departure_date: 2026-09-04
+release_date: 2026-09-04
 intake_age:
 departure_age:
 id:
 release_cage:
-release_site:
+release_site: "[[Laurie's]]"
 transferred_to:
 siblings:
 cagemates:

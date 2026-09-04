@@ -2,16 +2,16 @@
 name: Bert
 species: Western Gray Squirrel
 sex: male
-disposition: in care
+disposition: released
 intake_date: 2023-06-04
 rescue_date:
-departure_date:
-release_date:
+departure_date: 2026-09-04
+release_date: 2026-09-04
 intake_age:
 departure_age:
 id:
 release_cage:
-release_site:
+release_site: "[[Linda's]]"
 transferred_to:
 siblings: "[[Ernie]]"
 cagemates:

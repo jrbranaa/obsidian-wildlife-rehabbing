@@ -2,16 +2,16 @@
 name: Kit
 species: Fox Squirrel
 sex: male
-disposition: in care
+disposition: released
 intake_date:
 rescue_date:
-departure_date:
-release_date:
+departure_date: 2026-08-30
+release_date: 2026-08-30
 intake_age: 5 weeks
 departure_age:
 id:
 release_cage:
-release_site:
+release_site: "[[Lyndi's]]"
 transferred_to:
 siblings: "[[Kat]]"
 cagemates: "[[Taffy]], [[Kat]], [[Dots]], [[Astro Pop]]"

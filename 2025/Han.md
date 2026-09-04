@@ -2,11 +2,11 @@
 name: Han
 species: Western Gray Squirrel
 sex: male
-disposition: in care
+disposition: released
 intake_date: 2025-07-20
 rescue_date: 2025-07-20
-departure_date:
-release_date:
+departure_date: 2026-09-04
+release_date: 2026-09-04
 intake_age: 3 weeks
 departure_age:
 id:

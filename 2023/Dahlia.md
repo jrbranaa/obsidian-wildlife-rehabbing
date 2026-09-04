@@ -2,11 +2,11 @@
 name: Dahlia
 species: Western Gray Squirrel
 sex: female
-disposition: in care
+disposition: released
 intake_date:
 rescue_date:
-departure_date:
-release_date:
+departure_date: 2026-09-04
+release_date: 2026-09-04
 intake_age:
 departure_age:
 id:

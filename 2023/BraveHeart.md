@@ -2,10 +2,10 @@
 name: BraveHeart
 species: Western Gray Squirrel
 sex: male
-disposition: in care
+disposition: died
 intake_date:
 rescue_date:
-departure_date:
+departure_date: 2026-09-04
 release_date:
 intake_age:
 departure_age:
