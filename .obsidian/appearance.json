@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
-    "patient-buttons"
+    "patient-buttons",
+    "bookmarks-compact"
   ]
 }

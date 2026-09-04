@@ -1,0 +1,14 @@
+/* Bookmarks pane: under a bookmarked search, show file names only —
+   hide the matched-text snippet (e.g. "disposition: in care") and its count.
+   Enable: Settings → Appearance → CSS snippets → bookmarks-compact */
+
+.workspace-leaf-content[data-type="bookmarks"] .search-result-file-matches,
+.workspace-leaf-content[data-type="bookmarks"] .search-result-file-match,
+.workspace-leaf-content[data-type="bookmarks"] .search-result-container .tree-item-flair-outer {
+  display: none !important;
+}
+
+/* tighten the row now that it's a single line */
+.workspace-leaf-content[data-type="bookmarks"] .search-result-file-title {
+  padding-block: 2px;
+}
