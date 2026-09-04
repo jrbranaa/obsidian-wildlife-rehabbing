@@ -1,0 +1,66 @@
+/* "Log Actions" button bar on patient notes
+   Enable: Settings → Appearance → CSS snippets → patient-buttons */
+
+.callout[data-callout="log-actions"] {
+  --callout-color: 230, 145, 40;      /* amber */
+  --callout-icon: lucide-clipboard-list;
+  margin-block: 0.6rem 1rem;
+  border: 1px solid rgba(var(--callout-color), 0.55);
+  border-radius: 10px;
+  background: rgba(var(--callout-color), 0.10);
+}
+
+.callout[data-callout="log-actions"] .callout-title {
+  padding: 0.35rem 0.6rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgb(var(--callout-color));
+}
+
+.callout[data-callout="log-actions"] .callout-content {
+  padding: 0 0.6rem 0.6rem;
+}
+
+/* the button row */
+.callout[data-callout="log-actions"] .mb-button-group-inline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0;
+}
+
+.callout[data-callout="log-actions"] .mb-button-group-inline > p,
+.callout[data-callout="log-actions"] p:has(> .mb-button-group-inline) {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.callout[data-callout="log-actions"] button.mb-button {
+  flex: 1 1 5rem;
+  min-height: 2.5rem;
+  padding: 0.5rem 0.85rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border-radius: 8px;
+  background: rgb(var(--callout-color));
+  color: white;
+  border: none;
+}
+
+.callout[data-callout="log-actions"] button.mb-button:hover {
+  filter: brightness(1.08);
+}
+
+/* the "⋯" more-menu button: narrower, subdued */
+.callout[data-callout="log-actions"] button.mb-button:last-child {
+  flex: 0 0 auto;
+  min-width: 2.75rem;
+  background: transparent;
+  color: rgb(var(--callout-color));
+  border: 1px solid rgba(var(--callout-color), 0.55);
+}

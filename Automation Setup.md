@@ -92,9 +92,11 @@ menu — give *that* a single hotkey instead of six.
 
 ## 3. In-note action buttons (Meta Bind)
 
-Every patient note has a visible button row right under the properties:
+Every patient note has a **Log Actions** bar right under the properties:
 
-> `Weight` `Feeding` `Med` `Note` `⋯`
+> ┌─ LOG ACTIONS ────────────────┐
+> │ `Weight` `Feeding` `Med` `Note` `⋯` │
+> └──────────────────────────────┘
 
 Each runs the matching QuickAdd command against the note you're in — so a patient
 visit is: open the note → tap **Weight** → type `142` → done. `⋯` opens the full
@@ -104,8 +106,12 @@ How it's wired:
 - Meta Bind → Settings → **Button Templates** holds 5 templates (`pt-weight`,
   `pt-feeding`, `pt-med`, `pt-note`, `pt-menu`), each a `command` action calling
   a QuickAdd choice.
-- The note contains only `` `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]` ``
-  on one line — edit the templates once, every note updates.
+- The note contains a `> [!log-actions] Log Actions` callout wrapping one line,
+  `` `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]` `` — edit the
+  templates once, every note updates.
+- The callout box + button styling come from the CSS snippet
+  `.obsidian/snippets/patient-buttons.css` (enabled in Settings → Appearance →
+  CSS snippets). Tweak the `--callout-color` / sizes there.
 - To add an action later: new QuickAdd choice → add it to the Patient Actions
   Multi → (optionally) new button template + add its id to the `BUTTON[...]` line
   in `Templates/New Patient.md`, then re-run the bulk insert.

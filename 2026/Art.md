@@ -16,7 +16,8 @@ cagemates:
 other:
 ---
 
-`BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]`
+> [!log-actions] Log Actions
+> `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]`
 
 ## Notes
 
@@ -24,8 +25,10 @@ other:
 
 | Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
 | ---- | ---------- | ----------- | ------- | -------- | ----- |
-
+| 2026-09-03 | 23 |  |  |  |  |
+| 2026-09-03 |  | 5 | 32/40 | 4 |  |
 ## Medications
 
 | Date | Time | Drug | Dose | Route | Weight (g) | Notes |
 | ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| 2026-09-03 | 21:22 | Baytril | .03ml | oral | 23 |  |

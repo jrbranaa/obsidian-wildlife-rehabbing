@@ -16,7 +16,8 @@ cagemates:
 other: actually found late in the day on the 17th
 ---
 
-`BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]`
+> [!log-actions] Log Actions
+> `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]`
 
 ## Notes
 

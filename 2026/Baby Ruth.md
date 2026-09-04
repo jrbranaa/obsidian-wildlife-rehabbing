@@ -16,7 +16,8 @@ cagemates: "[[Heath]]"
 other:
 ---
 
-`BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]`
+> [!log-actions] Log Actions
+> `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]`
 
 ## Notes
 
