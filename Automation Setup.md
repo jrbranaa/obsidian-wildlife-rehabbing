@@ -103,22 +103,21 @@ note open. It:
 
 Every patient note has a **Log Actions** bar right under the properties:
 
-> ┌─ LOG ACTIONS ────────────────┐
-> │ `Weight` `Feeding` `Med` `Note` `⋯` │
-> └──────────────────────────────┘
+> ┌─ LOG ACTIONS ───────────────────────────┐
+> │ `Weight` `Feeding` `Med` `Note` `Disposition` `⋯` │
+> └─────────────────────────────────────────┘
 
 Each runs the matching QuickAdd command against the note you're in — so a patient
 visit is: open the note → tap **Weight** → type `142` → done. `⋯` opens the full
-**Patient Actions** menu, which also holds **Set Disposition** and anything else
-added later.
+**Patient Actions** menu (everything, in case the bar is ever cut down).
 
 How it's wired:
-- Meta Bind → Settings → **Button Templates** holds the templates `pt-weight`,
-  `pt-feeding`, `pt-med`, `pt-note`, `pt-menu` (and `pt-disposition`, not on the
-  bar by default), each a `command` action calling a QuickAdd choice.
+- Meta Bind → Settings → **Button Templates** holds `pt-weight`, `pt-feeding`,
+  `pt-med`, `pt-note`, `pt-disposition`, `pt-menu`, each a `command` action
+  calling a QuickAdd choice.
 - The note contains a `> [!log-actions] Log Actions` callout wrapping one line,
-  `` `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]` `` — edit the
-  templates once, every note updates.
+  `` `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-disposition, pt-menu]` `` —
+  edit the templates once, every note updates.
 - The callout box + button styling come from the CSS snippet
   `.obsidian/snippets/patient-buttons.css` (enabled in Settings → Appearance →
   CSS snippets). Tweak the `--callout-color` / sizes there.
