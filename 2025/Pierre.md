@@ -25,18 +25,23 @@ Seems like he has the genetic mutation making him black
 
 ![[image 57.jpg]]
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-07-31 | 60 |  |  |  |  |
-| 2025-08-01 | 64 |  |  |  |  |
-| 2025-08-03 | 57 |  |  |  |  |
-| 2025-06-04 | 62 |  |  |  |  |
-| 2025-08-06 | 76 |  |  |  |  |
-| 2025-08-11 | 79 |  |  |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-07-31 | 60 |  |
+| 2025-08-01 | 64 |  |
+| 2025-08-03 | 57 |  |
+| 2025-06-04 | 62 |  |
+| 2025-08-06 | 76 |  |
+| 2025-08-11 | 79 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

@@ -23,12 +23,17 @@ other:
 
 ![[BB50B937-F313-4B40-9158-F3D164B6B39C.jpeg]]
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

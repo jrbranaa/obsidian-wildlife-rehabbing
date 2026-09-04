@@ -49,14 +49,14 @@
       },
       "format": {
         "enabled": true,
-        "format": "| {{DATE:YYYY-MM-DD}} | {{VALUE:weight}} |  |  |  |  |"
+        "format": "| {{DATE:YYYY-MM-DD}} | {{VALUE:weight}} |  |"
       },
       "prepend": false,
       "appendLink": false,
       "task": false,
       "insertAfter": {
         "enabled": true,
-        "after": "## Log",
+        "after": "## Weight",
         "insertAtEnd": true,
         "considerSubsections": false,
         "createIfNotFound": false,
@@ -90,14 +90,14 @@
       },
       "format": {
         "enabled": true,
-        "format": "| {{DATE:YYYY-MM-DD}} |  | {{VALUE:qty}} | {{VALUE:formula}} | {{VALUE:feedings}} |  |"
+        "format": "| {{DATE:YYYY-MM-DD}} | {{VALUE:qty}} | {{VALUE:formula}} | {{VALUE:feedings}} |  |"
       },
       "prepend": false,
       "appendLink": false,
       "task": false,
       "insertAfter": {
         "enabled": true,
-        "after": "## Log",
+        "after": "## Feeding",
         "insertAtEnd": true,
         "considerSubsections": false,
         "createIfNotFound": false,
@@ -131,7 +131,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "| {{DATE:YYYY-MM-DD}} | {{VDATE:time,HH:mm}} | {{VALUE:drug}} | {{VALUE:dose}} | {{VALUE:route}} | {{VALUE:weight}} | {{VALUE:note}} |"
+        "format": "| {{DATE:YYYY-MM-DD}} | {{VDATE:time,HH:mm}} | {{VALUE:drug}} | {{VALUE:dose}} | {{VALUE:route}} | {{VALUE:note}} |"
       },
       "prepend": false,
       "appendLink": false,
@@ -219,14 +219,14 @@
           },
           "format": {
             "enabled": true,
-            "format": "| {{DATE:YYYY-MM-DD}} | {{VALUE:weight}} |  |  |  |  |"
+            "format": "| {{DATE:YYYY-MM-DD}} | {{VALUE:weight}} |  |"
           },
           "prepend": false,
           "appendLink": false,
           "task": false,
           "insertAfter": {
             "enabled": true,
-            "after": "## Log",
+            "after": "## Weight",
             "insertAtEnd": true,
             "considerSubsections": false,
             "createIfNotFound": false,
@@ -260,14 +260,14 @@
           },
           "format": {
             "enabled": true,
-            "format": "| {{DATE:YYYY-MM-DD}} |  | {{VALUE:qty}} | {{VALUE:formula}} | {{VALUE:feedings}} |  |"
+            "format": "| {{DATE:YYYY-MM-DD}} | {{VALUE:qty}} | {{VALUE:formula}} | {{VALUE:feedings}} |  |"
           },
           "prepend": false,
           "appendLink": false,
           "task": false,
           "insertAfter": {
             "enabled": true,
-            "after": "## Log",
+            "after": "## Feeding",
             "insertAtEnd": true,
             "considerSubsections": false,
             "createIfNotFound": false,
@@ -301,7 +301,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "| {{DATE:YYYY-MM-DD}} | {{VDATE:time,HH:mm}} | {{VALUE:drug}} | {{VALUE:dose}} | {{VALUE:route}} | {{VALUE:weight}} | {{VALUE:note}} |"
+            "format": "| {{DATE:YYYY-MM-DD}} | {{VDATE:time,HH:mm}} | {{VALUE:drug}} | {{VALUE:dose}} | {{VALUE:route}} | {{VALUE:note}} |"
           },
           "prepend": false,
           "appendLink": false,

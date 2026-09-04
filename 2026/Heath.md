@@ -23,13 +23,19 @@ other:
 
 2026.08.28 - Release Day!  He hopped out of his cage within about 5 minutes of opening it.  He was eager to climb the trees and jump around.  It was such a pleasure to watch.
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2026-04-21 | 232 |  |  | 3 |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2026-04-21 | 232 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2026-04-21 |  |  | 3 |  |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

@@ -23,12 +23,17 @@ other:
 
 2024.04.09 Colby's lost a little weight over the last day down from 113 to 108. Yesterday she was the same weight as the day before, which was a gain from the day the arrived.
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

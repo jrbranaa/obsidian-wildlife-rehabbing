@@ -29,13 +29,18 @@ It is unclear what happened and was shocking.
 
 RIP Chewy
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-08-11 | 131 |  |  |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-08-11 | 131 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

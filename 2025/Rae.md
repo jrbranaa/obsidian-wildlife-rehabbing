@@ -27,13 +27,19 @@ Although there was no visible sign of injury, the fact that she was found at the
 
 ![[image 55.jpg]]
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-07-23 | 57 | 2.5 | Electrastat |  | No desire to eat |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-07-23 | 57 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2025-07-23 | 2.5 | Electrastat |  | No desire to eat |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

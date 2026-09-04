@@ -28,13 +28,18 @@ Left eye seems swollen.
 
 ![[image 62.jpg]]
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-08-19 | 59 |  |  |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-08-19 | 59 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

@@ -64,28 +64,34 @@ He also seems to be bored with his food selection. Doesn't seem that interested 
 2025.03.06:  Came to us after having apparently been grabbed by a hawk and dropped in a pond.  His right hind leg is apparently broken.  Upon retrieving him, we examined him, placed him on heat and 30 min later gave him some electrostat.  Attempted a splint to stabilize his leg.  Started him on some meds:
 - 18:00 .5ml metacam, .1ml baytril (incase of aspiration when in pond)
 
-## Log
+## Weight
 
-| Date | Weight(g) | Qty  | Food                                 | Feedings | Notes                                                                                                          |     |
-| ---- | --------- | ---- | ------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------------- | --- |
-| 2025-03-06 | 288 | 10cc | Electrostat, apple, avocado, nut | 2 |  |  |
-| 2025-03-07 |  | 8cc | Apple Juice |  |  |  |
-|  |  | 10cc | Yogurt |  |  |  |
-| 2025-03-08 |  | 10cc | Apple Juice + variety of solid foods | 2 | He does seem to like Apples and walnuts |  |
-|  |  | 8cc | Yogurt | 3 |  |  |
-| 2025-03-09 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |  |
-|  |  | 4cc | Apple Sauce | 2 |  |  |
-| 2025-03-10 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |  |
-|  |  | 4cc | Apple Sauce | 2 |  |  |
-| 2025-03-11 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |  |
-|  |  | 5cc | Smoothie | 1 | Was clogging so I needed to go back to Yogurt. |  |
-|  |  | 4cc | Apple sauce | 2 |  |  |
-| 2025-03-12 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 | Watched him eat nuts and apple.  He's really digging those. |  |
-|  |  | 4cc | Apple sauce |  | I think we need to get him a water bottle. |  |
-| 2025-03-19 | 336 |  |  |  | gained weight, but likely some of it is the weight of his splint.  and I weighed him after eating some yogurt. |  |
-| 2025-03-27 | 364 |  |  |  |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-03-06 | 288 |  |
+| 2025-03-19 | 336 | gained weight, but likely some of it is the weight of his splint.  and I weighed him after eating some yogurt. |
+| 2025-03-27 | 364 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2025-03-06 | 10cc | Electrostat, apple, avocado, nut | 2 |  |
+| 2025-03-07 | 8cc | Apple Juice |  |  |
+|  | 10cc | Yogurt |  |  |
+| 2025-03-08 | 10cc | Apple Juice + variety of solid foods | 2 | He does seem to like Apples and walnuts |
+|  | 8cc | Yogurt | 3 |  |
+| 2025-03-09 | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |
+|  | 4cc | Apple Sauce | 2 |  |
+| 2025-03-10 | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |
+|  | 4cc | Apple Sauce | 2 |  |
+| 2025-03-11 | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |
+|  | 5cc | Smoothie | 1 | Was clogging so I needed to go back to Yogurt. |
+|  | 4cc | Apple sauce | 2 |  |
+| 2025-03-12 | 10cc | Yogurt + apple, nuts, mixed veggie | 2 | Watched him eat nuts and apple.  He's really digging those. |
+|  | 4cc | Apple sauce |  | I think we need to get him a water bottle. |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

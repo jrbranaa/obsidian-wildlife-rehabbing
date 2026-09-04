@@ -21,13 +21,19 @@ other:
 
 ## Notes
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-08-10 | 47 | 2.5cc | 4:1 32/40 |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-08-10 | 47 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2025-08-10 | 2.5cc | 4:1 32/40 |  |  |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

@@ -21,18 +21,25 @@ other:
 
 ## Notes
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2024-09-25 |  | 5cc | 20/50 2:1 |  |  |
-| 2024-09-28 | 125 | 6.5 | 20/50 2:1 |  |  |
-| 2024-09-30 | 140 | 7 |  |  |  |
-| 2024-10-01 |  |  |  |  | Last two feedings she had soft white poop (playdough) |
-| 2024-10-06 | 172 |  |  |  |  |
-| 2024-10-16 | 255 |  |  |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2024-09-28 | 125 |  |
+| 2024-09-30 | 140 |  |
+| 2024-10-06 | 172 |  |
+| 2024-10-16 | 255 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2024-09-25 | 5cc | 20/50 2:1 |  |  |
+| 2024-09-28 | 6.5 | 20/50 2:1 |  |  |
+| 2024-09-30 | 7 |  |  |  |
+| 2024-10-01 |  |  |  | Last two feedings she had soft white poop (playdough) |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

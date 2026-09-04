@@ -159,15 +159,22 @@ No evidence of other injuries or paralysis.
 
 He seems to be displaying some new symptoms, such as paralysis in his right arm/hand and possibly right leg.  He clearly had less motor control.
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-12-09 |  | 10-12cc | Electrostat |  |  |
-| 2025-12-10 | 562 | 35cc | Yogurt | 2, 23:45 | Ate well |
-| 2025-12-11 | 588 | 60cc | Yogurt/apple sauce | 11:45, 21:00, 11:45 |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-12-10 | 562 |  |
+| 2025-12-11 | 588 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2025-12-09 | 10-12cc | Electrostat |  |  |
+| 2025-12-10 | 35cc | Yogurt | 2, 23:45 | Ate well |
+| 2025-12-11 | 60cc | Yogurt/apple sauce | 11:45, 21:00, 11:45 |  |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

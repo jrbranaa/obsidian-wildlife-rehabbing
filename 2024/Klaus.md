@@ -50,12 +50,17 @@ Pictures
 
 _Heavenly Father, please help us in our time of need, You have made us stewards of Klaus. If it is Your will, please restore him to health and strength. I pray too for other animals in need. May they be treated with the care and respect deserving of all Your creation. Blessed are You Lord God, and holy is Your name forever and ever. Amen_
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

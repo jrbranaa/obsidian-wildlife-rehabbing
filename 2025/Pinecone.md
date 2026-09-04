@@ -46,15 +46,22 @@ Clearly he suffered some trauma to his snout as it was visibly swollen and blood
 
 Attempted Hydration but he was resistant due to breathing difficulties.
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-03-22 | 143 |  |  |  |  |
-| 2025-03-23 | 135 | 8cc | 20/50 3:1 | X5 | Ate ok for some of the feedings |
-| 2025-03-24 | 133 | 8cc | 20/50 3:1* | X5 | On avg ate about 5cc per feeding |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-03-22 | 143 |  |
+| 2025-03-23 | 135 |  |
+| 2025-03-24 | 133 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2025-03-23 | 8cc | 20/50 3:1 | X5 | Ate ok for some of the feedings |
+| 2025-03-24 | 8cc | 20/50 3:1* | X5 | On avg ate about 5cc per feeding |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

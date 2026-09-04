@@ -31,16 +31,23 @@ Since coming in, she's lost the vast majority of her fur.  None left on her bell
 
 From that point forward, she ate better and didn't have any formula back up through her nose.  She's also been less lethargic.
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-|  | 45 | 3 | 32/40 4:1 | 2-3hr | Started with 2 electrostats, moved to formula last feeding |
-| 2026-08-20 | 49 | 3cc | 32/40 1:1 | 4-5hr | This is the first day she really seemed to want to eat |
-| 2026-08-21 |  |  | 32/40 1:! |  | Moring feeding she was very hungry and active.  Fed her ~ 5cc. |
-| 2026-08-24 | 66 |  |  |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+|  | 45 |  |
+| 2026-08-20 | 49 |  |
+| 2026-08-24 | 66 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+|  | 3 | 32/40 4:1 | 2-3hr | Started with 2 electrostats, moved to formula last feeding |
+| 2026-08-20 | 3cc | 32/40 1:1 | 4-5hr | This is the first day she really seemed to want to eat |
+| 2026-08-21 |  | 32/40 1:! |  | Moring feeding she was very hungry and active.  Fed her ~ 5cc. |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

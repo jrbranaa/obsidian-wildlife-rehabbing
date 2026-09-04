@@ -39,16 +39,25 @@ Debbie noticed that his area around his anus was large and hard.  I pressed on i
 
 **2026.03.09:** apparently fell from tree (~20ft).  No visible injuries.  No paralysis evident.  Seemed stunned.
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2026-03-09 | 150 | 7cc | Electrostat | 3 |  |
-| 2026-03-15 | 160 |  |  | 4 |  |
-| 2026-03-18 | 171 |  |  | 4 |  |
-| 2026-03-19 | 154 |  |  | 3 |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2026-03-09 | 150 |  |
+| 2026-03-15 | 160 |  |
+| 2026-03-18 | 171 |  |
+| 2026-03-19 | 154 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2026-03-09 | 7cc | Electrostat | 3 |  |
+| 2026-03-15 |  |  | 4 |  |
+| 2026-03-18 |  |  | 4 |  |
+| 2026-03-19 |  |  | 3 |  |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

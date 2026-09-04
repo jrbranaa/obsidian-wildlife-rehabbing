@@ -29,15 +29,20 @@ other:
 
 2025.04.21:  Juniper seems to be completely fine.  She is very active and has been eating well.  He snout seems fine.  No signs of blood or breathing obstruction.  She is quite vocal, grunting a lot and even doing some distress calls.  Although she sounds more like a squealing pig at times.
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-04-21 |  |  |  |  |  |
-| 2025-04-24 | 194 | 10 | 20/50 | 2 |  |
-| 2025-05-06 | 330 |  |  |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-04-24 | 194 |  |
+| 2025-05-06 | 330 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2025-04-24 | 10 | 20/50 | 2 |  |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

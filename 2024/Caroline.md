@@ -31,19 +31,29 @@ Both yesterday and today I let her out of her cage and in both cases she ended u
 
 During her feeding she was resistant, but did not attempt to bite or scratch.
 
-## Log
+## Weight
 
-| Date       | Weight (g) | Food          | Notes                            |
-| ---------- | ---------- | ------------- | -------------------------------- |
-| 2024-08-29 | 104 | 5cc 32/40 x 5 |  |
-| 2024-08-30 | 109 | 5cc 32/40 x 5 |  |
-| 2024-09-01 | 116 | 6cc 20/50 x 4 |  |
-| 2024-09-07 | 144 | 7cc 20/50 x 4 |  |
-| 2024-09-08 |  | 9cc 20/50 x 4 |  |
-| 2024-09-13 | 202 |  | Two marks on tail - base and mid |
-| 2024-09-19 | 229 | 14cc x 3 |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2024-08-29 | 104 |  |
+| 2024-08-30 | 109 |  |
+| 2024-09-01 | 116 |  |
+| 2024-09-07 | 144 |  |
+| 2024-09-13 | 202 | Two marks on tail - base and mid |
+| 2024-09-19 | 229 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2024-08-29 |  | 5cc 32/40 x 5 |  |  |
+| 2024-08-30 |  | 5cc 32/40 x 5 |  |  |
+| 2024-09-01 |  | 6cc 20/50 x 4 |  |  |
+| 2024-09-07 |  | 7cc 20/50 x 4 |  |  |
+| 2024-09-08 |  | 9cc 20/50 x 4 |  |  |
+| 2024-09-19 |  | 14cc x 3 |  |  |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

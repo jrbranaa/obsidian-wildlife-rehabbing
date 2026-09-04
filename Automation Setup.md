@@ -55,9 +55,8 @@ menu — give *that* a single hotkey instead of six.
 
 | Setting | Value |
 | --- | --- |
-| Capture To | `{{VALUE:patient}}` |
-| Capture format | on → `\| {{DATE:YYYY-MM-DD}} \| {{VALUE:weight}} \|  \|  \|  \|  \|` |
-| Insert after | on → `## Log` |
+| Capture format | on → `\| {{DATE:YYYY-MM-DD}} \| {{VALUE:weight}} \|  \|` |
+| Insert after | on → `## Weight` |
 | └ Insert at end of section | on |
 | Prepend / Task / Open file | off |
 
@@ -65,17 +64,15 @@ menu — give *that* a single hotkey instead of six.
 
 | Setting | Value |
 | --- | --- |
-| Capture To | `{{VALUE:patient}}` |
-| Capture format | `\| {{DATE:YYYY-MM-DD}} \|  \| {{VALUE:qty}} \| {{VALUE:formula}} \| {{VALUE:feedings}} \|  \|` |
-| Insert after | `## Log` |
+| Capture format | `\| {{DATE:YYYY-MM-DD}} \| {{VALUE:qty}} \| {{VALUE:formula}} \| {{VALUE:feedings}} \|  \|` |
+| Insert after | `## Feeding` |
 | └ Insert at end of section | on |
 
 ### Log Medication — type: Capture
 
 | Setting | Value |
 | --- | --- |
-| Capture To | `{{VALUE:patient}}` |
-| Capture format | `\| {{DATE:YYYY-MM-DD}} \| {{VDATE:time,HH:mm}} \| {{VALUE:drug}} \| {{VALUE:dose}} \| {{VALUE:route}} \| {{VALUE:weight}} \| {{VALUE:note}} \|` |
+| Capture format | `\| {{DATE:YYYY-MM-DD}} \| {{VDATE:time,HH:mm}} \| {{VALUE:drug}} \| {{VALUE:dose}} \| {{VALUE:route}} \| {{VALUE:note}} \|` |
 | Insert after | `## Medications` |
 | └ Insert at end of section | on |
 

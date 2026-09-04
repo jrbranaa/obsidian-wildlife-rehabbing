@@ -21,16 +21,21 @@ other:
 
 ## Notes
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2026-03-29 | 131 |  |  |  |  |
-| 2026-04-04 | 178 |  |  |  |  |
-| 2026-04-06 | 189 |  |  |  |  |
-| 2026-04-08 | 209 |  |  |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2026-03-29 | 131 |  |
+| 2026-04-04 | 178 |  |
+| 2026-04-06 | 189 |  |
+| 2026-04-08 | 209 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

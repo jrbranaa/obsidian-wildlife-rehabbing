@@ -31,15 +31,21 @@ One thing worth noting was that when he was brought to Linda's, he was in a ligh
 
 ![[image 53.jpg]]
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-08-11 | 19 | 1cc | 4:1 32/40 | Every 2 hrs |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-08-11 | 19 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2025-08-11 | 1cc | 4:1 32/40 | Every 2 hrs |  |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |
 
 #wildlife/squirrel/symptoms/molting

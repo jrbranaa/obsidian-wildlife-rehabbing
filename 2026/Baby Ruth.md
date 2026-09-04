@@ -23,15 +23,20 @@ other:
 
 2026.08.28:  Release Day!  Although we opened the cage, we weren't lucky enough to see her come out like Heath.
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2026-04-13 | 144 |  |  |  |  |
-| 2026-04-14 | 144 |  |  |  |  |
-| 2026-04-21 | 164 |  |  |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2026-04-13 | 144 |  |
+| 2026-04-14 | 144 |  |
+| 2026-04-21 | 164 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

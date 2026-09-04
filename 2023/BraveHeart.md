@@ -23,12 +23,17 @@ other:
 
 BraveHeart joined us at the same time as [[Dahlia]], but is not related.  As perhaps obvious from his name, he came to us not really thriving.  He was under-sized for his presumed age, had pneumonia, and had discharge coming from his eyes.  Over the course of the first several says, being treated with antibiotics, he made good progress.  The clicking from his infection was going away, he was eating well, and had more energy.  Most importantly, he started putting on weight.
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

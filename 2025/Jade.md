@@ -33,17 +33,24 @@ Upon further evaluation, she did seem to have diminished motor control in her le
 
 22:45 Started her on .12cc of [[Dexamethasone|Dex]] in left leg
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-06-18 | 141 | 8cc | Electrolytes | 2 x |  |
-| 2025-06-19 | - | 8cc | 4:1 20/50 | 4 x daily | slow eater, but did finish all feedings |
-| 2025-06-20 |  | 8cc | 3:1 20/50 | 4 x daily | Did not eat last feeding |
-| 2025-06-21 |  | 8cc | 2:1 20/50 | 4 x daily | Ate about 4cc first feeding |
-| 2025-06-24 | 187 |  |  |  |  |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-06-18 | 141 |  |
+| 2025-06-19 | - |  |
+| 2025-06-24 | 187 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2025-06-18 | 8cc | Electrolytes | 2 x |  |
+| 2025-06-19 | 8cc | 4:1 20/50 | 4 x daily | slow eater, but did finish all feedings |
+| 2025-06-20 | 8cc | 3:1 20/50 | 4 x daily | Did not eat last feeding |
+| 2025-06-21 | 8cc | 2:1 20/50 | 4 x daily | Ate about 4cc first feeding |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

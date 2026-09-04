@@ -37,17 +37,26 @@ It appears that she may have eye issues.  Linda has been treating as needed with
 
 ![[IMG_1607.jpeg]]
 
-## Log
+## Weight
 
-| Date       | Weight | Food            | Notes                                                                                                                                                                                                                                                       |
-| ---------- | ------ | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024-08-30 | 30g | 1.5cc 20/50 x 4 |  |
-| 2024-09-01 | 30g | 1.5cc 20/50 x 4 |  |
-| 2024-09-07 | 33g | 2.0cc 20/50 x 4 | Administered eye drop in right eye.  She wasn't very hungry for a couple of her feedings.  She does seem to be eating some of her solid foods and is gaining weight. |
-| 2024-09-08 |  | 2.5cc 20/50 x 4 | Didn't finish morning feeding.  At second feeding we noticed her left eye was really swollen.  Administered eye drop. |
-| 2024-09-12 | 30g | 2.5cc 20/50 x 3 | This morning she did not eat well. She seems to have an infection and so I gave her a dose of Baytril (actually overdosed her as I didn't notice there was a difference between full strength and 1:10 dilution.  I hope this doesn't cause her more harm). |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2024-08-30 | 30g |  |
+| 2024-09-01 | 30g |  |
+| 2024-09-07 | 33g |  |
+| 2024-09-12 | 30g |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2024-08-30 |  | 1.5cc 20/50 x 4 |  |  |
+| 2024-09-01 |  | 1.5cc 20/50 x 4 |  |  |
+| 2024-09-07 |  | 2.0cc 20/50 x 4 |  | Administered eye drop in right eye.  She wasn't very hungry for a couple of her feedings.  She does seem to be eating some of her solid foods and is gaining weight. |
+| 2024-09-08 |  | 2.5cc 20/50 x 4 |  | Didn't finish morning feeding.  At second feeding we noticed her left eye was really swollen.  Administered eye drop. |
+| 2024-09-12 |  | 2.5cc 20/50 x 3 |  | This morning she did not eat well. She seems to have an infection and so I gave her a dose of Baytril (actually overdosed her as I didn't notice there was a difference between full strength and 1:10 dilution.  I hope this doesn't cause her more harm). |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

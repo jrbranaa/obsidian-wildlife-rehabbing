@@ -33,13 +33,19 @@ Minor visible wound on abdomen.  Hind quarter paralysis.
 
 23:39- electrostat.  Shorty after drinking a bit and gasping he passed in my hand.  RIP Johnny.
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2026-07-05 | 75 | 6cc | Electrostat | 2 | Gasping when feeding |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2026-07-05 | 75 |  |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+| 2026-07-05 | 6cc | Electrostat | 2 | Gasping when feeding |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |

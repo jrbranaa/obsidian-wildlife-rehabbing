@@ -21,14 +21,19 @@ other:
 
 ## Notes
 
-## Log
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2026-09-03 | 23 |  |  |  |  |
-| 2026-09-03 |  | 5 | 32/40 | 4 |  |
+## Weight
+
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
+
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
-| 2026-09-03 | 21:22 | Baytril | .03ml | oral | 23 |  |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |
+|  |  |  |  |  |  |

@@ -31,13 +31,18 @@ I do wonder if giving him dex would have changed the outcome.
 
 ![[image 52.jpg]]
 
-## Log
+## Weight
 
-| Date | Weight (g) | Formula Qty | Formula | Feedings | Notes |
-| ---- | ---------- | ----------- | ------- | -------- | ----- |
-| 2025-06-11 | 442 |  |  |  | 15cc electastat |
+| Date | Weight (g) | Notes |
+| ---- | ---------- | ----- |
+| 2025-06-11 | 442 | 15cc electastat |
+
+## Feeding
+
+| Date | Formula Qty | Formula | Feedings | Notes |
+| ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 
-| Date | Time | Drug | Dose | Route | Weight (g) | Notes |
-| ---- | ---- | ---- | ---- | ----- | ---------- | ----- |
+| Date | Time | Drug | Dose | Route | Notes |
+| ---- | ---- | ---- | ---- | ----- | ----- |
