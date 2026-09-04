@@ -8,6 +8,9 @@ const species = await tp.system.suggester(
   ["Fox Squirrel", "Western Gray Squirrel", "California Ground Squirrel",
    "Humboldt's Flying Squirrel", "Douglas Squirrel", "Chipmunk", ""]);
 const sex = await tp.system.suggester(["male", "female", "unknown"], ["male", "female", "unknown"]);
+const disposition = await tp.system.suggester(
+  ["in care", "DOA", "died", "euthanized", "transferred", "released"],
+  ["in care", "DOA", "died", "euthanized", "transferred", "released"]);
 const intake = await tp.system.prompt("Intake date", tp.date.now("YYYY-MM-DD"));
 const age = await tp.system.prompt("Intake age (e.g. 5 weeks)", "");
 const year = intake.slice(0, 4);
@@ -17,7 +20,7 @@ await tp.file.move(`/${year}/${name}`);
 name: <% name %>
 species: <% species %>
 sex: <% sex %>
-disposition: in care
+disposition: <% disposition %>
 intake_date: <% intake %>
 rescue_date: <% intake %>
 departure_date:
@@ -31,12 +34,7 @@ cagemates:
 other:
 ---
 
-> [!abstract]- Fields
-> **Species** `INPUT[inlineSelect(option("Fox Squirrel"), option("Western Gray Squirrel"), option("California Ground Squirrel"), option("Humboldt's Flying Squirrel"), option("Douglas Squirrel"), option("Chipmunk")):species]`
-> **Sex** `INPUT[inlineSelect(option("male"), option("female"), option("unknown")):sex]`
-> **Disposition** `INPUT[inlineSelect(option("in care"), option("released"), option("died"), option("euthanized"), option("transferred"), option("DOA")):disposition]`
->
-> `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]`
+`BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]`
 
 ## Notes
 

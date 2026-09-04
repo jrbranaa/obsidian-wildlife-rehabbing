@@ -92,7 +92,7 @@ menu — give *that* a single hotkey instead of six.
 
 ## 3. In-note action buttons (Meta Bind)
 
-Every patient note has a button row in the **Fields** callout:
+Every patient note has a visible button row right under the properties:
 
 > `Weight` `Feeding` `Med` `Note` `⋯`
 
@@ -105,13 +105,13 @@ How it's wired:
   `pt-feeding`, `pt-med`, `pt-note`, `pt-menu`), each a `command` action calling
   a QuickAdd choice.
 - The note contains only `` `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]` ``
-  in the callout — edit the templates once, every note updates.
+  on one line — edit the templates once, every note updates.
 - To add an action later: new QuickAdd choice → add it to the Patient Actions
   Multi → (optionally) new button template + add its id to the `BUTTON[...]` line
   in `Templates/New Patient.md`, then re-run the bulk insert.
 
 If the buttons show as literal `` `BUTTON[...]` `` text: confirm Meta Bind is
-enabled and "render inline fields in callouts" is on.
+enabled.
 
 ### Optional: mobile toolbar
 
@@ -119,19 +119,23 @@ Settings → Toolbar → add **Patient Actions** (one entry, fans out to all six
 
 ---
 
-## 4. Frontmatter dropdowns (Meta Bind)
+## 4. Option fields (species / sex / disposition)
 
-Each patient note has a collapsed **Fields** callout right under the properties
-with dropdowns for **Species**, **Sex**, and **Disposition**. Pick a value and
-the frontmatter property updates — these are the only allowed values.
+These live in plain frontmatter and are edited in the **Properties panel** like
+any other property.
 
-- The other option-based-but-freeform fields (`intake_age`, dates, contacts)
-  stay as plain text.
-- If the dropdowns render as literal `` `INPUT[...]` `` text: check Meta Bind is
-  enabled, and that quoting inside `option("...")` survived (some older Meta Bind
-  builds want single quotes).
-- To constrain a *new* option field later, add a line to the callout in
-  `Templates/New Patient.md` and re-run the bulk-insert.
+- **At intake** the New Patient command prompts for species, sex, and disposition
+  with pick-lists (Templater suggesters), so new notes start with valid values.
+- **Later changes** (e.g. disposition → released) are typed/picked in the
+  Properties panel, or via a future "Set …" action on the `⋯` menu.
+- Allowed values — keep these consistent:
+  - `species`: Fox Squirrel · Western Gray Squirrel · California Ground Squirrel ·
+    Humboldt's Flying Squirrel · Douglas Squirrel · Chipmunk
+  - `sex`: male · female · unknown
+  - `disposition`: in care · released · died · euthanized · transferred · DOA
+
+There is no native Obsidian dropdown for a plain property; a real Properties-panel
+dropdown would need a niche plugin (Custom Selectors) — not currently installed.
 
 ## 5. Dashboard
 
