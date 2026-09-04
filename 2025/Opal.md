@@ -11,15 +11,6 @@ intake_age: 5 weeks
 departure_age:
 id: 25-SQ-068
 release_cage:
-address_found: same
-circumstances:
-treatment_provided:
-food_water_provided:
-updates_desired:
-contact_name: Jerry Beard
-contact_phone: 310 Back Street, Coloma, CA 95613
-contact_text_ok:
-contact_email: jerrie.beard@parks.ca.gov
 siblings: "[[Pearl]]"
 cagemates:
 other:

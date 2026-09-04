@@ -11,15 +11,6 @@ intake_age: 4 months
 departure_age:
 id:
 release_cage:
-address_found:
-circumstances: caught by dog
-treatment_provided: no
-food_water_provided: provided water
-updates_desired: Yes
-contact_name:
-contact_phone:
-contact_text_ok:
-contact_email:
 siblings:
 cagemates:
 other:

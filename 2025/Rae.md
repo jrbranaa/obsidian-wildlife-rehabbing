@@ -11,15 +11,6 @@ intake_age: 3 weeks
 departure_age:
 id:
 release_cage:
-address_found: 4620 8 Mile Rd
-circumstances: On ground under tree.  Deceased sibling next to her.
-treatment_provided: no
-food_water_provided: yes
-updates_desired:
-contact_name: Reese
-contact_phone: 228-574-7317
-contact_text_ok:
-contact_email:
 siblings:
 cagemates:
 other:

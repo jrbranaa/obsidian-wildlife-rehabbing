@@ -11,15 +11,6 @@ intake_age: 1 year
 departure_age:
 id:
 release_cage:
-address_found: "4420 Pleasant Valley Rd #96, Diamond Springs"
-circumstances: found cat playing with him.
-treatment_provided: No
-food_water_provided: No
-updates_desired:
-contact_name:
-contact_phone:
-contact_text_ok: Yes
-contact_email:
 siblings:
 cagemates:
 other: she is a SWR member and has called in for another injured squirrel.

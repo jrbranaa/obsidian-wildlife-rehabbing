@@ -11,15 +11,6 @@ intake_age: 7 weeks
 departure_age:
 id:
 release_cage:
-address_found: 629 Tanbark Oak Ct, EDH
-circumstances: found on ground
-treatment_provided:
-food_water_provided: Water and ssed
-updates_desired:
-contact_name: Vidy Tisdar
-contact_phone: 916.539.9131
-contact_text_ok:
-contact_email:
 siblings:
 cagemates:
 other: actually found late in the day on the 17th

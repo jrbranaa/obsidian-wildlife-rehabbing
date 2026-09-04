@@ -11,15 +11,6 @@ intake_age: days
 departure_age:
 id:
 release_cage:
-address_found:
-circumstances: found at the base of a tree.  Didn't want to leave it there for reunification due to dogs being present.
-treatment_provided: no
-food_water_provided: no
-updates_desired:
-contact_name:
-contact_phone:
-contact_text_ok:
-contact_email:
 siblings:
 cagemates:
 other:

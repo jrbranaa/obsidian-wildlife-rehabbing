@@ -11,15 +11,6 @@ intake_age: Adult
 departure_age: 2025.11.20
 id:
 release_cage:
-address_found:
-circumstances:
-treatment_provided:
-food_water_provided:
-updates_desired:
-contact_name:
-contact_phone:
-contact_text_ok:
-contact_email:
 siblings:
 cagemates:
 other:

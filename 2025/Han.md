@@ -11,15 +11,6 @@ intake_age: 3 weeks
 departure_age:
 id:
 release_cage:
-address_found: 5319 Skycrest Ct, El Dorado
-circumstances: cat carried in
-treatment_provided: no
-food_water_provided: no
-updates_desired:
-contact_name: Julia Wright
-contact_phone: 916.390.4671
-contact_text_ok:
-contact_email:
 siblings:
 cagemates:
 other:
