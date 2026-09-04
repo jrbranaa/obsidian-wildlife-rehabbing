@@ -11,6 +11,8 @@ intake_age: Adult
 departure_age: 2025.11.20
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings:
 cagemates:
 other:

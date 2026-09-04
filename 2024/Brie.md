@@ -11,6 +11,8 @@ intake_age:
 departure_age:
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings: "[[Chedder]]"
 cagemates:
 other:

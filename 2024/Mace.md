@@ -11,6 +11,8 @@ intake_age: 5 weeks
 departure_age: 2024.09.12
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings:
 cagemates:
 other:

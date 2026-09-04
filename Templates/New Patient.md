@@ -29,6 +29,8 @@ intake_age: <% age %>
 departure_age:
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings:
 cagemates:
 other:

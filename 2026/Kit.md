@@ -11,6 +11,8 @@ intake_age: 5 weeks
 departure_age:
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings: "[[Kat]]"
 cagemates: "[[Taffy]], [[Kat]], [[Dots]], [[Astro Pop]]"
 other:

@@ -13,6 +13,10 @@ properties:
     displayName: Age at intake
   note.disposition:
     displayName: Disposition
+  note.release_site:
+    displayName: Release site
+  note.transferred_to:
+    displayName: Transferred to
 views:
   - type: table
     name: In care
@@ -38,8 +42,23 @@ views:
       - species
       - intake_date
       - release_date
+      - release_site
     sort:
       - property: release_date
+        direction: DESC
+  - type: table
+    name: Transferred
+    filters:
+      and:
+        - disposition == "transferred"
+    order:
+      - file.name
+      - species
+      - intake_date
+      - departure_date
+      - transferred_to
+    sort:
+      - property: departure_date
         direction: DESC
   - type: table
     name: Did not survive

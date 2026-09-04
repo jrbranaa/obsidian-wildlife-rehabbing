@@ -11,6 +11,8 @@ intake_age: 6 weeks
 departure_age:
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings:
 cagemates:
 other:

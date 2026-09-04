@@ -94,6 +94,23 @@
           "command": "quickadd:choice:bc79fdd4-5455-4f71-bae6-3b5cabb36bb4"
         }
       ]
+    },
+    {
+      "label": "Disposition",
+      "icon": "",
+      "style": "default",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "Set disposition + outcome date",
+      "id": "pt-disposition",
+      "hidden": true,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:0f8e10c9-eb72-4d83-a866-73e35c39b245"
+        }
+      ]
     }
   ],
   "excludedFolders": [

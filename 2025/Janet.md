@@ -11,6 +11,8 @@ intake_age: days
 departure_age:
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings: "[[Jack]]"
 cagemates:
 other:

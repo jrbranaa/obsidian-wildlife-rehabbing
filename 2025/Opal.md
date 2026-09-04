@@ -11,6 +11,8 @@ intake_age: 5 weeks
 departure_age:
 id: 25-SQ-068
 release_cage:
+release_site:
+transferred_to:
 siblings: "[[Pearl]]"
 cagemates:
 other:

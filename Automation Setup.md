@@ -85,6 +85,18 @@ menu — give *that* a single hotkey instead of six.
 | Insert after | `## Notes` |
 | └ Insert at end of section | **off** (newest note goes on top) |
 
+### Set Disposition — type: Macro
+
+One step: **User Script → `Scripts/set-disposition.js`**. Run it with the patient
+note open. It:
+
+1. asks for the disposition (pick-list)
+2. for anything but "in care", asks the outcome date (pre-filled today)
+3. for **released** / **transferred**, asks the location — pick a note from
+   `Locations/`, or `＋ New location…` to create one from `Templates/New Location.md`
+4. writes `disposition` + `departure_date`, plus `release_date` / `release_site`
+   or `transferred_to` as appropriate; picking "in care" clears them all
+
 ---
 
 ## 3. In-note action buttons (Meta Bind)
@@ -97,12 +109,13 @@ Every patient note has a **Log Actions** bar right under the properties:
 
 Each runs the matching QuickAdd command against the note you're in — so a patient
 visit is: open the note → tap **Weight** → type `142` → done. `⋯` opens the full
-**Patient Actions** menu (the place to add Release / Transfer / etc. later).
+**Patient Actions** menu, which also holds **Set Disposition** and anything else
+added later.
 
 How it's wired:
-- Meta Bind → Settings → **Button Templates** holds 5 templates (`pt-weight`,
-  `pt-feeding`, `pt-med`, `pt-note`, `pt-menu`), each a `command` action calling
-  a QuickAdd choice.
+- Meta Bind → Settings → **Button Templates** holds the templates `pt-weight`,
+  `pt-feeding`, `pt-med`, `pt-note`, `pt-menu` (and `pt-disposition`, not on the
+  bar by default), each a `command` action calling a QuickAdd choice.
 - The note contains a `> [!log-actions] Log Actions` callout wrapping one line,
   `` `BUTTON[pt-weight, pt-feeding, pt-med, pt-note, pt-menu]` `` — edit the
   templates once, every note updates.
@@ -124,18 +137,26 @@ Settings → Toolbar → add **Patient Actions** (one entry, fans out to all six
 
 ## 4. Option fields (species / sex / disposition)
 
-These live in plain frontmatter and are edited in the **Properties panel** like
-any other property.
+These live in plain frontmatter (Obsidian has no native dropdown property type).
 
-- **At intake** the New Patient command prompts for species, sex, and disposition
-  with pick-lists (Templater suggesters), so new notes start with valid values.
-- **Later changes** (e.g. disposition → released) are typed/picked in the
-  Properties panel, or via a future "Set …" action on the `⋯` menu.
-- Allowed values — keep these consistent:
+- **species / sex** — pick-lists at intake (New Patient prompts); edited later as
+  plain text in the Properties panel.
+- **disposition** — use the **Set Disposition** action (`⋯` menu) rather than
+  editing the property by hand: it constrains the value *and* stamps the outcome
+  date + location. See Section 2.
+- Allowed values — keep these consistent if editing by hand:
   - `species`: Fox Squirrel · Western Gray Squirrel · California Ground Squirrel ·
     Humboldt's Flying Squirrel · Douglas Squirrel · Chipmunk
   - `sex`: male · female · unknown
   - `disposition`: in care · released · died · euthanized · transferred · DOA
+
+### Locations
+
+`Locations/` holds one note per release site / transfer facility.
+`release_site` and `transferred_to` on a patient are `[[wikilinks]]` to them, so
+each location note's backlinks show every animal sent there. Seeded with
+`Laurie's` and `Trout Creek (Pioneer Trail)`; add more via `＋ New location…` in
+the Set Disposition flow or straight from `Templates/New Location.md`.
 
 There is no native Obsidian dropdown for a plain property; a real Properties-panel
 dropdown would need a niche plugin (Custom Selectors) — not currently installed.

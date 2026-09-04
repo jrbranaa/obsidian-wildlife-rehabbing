@@ -11,6 +11,8 @@ intake_age: 3 weeks
 departure_age:
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings: "[[Pierre]], [[Sophie]]"
 cagemates:
 other:

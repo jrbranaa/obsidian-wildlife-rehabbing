@@ -11,6 +11,8 @@ intake_age: 1 year
 departure_age:
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings:
 cagemates:
 other: she is a SWR member and has called in for another injured squirrel.

@@ -11,6 +11,8 @@ intake_age:
 departure_age:
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings:
 cagemates: "[[Kit]], [[Kat]], [[Dots]], [[Astro Pop]]"
 other:

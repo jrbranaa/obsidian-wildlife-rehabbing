@@ -11,6 +11,8 @@ intake_age: 3 weeks
 departure_age:
 id: 25-SQ-093
 release_cage:
+release_site:
+transferred_to:
 siblings:
 cagemates:
 other:

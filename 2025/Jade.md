@@ -11,6 +11,8 @@ intake_age: 7 weeks
 departure_age:
 id:
 release_cage:
+release_site:
+transferred_to:
 siblings:
 cagemates:
 other: actually found late in the day on the 17th
