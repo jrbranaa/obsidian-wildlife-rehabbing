@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1788498770492,
+      "title": "Patients",
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1788498770492,
+          "title": "In care",
+          "query": "[disposition:\"in care\"]"
+        },
+        {
+          "type": "search",
+          "ctime": 1788498770492,
+          "title": "Released",
+          "query": "[disposition:\"released\"]"
+        },
+        {
+          "type": "search",
+          "ctime": 1788498770492,
+          "title": "Transferred",
+          "query": "[disposition:\"transferred\"]"
+        },
+        {
+          "type": "search",
+          "ctime": 1788498770492,
+          "title": "Did not survive",
+          "query": "[disposition:\"died\"] OR [disposition:\"euthanized\"] OR [disposition:\"DOA\"]"
+        }
+      ]
+    }
+  ]
+}
