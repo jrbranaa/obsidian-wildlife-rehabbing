@@ -90,7 +90,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "| {{DATE:YYYY-MM-DD}} | {{VALUE:qty}} | {{VALUE:formula}} | {{VALUE:feedings}} |  |"
+        "format": "| {{DATE:YYYY-MM-DD}} | {{VDATE:time,HH:mm}} | {{VALUE:qty}} | {{VALUE:formula}} | {{VALUE:feedings}} |  |"
       },
       "prepend": false,
       "appendLink": false,
@@ -279,7 +279,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "| {{DATE:YYYY-MM-DD}} | {{VALUE:qty}} | {{VALUE:formula}} | {{VALUE:feedings}} |  |"
+            "format": "| {{DATE:YYYY-MM-DD}} | {{VDATE:time,HH:mm}} | {{VALUE:qty}} | {{VALUE:formula}} | {{VALUE:feedings}} |  |"
           },
           "prepend": false,
           "appendLink": false,

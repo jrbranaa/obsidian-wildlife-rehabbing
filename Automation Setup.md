@@ -64,7 +64,7 @@ menu — give *that* a single hotkey instead of six.
 
 | Setting | Value |
 | --- | --- |
-| Capture format | `\| {{DATE:YYYY-MM-DD}} \| {{VALUE:qty}} \| {{VALUE:formula}} \| {{VALUE:feedings}} \|  \|` |
+| Capture format | `\| {{DATE:YYYY-MM-DD}} \| {{VDATE:time,HH:mm}} \| {{VALUE:qty}} \| {{VALUE:formula}} \| {{VALUE:feedings}} \|  \|` |
 | Insert after | `## Feeding` |
 | └ Insert at end of section | on |
 
