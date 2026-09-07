@@ -144,8 +144,8 @@ Today was release day.  We drove Scully, Mulder, and Theo up to Tahoe and releas
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 

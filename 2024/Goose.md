@@ -35,13 +35,13 @@ other:
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2024-09-12 | 2.0cc | 32/40 2:1 | 5 |  |
-| 2024-09-13 | 2.0cc | 2/3 32/40, 1/3 20/50 | 5 | She may really only need 4 feedings a day.  Also can be distracted eater.  Sometimes feeding in basket helps. |
-| 2024-09-19 | 2.5cc |  | 4 |  |
-| 2024-09-23 | 2.5cc |  |  |  |
-| 2024-09-28 | 3.5 |  | 3 |  |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2024-09-12 |  | 2.0cc | 32/40 2:1 | 5 |  |
+| 2024-09-13 |  | 2.0cc | 2/3 32/40, 1/3 20/50 | 5 | She may really only need 4 feedings a day.  Also can be distracted eater.  Sometimes feeding in basket helps. |
+| 2024-09-19 |  | 2.5cc |  | 4 |  |
+| 2024-09-23 |  | 2.5cc |  |  |  |
+| 2024-09-28 |  | 3.5 |  | 3 |  |
 
 ## Medications
 

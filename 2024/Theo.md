@@ -226,8 +226,8 @@ Every 4 hours (5x day)
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 

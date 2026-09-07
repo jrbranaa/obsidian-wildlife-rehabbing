@@ -34,8 +34,8 @@ other:
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 

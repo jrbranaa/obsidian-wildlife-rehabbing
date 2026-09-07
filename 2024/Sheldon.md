@@ -697,8 +697,8 @@ Found his way into the nesting box on his own and into his hammock. Seemed to re
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 

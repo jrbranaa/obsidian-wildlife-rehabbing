@@ -47,12 +47,12 @@ During handling and injections he was quite resistant.  Showing a lot of strengt
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-07-02 | 40cc | Electrostat | x 2 | Was thirsty the first feeding.  Not as much the second, but still finished. |
-| 2025-07-03 | 10cc | Yogurt | x 1 |  |
-|  | 10cc | Apple sauce | x 1 |  |
-|  | 20cc | Electrostat | x 1 |  |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-07-02 |  | 40cc | Electrostat | x 2 | Was thirsty the first feeding.  Not as much the second, but still finished. |
+| 2025-07-03 |  | 10cc | Yogurt | x 1 |  |
+|  |  | 10cc | Apple sauce | x 1 |  |
+|  |  | 20cc | Electrostat | x 1 |  |
 
 ## Medications
 

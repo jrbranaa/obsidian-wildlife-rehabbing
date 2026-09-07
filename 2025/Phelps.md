@@ -76,22 +76,22 @@ He also seems to be bored with his food selection. Doesn't seem that interested 
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-03-06 | 10cc | Electrostat, apple, avocado, nut | 2 |  |
-| 2025-03-07 | 8cc | Apple Juice |  |  |
-|  | 10cc | Yogurt |  |  |
-| 2025-03-08 | 10cc | Apple Juice + variety of solid foods | 2 | He does seem to like Apples and walnuts |
-|  | 8cc | Yogurt | 3 |  |
-| 2025-03-09 | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |
-|  | 4cc | Apple Sauce | 2 |  |
-| 2025-03-10 | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |
-|  | 4cc | Apple Sauce | 2 |  |
-| 2025-03-11 | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |
-|  | 5cc | Smoothie | 1 | Was clogging so I needed to go back to Yogurt. |
-|  | 4cc | Apple sauce | 2 |  |
-| 2025-03-12 | 10cc | Yogurt + apple, nuts, mixed veggie | 2 | Watched him eat nuts and apple.  He's really digging those. |
-|  | 4cc | Apple sauce |  | I think we need to get him a water bottle. |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-03-06 |  | 10cc | Electrostat, apple, avocado, nut | 2 |  |
+| 2025-03-07 |  | 8cc | Apple Juice |  |  |
+|  |  | 10cc | Yogurt |  |  |
+| 2025-03-08 |  | 10cc | Apple Juice + variety of solid foods | 2 | He does seem to like Apples and walnuts |
+|  |  | 8cc | Yogurt | 3 |  |
+| 2025-03-09 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |
+|  |  | 4cc | Apple Sauce | 2 |  |
+| 2025-03-10 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |
+|  |  | 4cc | Apple Sauce | 2 |  |
+| 2025-03-11 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 |  |
+|  |  | 5cc | Smoothie | 1 | Was clogging so I needed to go back to Yogurt. |
+|  |  | 4cc | Apple sauce | 2 |  |
+| 2025-03-12 |  | 10cc | Yogurt + apple, nuts, mixed veggie | 2 | Watched him eat nuts and apple.  He's really digging those. |
+|  |  | 4cc | Apple sauce |  | I think we need to get him a water bottle. |
 
 ## Medications
 

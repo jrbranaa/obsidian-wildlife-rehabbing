@@ -61,21 +61,21 @@ The challenge is her staying warm when she is constantly trying to climb the hig
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-02-17 | 1.3 | 32/40 3:1 | Every 2hrs | .7cc electrostat for first two feedings.  Feeding every 2 hours. |
-| 2025-02-18 | 1.3 | 32/40 3:1 | Every 2hrs |  |
-| 2025-02-19 |  | 32/40 3:1 | Every 2hrs |  |
-| 2025-02-20 |  | 32/40 3:1 | Every 2hrs |  |
-| 2025-02-21 |  | 32/40 2:1 | Every 2hrs |  |
-| 2025-02-22 |  | 32/40 2:1 | Every 2.5 hrs + 3:00 am | Changed to feeding every 2.5hrs.  Went down to one feeding in the middle of the night. |
-| 2025-02-23 | 1.6 | 32/40 2:1 | Every 2.5 hrs + 3:00 am |  |
-| 2025-02-24 | 1.6 |  |  | She seems to be molting.  Skin isn't discolored or noticeably irritated |
-| 2025-02-25 | 1.7 |  |  |  |
-| 2025-02-26 | 2.0 |  |  |  |
-| 2025-02-28 | 2.5 |  | Every 2.5 hrs + 3:30 |  |
-| 2025-03-01 | 3.0 |  |  | Good appetite but plateau |
-| 2025-03-05 |  |  |  | RIP |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-02-17 |  | 1.3 | 32/40 3:1 | Every 2hrs | .7cc electrostat for first two feedings.  Feeding every 2 hours. |
+| 2025-02-18 |  | 1.3 | 32/40 3:1 | Every 2hrs |  |
+| 2025-02-19 |  |  | 32/40 3:1 | Every 2hrs |  |
+| 2025-02-20 |  |  | 32/40 3:1 | Every 2hrs |  |
+| 2025-02-21 |  |  | 32/40 2:1 | Every 2hrs |  |
+| 2025-02-22 |  |  | 32/40 2:1 | Every 2.5 hrs + 3:00 am | Changed to feeding every 2.5hrs.  Went down to one feeding in the middle of the night. |
+| 2025-02-23 |  | 1.6 | 32/40 2:1 | Every 2.5 hrs + 3:00 am |  |
+| 2025-02-24 |  | 1.6 |  |  | She seems to be molting.  Skin isn't discolored or noticeably irritated |
+| 2025-02-25 |  | 1.7 |  |  |  |
+| 2025-02-26 |  | 2.0 |  |  |  |
+| 2025-02-28 |  | 2.5 |  | Every 2.5 hrs + 3:30 |  |
+| 2025-03-01 |  | 3.0 |  |  | Good appetite but plateau |
+| 2025-03-05 |  |  |  |  | RIP |
 
 ## Medications
 

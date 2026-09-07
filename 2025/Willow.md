@@ -55,14 +55,14 @@ She's been cage mates with [[Juniper]] since yesterday.
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-04-09 | 4.5 | 4:1 32/40, 3:1 | 6 |  |
-| 2025-04-12 |  | Formula transitiom | 5 |  |
-| 2025-04-13 |  |  |  | Eyes open |
-| 2025-04-14 |  | 20/50 |  |  |
-| 2025-04-21 | 9 cc | 20/50 2:1 | 4 | Diarrhea for most of the day |
-| 2025-04-22 |  |  |  | Electrolytes  @ 6:30pm |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-04-09 |  | 4.5 | 4:1 32/40, 3:1 | 6 |  |
+| 2025-04-12 |  |  | Formula transitiom | 5 |  |
+| 2025-04-13 |  |  |  |  | Eyes open |
+| 2025-04-14 |  |  | 20/50 |  |  |
+| 2025-04-21 |  | 9 cc | 20/50 2:1 | 4 | Diarrhea for most of the day |
+| 2025-04-22 | 18:30 |  |  |  | Electrolytes |
 
 ## Medications
 

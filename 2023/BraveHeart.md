@@ -32,8 +32,8 @@ BraveHeart joined us at the same time as [[Dahlia]], but is not related.  As per
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
 
 ## Medications
 

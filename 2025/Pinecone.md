@@ -58,10 +58,10 @@ Attempted Hydration but he was resistant due to breathing difficulties.
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-03-23 | 8cc | 20/50 3:1 | X5 | Ate ok for some of the feedings |
-| 2025-03-24 | 8cc | 20/50 3:1* | X5 | On avg ate about 5cc per feeding |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-03-23 |  | 8cc | 20/50 3:1 | X5 | Ate ok for some of the feedings |
+| 2025-03-24 |  | 8cc | 20/50 3:1* | X5 | On avg ate about 5cc per feeding |
 
 ## Medications
 

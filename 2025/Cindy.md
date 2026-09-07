@@ -40,11 +40,11 @@ other:
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-04-03 |  | 3:1 20/50 |  |  |
-| 2025-04-04 | 7cc |  | 4 | Didn't eat formula well for 18:30 feeding, but ate well for late feeding |
-| 2025-04-07 |  |  | 3 |  |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-04-03 |  |  | 3:1 20/50 |  |  |
+| 2025-04-04 |  | 7cc |  | 4 | Didn't eat formula well for 18:30 feeding, but ate well for late feeding |
+| 2025-04-07 |  |  |  | 3 |  |
 
 ## Medications
 

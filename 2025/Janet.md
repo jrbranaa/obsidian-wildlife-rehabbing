@@ -33,14 +33,14 @@ other:
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-02-17 |  | 32/40 4:1 |  |  |
-| 2025-02-18 | 1.0cc | 32/40 3:1 | every 2 hrs |  |
-| 2025-02-19 | 1.0cc | 32/40 3:1 | every 2 hrs |  |
-| 2025-02-20 | 1.2cc | 32/40 3:1 | every 2 hrs |  |
-| 2025-02-21 | 1.2cc | 32/40 2:1 | every 2 hrs | At Linda's due to a concert |
-| 2025-02-22 | 1.2cc | 32/40 2:1 | every 2 hrs | Passed |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-02-17 |  |  | 32/40 4:1 |  |  |
+| 2025-02-18 |  | 1.0cc | 32/40 3:1 | every 2 hrs |  |
+| 2025-02-19 |  | 1.0cc | 32/40 3:1 | every 2 hrs |  |
+| 2025-02-20 |  | 1.2cc | 32/40 3:1 | every 2 hrs |  |
+| 2025-02-21 |  | 1.2cc | 32/40 2:1 | every 2 hrs | At Linda's due to a concert |
+| 2025-02-22 |  | 1.2cc | 32/40 2:1 | every 2 hrs | Passed |
 
 ## Medications
 

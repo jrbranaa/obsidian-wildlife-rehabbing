@@ -45,12 +45,12 @@ Upon further evaluation, she did seem to have diminished motor control in her le
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-06-18 | 8cc | Electrolytes | 2 x |  |
-| 2025-06-19 | 8cc | 4:1 20/50 | 4 x daily | slow eater, but did finish all feedings |
-| 2025-06-20 | 8cc | 3:1 20/50 | 4 x daily | Did not eat last feeding |
-| 2025-06-21 | 8cc | 2:1 20/50 | 4 x daily | Ate about 4cc first feeding |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-06-18 |  | 8cc | Electrolytes | 2 x |  |
+| 2025-06-19 |  | 8cc | 4:1 20/50 | 4 x daily | slow eater, but did finish all feedings |
+| 2025-06-20 |  | 8cc | 3:1 20/50 | 4 x daily | Did not eat last feeding |
+| 2025-06-21 |  | 8cc | 2:1 20/50 | 4 x daily | Ate about 4cc first feeding |
 
 ## Medications
 

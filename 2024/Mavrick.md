@@ -34,13 +34,13 @@ other:
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2024-09-12 | 1.5cc | 32/40 2:1 | 5 |  |
-| 2024-09-13 | 1.5cc | 32/40 2:1 | 5 | Noticed a bit of diarrhea but followed by dark solid poop |
-| 2024-09-17 | 2cc | 32/40 w 20/50 | 4 | Still some diarrhea |
-| 2024-09-19 | 2cc |  | 5 | I think we prematurely dripped him to 4 feedings a day and he doesn't seem to be thriving. |
-| 2024-09-20 | 1.5cc |  | 5 | The last 3 feedings he's vomited part of what he ate.  He also seems fairly lethargic. |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2024-09-12 |  | 1.5cc | 32/40 2:1 | 5 |  |
+| 2024-09-13 |  | 1.5cc | 32/40 2:1 | 5 | Noticed a bit of diarrhea but followed by dark solid poop |
+| 2024-09-17 |  | 2cc | 32/40 w 20/50 | 4 | Still some diarrhea |
+| 2024-09-19 |  | 2cc |  | 5 | I think we prematurely dripped him to 4 feedings a day and he doesn't seem to be thriving. |
+| 2024-09-20 |  | 1.5cc |  | 5 | The last 3 feedings he's vomited part of what he ate.  He also seems fairly lethargic. |
 
 ## Medications
 

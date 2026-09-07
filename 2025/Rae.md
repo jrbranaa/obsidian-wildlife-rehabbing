@@ -37,9 +37,9 @@ Although there was no visible sign of injury, the fact that she was found at the
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-07-23 | 2.5 | Electrastat |  | No desire to eat |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-07-23 |  | 2.5 | Electrastat |  | No desire to eat |
 
 ## Medications
 

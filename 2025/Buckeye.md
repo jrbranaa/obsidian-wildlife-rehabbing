@@ -163,15 +163,15 @@ I suspect he got some kind of head injury.  I don't believe he has any broken li
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-04-16 | 6cc | Electastat, 4:1 20/50 |  | All feedings he ate well<br>.25mL metacam |
-| 2025-04-17 | 6cc | 4:1 20/50 | 7:45, 12:00 | .25mL metacam |
-| 2025-04-18 | 7.5cc | 3:1 20/50 |  | .3mL metacam |
-| 1025-04-19 |  | 2:1 20/50 |  | .3mL metacam |
-| 2025-04-20 | 7.5cc |  |  | .3mL metacam |
-| 2025-04-21 | 8cc |  |  | .1mL metacam |
-| 2025-04-24 | 8cc | 2:1 20/50, electrastat | X3, x1.5 | .06mL Baytril |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-04-16 |  | 6cc | Electastat, 4:1 20/50 |  | All feedings he ate well<br>.25mL metacam |
+| 2025-04-17 |  | 6cc | 4:1 20/50 | 7:45, 12:00 | .25mL metacam |
+| 2025-04-18 |  | 7.5cc | 3:1 20/50 |  | .3mL metacam |
+| 1025-04-19 |  |  | 2:1 20/50 |  | .3mL metacam |
+| 2025-04-20 |  | 7.5cc |  |  | .3mL metacam |
+| 2025-04-21 |  | 8cc |  |  | .1mL metacam |
+| 2025-04-24 |  | 8cc | 2:1 20/50, electrastat | X3, x1.5 | .06mL Baytril |
 
 ## Medications
 

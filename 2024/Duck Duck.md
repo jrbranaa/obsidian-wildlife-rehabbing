@@ -32,12 +32,12 @@ Arrived from Lake Tahoe animal rescue due to a licensing issue.
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2024-11-09 | 7 cc | 32/40 | 1 |  |
-| 2024-11-10 | 7 cc | 32/40 | 1 |  |
-| 2024-11-11 | 7 cc | 32/40 | 1 |  |
-| 2025-11-12 | 7 cc | 32/40 | 1 |  |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2024-11-09 |  | 7 cc | 32/40 | 1 |  |
+| 2024-11-10 |  | 7 cc | 32/40 | 1 |  |
+| 2024-11-11 |  | 7 cc | 32/40 | 1 |  |
+| 2025-11-12 |  | 7 cc | 32/40 | 1 |  |
 
 ## Medications
 

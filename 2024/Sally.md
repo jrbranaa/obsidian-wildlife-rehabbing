@@ -34,12 +34,12 @@ other:
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2024-09-25 | 5cc | 20/50 2:1 |  |  |
-| 2024-09-28 | 6.5 | 20/50 2:1 |  |  |
-| 2024-09-30 | 7 |  |  |  |
-| 2024-10-01 |  |  |  | Last two feedings she had soft white poop (playdough) |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2024-09-25 |  | 5cc | 20/50 2:1 |  |  |
+| 2024-09-28 |  | 6.5 | 20/50 2:1 |  |  |
+| 2024-09-30 |  | 7 |  |  |  |
+| 2024-10-01 |  |  |  |  | Last two feedings she had soft white poop (playdough) |
 
 ## Medications
 

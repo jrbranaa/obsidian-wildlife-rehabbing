@@ -38,9 +38,9 @@ other:
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-07-25 |  |  |  | Eyes open |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-07-25 |  |  |  |  | Eyes open |
 
 ## Medications
 

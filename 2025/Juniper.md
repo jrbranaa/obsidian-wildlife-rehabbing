@@ -40,9 +40,9 @@ other:
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-04-24 | 10 | 20/50 | 2 |  |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-04-24 |  | 10 | 20/50 | 2 |  |
 
 ## Medications
 

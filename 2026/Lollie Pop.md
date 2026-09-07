@@ -52,12 +52,12 @@ Debbie noticed that his area around his anus was large and hard.  I pressed on i
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2026-03-09 | 7cc | Electrostat | 3 |  |
-| 2026-03-15 |  |  | 4 |  |
-| 2026-03-18 |  |  | 4 |  |
-| 2026-03-19 |  |  | 3 |  |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2026-03-09 |  | 7cc | Electrostat | 3 |  |
+| 2026-03-15 |  |  |  | 4 |  |
+| 2026-03-18 |  |  |  | 4 |  |
+| 2026-03-19 |  |  |  | 3 |  |
 
 ## Medications
 

@@ -46,14 +46,14 @@ During her feeding she was resistant, but did not attempt to bite or scratch.
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2024-08-29 |  | 5cc 32/40 x 5 |  |  |
-| 2024-08-30 |  | 5cc 32/40 x 5 |  |  |
-| 2024-09-01 |  | 6cc 20/50 x 4 |  |  |
-| 2024-09-07 |  | 7cc 20/50 x 4 |  |  |
-| 2024-09-08 |  | 9cc 20/50 x 4 |  |  |
-| 2024-09-19 |  | 14cc x 3 |  |  |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2024-08-29 |  |  | 5cc 32/40 x 5 |  |  |
+| 2024-08-30 |  |  | 5cc 32/40 x 5 |  |  |
+| 2024-09-01 |  |  | 6cc 20/50 x 4 |  |  |
+| 2024-09-07 |  |  | 7cc 20/50 x 4 |  |  |
+| 2024-09-08 |  |  | 9cc 20/50 x 4 |  |  |
+| 2024-09-19 |  |  | 14cc x 3 |  |  |
 
 ## Medications
 

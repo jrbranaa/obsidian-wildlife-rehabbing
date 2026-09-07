@@ -41,9 +41,9 @@ One thing worth noting was that when he was brought to Linda's, he was in a ligh
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-08-11 | 1cc | 4:1 32/40 | Every 2 hrs |  |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-08-11 |  | 1cc | 4:1 32/40 | Every 2 hrs |  |
 
 ## Medications
 

@@ -113,11 +113,11 @@ Gave her some electrostat ~ 20cc
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-06-11 |  | 20cc yogurt and/or apple sauce and/or Smoothie<br><br>10cc water<br><br>Plus solid foods | x 2 |  |
-| 2025-06-23 |  |  | x 3 |  |
-| 2025-06-26 |  | 30cc yogurt and/or apple sauce and/or Smoothie<br><br>10cc water<br><br>Plus solid foods | x 3 | Due to her setback she's not eating solids.  Increased amount of supplemental that I am feeding her<br><br>RIP:  Passed away at roughly 22:00. |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-06-11 |  |  | 20cc yogurt and/or apple sauce and/or Smoothie<br><br>10cc water<br><br>Plus solid foods | x 2 |  |
+| 2025-06-23 |  |  |  | x 3 |  |
+| 2025-06-26 |  |  | 30cc yogurt and/or apple sauce and/or Smoothie<br><br>10cc water<br><br>Plus solid foods | x 3 | Due to her setback she's not eating solids.  Increased amount of supplemental that I am feeding her<br><br>RIP:  Passed away at roughly 22:00. |
 
 ## Medications
 

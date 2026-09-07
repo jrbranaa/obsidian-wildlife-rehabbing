@@ -43,9 +43,9 @@ Minor visible wound on abdomen.  Hind quarter paralysis.
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2026-07-05 | 6cc | Electrostat | 2 | Gasping when feeding |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2026-07-05 |  | 6cc | Electrostat | 2 | Gasping when feeding |
 
 ## Medications
 

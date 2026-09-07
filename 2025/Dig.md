@@ -31,9 +31,9 @@ other:
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-08-10 | 2.5cc | 4:1 32/40 |  |  |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-08-10 |  | 2.5cc | 4:1 32/40 |  |  |
 
 ## Medications
 

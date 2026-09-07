@@ -38,11 +38,11 @@ Went in to feed her at 15:30 and she had passed.   RIP Cherry.
 
 ## Feeding
 
-| Date | Formula Qty | Formula | Feedings | Notes |
-| ---- | ----------- | ------- | -------- | ----- |
-| 2025-04-20 |  |  |  | Tried electrostat twice.  She did end up having some. |
-| 2025-04-19 | 9cc | 4:1 20/50 | 3 | Metacam |
-| 2025-04-21 | 9cc | 3:1 20/50 | 3 | RIP |
+| Date | Time | Formula Qty | Formula | Feedings | Notes |
+| ---- | ---- | ----------- | ------- | -------- | ----- |
+| 2025-04-20 |  |  |  |  | Tried electrostat twice.  She did end up having some. |
+| 2025-04-19 |  | 9cc | 4:1 20/50 | 3 | Metacam |
+| 2025-04-21 |  | 9cc | 3:1 20/50 | 3 | RIP |
 
 ## Medications
 
