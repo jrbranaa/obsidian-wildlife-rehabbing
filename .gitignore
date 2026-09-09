@@ -4,3 +4,19 @@
 
 # Patient notes (per-animal files in year folders) — Obsidian Sync handles these
 [0-9][0-9][0-9][0-9]/
+
+# Images — Obsidian Sync handles these
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.svg
+*.webp
+*.heic
+*.heif
+
+# Location notes — Obsidian Sync handles these
+Locations/
