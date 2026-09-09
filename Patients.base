@@ -17,6 +17,14 @@ properties:
     displayName: Release site
   note.transferred_to:
     displayName: Transferred to
+  note.transfer_in_date:
+    displayName: Transfer in
+  note.transfer_from:
+    displayName: Transferred from
+  note.transfer_out_date:
+    displayName: Transfer out
+  note.group:
+    displayName: Group
 views:
   - type: table
     name: In care
@@ -29,9 +37,24 @@ views:
       - sex
       - intake_date
       - intake_age
+      - group
     sort:
       - property: intake_date
         direction: DESC
+  - type: table
+    name: By group
+    filters:
+      and:
+        - disposition == "in care"
+        - group != null
+    order:
+      - group
+      - file.name
+      - species
+      - intake_age
+    sort:
+      - property: group
+        direction: ASC
   - type: table
     name: Released
     filters:
@@ -55,7 +78,10 @@ views:
       - file.name
       - species
       - intake_date
+      - transfer_from
+      - transfer_in_date
       - departure_date
+      - transfer_out_date
       - transferred_to
     sort:
       - property: departure_date

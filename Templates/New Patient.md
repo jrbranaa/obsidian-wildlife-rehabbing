@@ -23,6 +23,8 @@ sex: <% sex %>
 disposition: <% disposition %>
 intake_date: <% intake %>
 rescue_date: <% intake %>
+transfer_in_date:
+transfer_from:
 departure_date:
 release_date:
 intake_age: <% age %>
@@ -31,8 +33,10 @@ id:
 release_cage:
 release_site:
 transferred_to:
+transfer_out_date:
 siblings:
 cagemates:
+group:
 other:
 ---
 
