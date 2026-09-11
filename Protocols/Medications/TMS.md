@@ -10,9 +10,12 @@ source: SWR Squirrel Med Dosage Chart, May 2026
 ---
 
 > [!warning] Verify before use
-> From the SWR (May 2026) squirrel dosage chart. Confirm concentration, dose,
-> and course length with your supervising vet before relying on this —
-> especially before continuing past 3 days.
+> From the SWR (May 2026) squirrel dosage chart. Confirm concentration and
+> dose against the bottle on hand. Vet turnaround at this facility runs
+> 3–4 days, which isn't fast enough to gate routine treatment decisions on —
+> the "3 days then consult DVM" note below is kept as clinical information
+> (why 3 days, what to watch for) rather than a hard requirement to pause
+> and wait for a vet before continuing or adjusting the course.
 
 ## Use
 
@@ -27,8 +30,12 @@ or for general antibacterial cover.
 - **30 mg/kg**, PO, BID.
 - Formulation on this chart: **48 mg/mL** (pediatric suspension,
   200 mg sulfamethoxazole + 40 mg trimethoprim per 5 mL).
-- **BID for 3 days, then consult DVM** before continuing — this is not an
-  open-ended course.
+- **BID for 3 days** is the chart's built-in reassessment point — at 3 days,
+  judge the response yourself (stool character, appetite, weight, activity):
+  clearly improving → reasonable to continue; flat or worsening → switch
+  approach (different drug, or push harder on getting an actual diagnosis)
+  rather than extending TMS on faith. Get a vet opinion if and when timing
+  allows, but don't let its absence stall the decision.
 - Ensure the animal is well hydrated (sulfonamides risk crystalluria in a
   dehydrated patient).
 
