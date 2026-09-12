@@ -6,25 +6,16 @@ dose_mg_kg_low: 0.1
 dose_mg_kg_high: 1
 route: PO, SQ
 frequency: q12–24h
-source: SWR Squirrel Med Dosage Chart, May 2026; prior-formulary Squirrel Medication Dosage Chart (pre-2026); prior note used a lower general-reference range
+source: SWR Squirrel Med Dosage Chart, May 2026 — confirmed current by vet of record 2026-09-12; superseded prior-formulary chart and general reference kept below for historical context
 ---
 
-> [!warning] Three data points, three different ranges — please confirm which to use
-> - **This facility's own prior formulary chart** (pre-2026, now identified —
->   see below) gives **0.1 mg/kg (low) / 0.3 mg/kg (high)**, diluted 1:10 to
->   0.15 mg/mL.
-> - **The newer SWR (May 2026) chart** gives **1 mg/kg BID for 1–3 days** —
->   roughly **3–10× higher** than the prior formulary's own numbers.
-> - **A prior general wildlife-rehab reference** (not this facility's own
->   chart) had suggested 0.1–0.2 mg/kg — reasonably close to the old
->   in-house formulary, for what that's worth.
->
-> So the "old" 0.1–0.2 mg/kg range wasn't just a generic outside reference —
-> it's very close to what this facility's **own prior chart** actually used
-> (0.1/0.3 mg/kg). The newer chart's 1 mg/kg is a real, larger change from this
-> facility's own prior practice, not just a different outside source.
-> **Confirm which protocol your supervising vet wants followed** before dosing,
-> especially for a patient already dosed under the old range.
+> [!info] Resolved — vet of record has specified the 2026 dosages
+> The supervising vet has confirmed the **SWR May 2026 chart's 1 mg/kg**
+> protocol as current — **use that, not the older figures below.** The prior
+> formulary's 0.1/0.3 mg/kg protocol and the older general-reference range are
+> kept in this note **for historical context only** (e.g. to understand a dose
+> given to a patient under the old protocol before this was settled) — don't
+> dose a new patient from them.
 
 ## Use
 
@@ -32,9 +23,9 @@ Pain and inflammation — fractures, soft-tissue injury, post-trauma, and
 adjunct pain control alongside antibiotics (e.g. Cass's jaw injury,
 [[Head Injury]] cases).
 
-## Dosing — two protocols on file
+## Dosing — current protocol, plus superseded history
 
-### SWR chart (May 2026) — current default
+### SWR chart (May 2026) — current protocol, per vet of record
 
 - **1 mg/kg**, PO, **BID for 1–3 days**.
 - Standard-strength **1.5 mg/mL** for patients roughly **≥200 g**.
@@ -68,11 +59,12 @@ adjunct pain control alongside antibiotics (e.g. Cass's jaw injury,
 | 200 g  | 1.33 mL |
 | 300 g  | 2.00 mL |
 
-### This facility's own prior formulary (pre-2026 chart) — lower dose, now confirmed as an actual in-house protocol
+### Superseded — this facility's prior formulary (pre-2026 chart), historical only
 
 - **0.1 mg/kg (low) / 0.3 mg/kg (high)**, PO, SID, diluted to **0.15 mg/mL**
   (a 1:10 dilution of the 1.5 mg/mL standard strength) — for patients
-  **10-300g** per that chart's table.
+  **10-300g** per that chart's table. **No longer current — kept for
+  reference against doses given under this protocol before 2026-09-12.**
 
 | Weight | 0.1 mg/kg (low) | 0.3 mg/kg (high) |
 | ------ | ---------------- | ------------------ |
@@ -81,10 +73,11 @@ adjunct pain control alongside antibiotics (e.g. Cass's jaw injury,
 | 200 g  | 0.13 mL | 0.40 mL |
 | 300 g  | 0.20 mL | 0.60 mL |
 
-### Prior general-reference range (outside source, lower dose) — for context only
+### Superseded — prior general-reference range (outside source), historical only
 
 - **0.1–0.2 mg/kg**, PO or SQ, once daily, at standard 1.5 mg/mL strength —
   close to, but not identical to, this facility's own prior chart above.
+  **No longer current.**
 
 | Weight | 0.1 mg/kg | 0.2 mg/kg |
 | ------ | --------- | --------- |
@@ -98,11 +91,11 @@ adjunct pain control alongside antibiotics (e.g. Cass's jaw injury,
 - Do not combine with corticosteroids ([[Dexamethasone]]).
 - Avoid in dehydrated, hypothermic, or shocky patients until stabilized.
 - Avoid with known renal/GI compromise.
-- Given the two dose ranges on file differ substantially, **don't average
-  or split the difference** — pick one protocol deliberately, per your vet's
-  guidance, and note in the patient's file which one is being used.
 
 ## History
 
-Log each dose in the patient's **## Medications** table (drug = `Metacam`),
-and note which protocol/dose (SWR 1 mg/kg vs. prior 0.1–0.2 mg/kg) was used.
+Log each dose in the patient's **## Medications** table (drug = `Metacam`).
+**Current protocol is the SWR May 2026 chart (1 mg/kg)**, per vet of record as
+of 2026-09-12. If reviewing an older entry dosed at 0.1-0.3 mg/kg, that was
+under the since-superseded prior formulary — see above for context, not as an
+option to choose from going forward.
