@@ -1,6 +1,7 @@
 ---
 drug: Panacur (fenbendazole)
 drug_class: antiparasitic (dewormer)
+on_hand: false
 concentration_mg_ml: 100
 dose_mg_kg_low: 20
 dose_mg_kg_high: 20

@@ -1,6 +1,7 @@
 ---
 drug: Albon (sulfadimethoxine)
 drug_class: sulfonamide antibiotic / antiparasitic
+on_hand: false
 concentration_mg_ml: 50
 dose_mg_kg_low: 15
 dose_mg_kg_high: 15

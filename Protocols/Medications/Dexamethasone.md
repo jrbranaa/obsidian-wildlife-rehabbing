@@ -1,6 +1,7 @@
 ---
 drug: Dexamethasone
 drug_class: corticosteroid (anti-inflammatory)
+on_hand: true
 concentration_mg_ml: 2
 dose_mg_kg_low: 0.5
 dose_mg_kg_high: 2

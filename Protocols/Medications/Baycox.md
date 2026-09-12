@@ -1,6 +1,7 @@
 ---
 drug: Baycox (toltrazuril)
 drug_class: antiprotozoal (anticoccidial)
+on_hand: false
 concentration_mg_ml: 25
 dose_mg_kg_low: 7
 dose_mg_kg_high: 7

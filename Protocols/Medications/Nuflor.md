@@ -1,6 +1,7 @@
 ---
 drug: Nuflor (florfenicol)
 drug_class: antibiotic (respiratory)
+on_hand: false
 concentration_mg_ml: 300
 dose_mg_kg_low: 150
 dose_mg_kg_high: 150

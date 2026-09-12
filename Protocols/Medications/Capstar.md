@@ -1,6 +1,7 @@
 ---
 drug: Capstar (nitenpyram)
 drug_class: antiparasitic (flea)
+on_hand: false
 concentration_mg_ml: 50
 dose_mg_kg_low: 20
 dose_mg_kg_high: 20

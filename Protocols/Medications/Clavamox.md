@@ -1,6 +1,7 @@
 ---
 drug: Clavamox (amoxicillin-clavulanate)
 drug_class: beta-lactam antibiotic (potentiated penicillin)
+on_hand: true
 concentration_mg_ml: unconfirmed — see warning
 dose_mg_kg_low: 5.5
 dose_mg_kg_high:

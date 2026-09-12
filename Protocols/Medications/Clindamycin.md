@@ -1,6 +1,7 @@
 ---
 drug: Clindamycin (Clindacure)
 drug_class: lincosamide antibiotic
+on_hand: false
 concentration_mg_ml: 25
 dose_mg_kg_low: 11
 dose_mg_kg_high:

@@ -1,6 +1,7 @@
 ---
 drug: Nystatin
 drug_class: antifungal
+on_hand: false
 concentration_mg_ml: 100000 IU/mL
 dose_mg_kg_low: 100000
 dose_mg_kg_high: 100000

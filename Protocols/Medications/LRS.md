@@ -1,6 +1,7 @@
 ---
 drug: Lactated Ringer's Solution (LRS)
 drug_class: isotonic crystalloid fluid
+on_hand: false
 concentration_mg_ml:
 dose_mg_kg_low:
 dose_mg_kg_high:

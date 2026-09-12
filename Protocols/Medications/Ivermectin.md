@@ -1,6 +1,7 @@
 ---
 drug: Ivermectin
 drug_class: antiparasitic (broad-spectrum)
+on_hand: true
 concentration_mg_ml:
 dose_mg_kg_low:
 dose_mg_kg_high:

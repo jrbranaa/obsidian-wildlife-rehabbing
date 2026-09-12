@@ -1,6 +1,7 @@
 ---
 drug: Silvadene (silver sulfadiazine 1%)
 drug_class: topical antimicrobial
+on_hand: true
 concentration_mg_ml:
 dose_mg_kg_low:
 dose_mg_kg_high:

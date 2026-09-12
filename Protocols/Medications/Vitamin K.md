@@ -1,6 +1,7 @@
 ---
 drug: Vitamin K1 (phytonadione)
 drug_class: vitamin / coagulation factor support
+on_hand: false
 concentration_mg_ml: 12.5
 dose_mg_kg_low: 2.5
 dose_mg_kg_high: 2.5

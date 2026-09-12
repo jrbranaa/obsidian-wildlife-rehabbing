@@ -1,6 +1,7 @@
 ---
 drug: Strongid (pyrantel pamoate)
 drug_class: antiparasitic (dewormer)
+on_hand: false
 concentration_mg_ml:
 dose_mg_kg_low:
 dose_mg_kg_high:

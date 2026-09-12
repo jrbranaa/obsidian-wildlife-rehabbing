@@ -1,6 +1,7 @@
 ---
 drug: Baytril (enrofloxacin)
 drug_class: fluoroquinolone antibiotic
+on_hand: true
 concentration_mg_ml: 22.7
 dose_mg_kg_low: 5
 dose_mg_kg_high: 10

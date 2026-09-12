@@ -1,6 +1,7 @@
 ---
 drug: TMS (sulfamethoxazole/trimethoprim)
 drug_class: potentiated sulfonamide antibiotic
+on_hand: true
 concentration_mg_ml: 48
 dose_mg_kg_low: 30
 dose_mg_kg_high: 30

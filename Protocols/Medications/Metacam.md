@@ -1,6 +1,7 @@
 ---
 drug: Metacam (meloxicam)
 drug_class: NSAID (analgesic / anti-inflammatory)
+on_hand: true
 concentration_mg_ml: 1.5
 dose_mg_kg_low: 0.1
 dose_mg_kg_high: 1

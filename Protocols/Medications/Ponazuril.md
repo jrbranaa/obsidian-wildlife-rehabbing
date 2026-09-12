@@ -1,6 +1,7 @@
 ---
 drug: Ponazuril
 drug_class: antiprotozoal (anticoccidial)
+on_hand: false
 concentration_mg_ml:
 dose_mg_kg_low:
 dose_mg_kg_high:
