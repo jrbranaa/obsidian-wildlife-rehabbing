@@ -1,5 +1,5 @@
 ---
-source: Squirrel Feeding Schedule, February 2017 (PDF filed as "FEEDING_SCHEDULE_2019", dated internally Feb 2017)
+source: Squirrel Feeding Schedule, February 2017 (PDF filed as "FEEDING_SCHEDULE_2019", dated internally Feb 2017); rehydration ramp-up per Sierra Wildlife Rescue Squirrel Manual (2025)
 applies_to: Western Gray, Eastern Fox, and California Ground Squirrel (see note on other species below)
 ---
 
@@ -57,6 +57,31 @@ hard rule; adjust to stool/weight trend per the notes below.
 - This is a useful first check whenever a patient's stool goes soft/off-color before
   jumping straight to an infectious/parasitic differential — rule the simple
   volume/concentration explanation in or out first.
+
+## Rehydration → full formula ramp-up (per [[Intake Procedure]])
+
+After the initial fluids-only period, formula is introduced **gradually more
+concentrated** rather than at full strength immediately — pick the schedule
+based on how dehydrated/compromised the squirrel is. **If in doubt, use the
+Conservative schedule.**
+
+### Accelerated (mild dehydration, hydrating quickly, decent condition)
+
+| Stage | Formula |
+| --- | --- |
+| First 6-12h | LRS or Electrostat only, every 2.5-3h |
+| Second 6-12h + first week, first 2 feedings | 4 parts bottled water (or Electrostat) : 1 part Fox Valley + LA 200/L-Glutamine |
+| Next several feedings | 3 parts water (or Electrostat) : 1 part formula + supplements |
+| Second week, or once over 60g | Full 2:1 ratio + supplements |
+
+### Conservative (moderate-severe dehydration, possibly emaciated)
+
+| Stage | Formula |
+| --- | --- |
+| First 12-24h | LRS or Electrostat (oral or SubQ if needed) every 2.5-3h; if doing well, shift to 4:1 water:powder during the last 12h |
+| Second 2 days | 3.5 parts water (or Electrostat) : 1 part formula + supplements |
+| Rest of first week (if well-hydrated) | 3 parts water : 1 part formula + supplements |
+| After first week | Full 2:1 ratio + supplements — hold this ratio for the duration of formula feeding, including through weaning |
 
 ## Scheduling rules
 

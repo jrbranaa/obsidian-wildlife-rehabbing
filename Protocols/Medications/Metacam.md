@@ -6,16 +6,25 @@ dose_mg_kg_low: 0.1
 dose_mg_kg_high: 1
 route: PO, SQ
 frequency: q12–24h
-source: SWR Squirrel Med Dosage Chart, May 2026 (updated); prior note used a lower general-reference range
+source: SWR Squirrel Med Dosage Chart, May 2026; prior-formulary Squirrel Medication Dosage Chart (pre-2026); prior note used a lower general-reference range
 ---
 
-> [!warning] Verify before use — dose range updated, please confirm
-> This note previously listed **0.1–0.2 mg/kg**. The SWR (May 2026) chart
-> gives **1 mg/kg BID for 1–3 days** at the same 1.5 mg/mL concentration —
-> roughly **5–10× higher** than the old range. Both are used in different
-> wildlife-rehab formularies; **confirm which protocol your supervising vet
-> wants followed** before dosing, especially for a patient already on a dose
-> from the old range.
+> [!warning] Three data points, three different ranges — please confirm which to use
+> - **This facility's own prior formulary chart** (pre-2026, now identified —
+>   see below) gives **0.1 mg/kg (low) / 0.3 mg/kg (high)**, diluted 1:10 to
+>   0.15 mg/mL.
+> - **The newer SWR (May 2026) chart** gives **1 mg/kg BID for 1–3 days** —
+>   roughly **3–10× higher** than the prior formulary's own numbers.
+> - **A prior general wildlife-rehab reference** (not this facility's own
+>   chart) had suggested 0.1–0.2 mg/kg — reasonably close to the old
+>   in-house formulary, for what that's worth.
+>
+> So the "old" 0.1–0.2 mg/kg range wasn't just a generic outside reference —
+> it's very close to what this facility's **own prior chart** actually used
+> (0.1/0.3 mg/kg). The newer chart's 1 mg/kg is a real, larger change from this
+> facility's own prior practice, not just a different outside source.
+> **Confirm which protocol your supervising vet wants followed** before dosing,
+> especially for a patient already dosed under the old range.
 
 ## Use
 
@@ -59,9 +68,23 @@ adjunct pain control alongside antibiotics (e.g. Cass's jaw injury,
 | 200 g  | 1.33 mL |
 | 300 g  | 2.00 mL |
 
-### Prior general-reference range (lower dose) — superseded pending vet confirmation
+### This facility's own prior formulary (pre-2026 chart) — lower dose, now confirmed as an actual in-house protocol
 
-- **0.1–0.2 mg/kg**, PO or SQ, once daily, at standard 1.5 mg/mL strength.
+- **0.1 mg/kg (low) / 0.3 mg/kg (high)**, PO, SID, diluted to **0.15 mg/mL**
+  (a 1:10 dilution of the 1.5 mg/mL standard strength) — for patients
+  **10-300g** per that chart's table.
+
+| Weight | 0.1 mg/kg (low) | 0.3 mg/kg (high) |
+| ------ | ---------------- | ------------------ |
+| 50 g   | 0.03 mL | 0.10 mL |
+| 100 g  | 0.07 mL | 0.20 mL |
+| 200 g  | 0.13 mL | 0.40 mL |
+| 300 g  | 0.20 mL | 0.60 mL |
+
+### Prior general-reference range (outside source, lower dose) — for context only
+
+- **0.1–0.2 mg/kg**, PO or SQ, once daily, at standard 1.5 mg/mL strength —
+  close to, but not identical to, this facility's own prior chart above.
 
 | Weight | 0.1 mg/kg | 0.2 mg/kg |
 | ------ | --------- | --------- |

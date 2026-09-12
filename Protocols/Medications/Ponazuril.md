@@ -18,6 +18,12 @@ source: SWR Squirrel Med Dosage Chart, May 2026 (incomplete in source)
 > **Do not calculate a dose from the "100" figure** — get the actual
 > protocol (dose in mg/kg, concentration, route, frequency, course length)
 > from your supervising vet or SWR directly before using this drug.
+>
+> **You don't need to wait on this one, though** — this facility's prior
+> formulary chart has two other coccidiostats with real, complete dosing:
+> [[Baycox]] (toltrazuril, 7 mg/kg SID 3-5 days) and [[Albon]]
+> (sulfadimethoxine, 15 mg/kg BID up to 21 days). Use one of those instead of
+> chasing down Ponazuril specifics.
 
 ## Use
 
