@@ -1,7 +1,7 @@
 ---
 drug: Flagyl (metronidazole)
 drug_class: antibacterial/antifungal
-on_hand: false
+on_hand: true
 concentration_mg_ml: 50
 dose_mg_kg_low:
 dose_mg_kg_high:

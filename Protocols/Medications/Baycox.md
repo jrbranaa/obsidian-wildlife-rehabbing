@@ -1,8 +1,7 @@
 ---
 drug: Baycox (toltrazuril)
 drug_class: antiprotozoal (anticoccidial)
-on_hand: false
-on_hand_pending: "5% toltrazuril, ordered 2026-09-12, arriving same night"
+on_hand: true
 concentration_mg_ml: 25
 dose_mg_kg_low: 7
 dose_mg_kg_high: 7
@@ -18,17 +17,16 @@ source: Squirrel Medication Dosage Chart (prior formulary, pre-2026 SWR chart); 
 > over Ponazuril or [[TMS]] when coccidiosis is suspected and a real
 > coccidiostat is needed.
 
-> [!warning] Incoming product is 5% (50 mg/mL), not the chart's 25 mg/mL — dilute before dosing
-> The operator ordered a generic **5% toltrazuril** product (labeled for
+> [!warning] On hand now — this is a 5% (50 mg/mL) product, not the chart's 25 mg/mL — dilute before dosing
+> The operator's actual product is a generic **5% toltrazuril** (labeled for
 > horses/dogs/cats, non-food-chain animals) — same active drug as Baycox,
-> **twice the concentration** this note's dosing table assumes. At squirrel
-> weights, 7 mg/kg at 50 mg/mL gives volumes too small to draw accurately
-> (e.g. ~0.011 mL for an 80g patient).
+> **twice the concentration** this note's original dosing table assumed. At
+> squirrel weights, 7 mg/kg at 50 mg/mL gives volumes too small to draw
+> accurately (e.g. ~0.011 mL for an 80g patient).
 >
-> **Once it arrives: dilute 1:10** (1 part toltrazuril + 9 parts water) to get
-> to **5 mg/mL** — then use the **diluted table below**, not the 25 mg/mL
-> table (which assumes a different product entirely). Update `on_hand: true`
-> and remove `on_hand_pending` once it's actually in hand.
+> **Dilute 1:10** (1 part toltrazuril + 9 parts water) to get to **5 mg/mL**
+> — then use the **diluted table below**, not the 25 mg/mL table (which
+> assumes a different product entirely).
 
 ## Use
 
