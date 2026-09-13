@@ -1,7 +1,7 @@
 ---
 drug: BeneBac (or Probiacin)
 drug_class: probiotic
-on_hand: false
+on_hand: true
 concentration_mg_ml:
 dose_mg_kg_low:
 dose_mg_kg_high:
@@ -10,10 +10,13 @@ frequency: at least once daily while on any antibiotic
 source: Squirrel Medication Dosage Chart (prior formulary, pre-2026 SWR chart); Squirrel Manual (2025)
 ---
 
-> [!warning] Not currently on hand — worth acquiring
-> Four patients have antibiotic courses running right now ([[Cass]], [[Abby]],
-> [[OB]], [[Clarice]]), and this is the formulary's standard companion to
-> every one of them. Worth getting if there's a way to.
+> [!info] On hand — start using it with every active antibiotic course
+> [[Cass]], [[Abby]], and [[Clarice]] all have antibiotic courses running
+> right now. Particularly relevant to [[OB]]: antibiotic-associated GI upset
+> (from [[TMS]], now discontinued) was raised as a live concern in his
+> 2026-09-12 (~21:30) setback note — start BeneBac alongside whatever he's on
+> going forward, and it's worth backfilling for the others too rather than
+> waiting for a new course to start.
 
 ## Use
 
